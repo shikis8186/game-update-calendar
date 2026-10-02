@@ -1,0 +1,92 @@
+name: カレンダーの更新
+
+on:
+  schedule:
+    # 3 時間ごとに実行（時刻は UTC）。毎日の更新に加えて、配信の検知が遅れないようにするため。
+    # 1 日 1 回にしたい場合は "17 21 * * *"（日本時間 6:17）に変えてください。
+    # ※ GitHub の混雑状況により、数分〜数十分遅れて実行されることがあります。
+    - cron: "17 */3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - "collector/**"
+      - "config/**"
+      - "tests/**"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: SteamCMD（Valve 公式ツール）を準備
+        id: steamcmd
+        continue-on-error: true
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq lib32gcc-s1
+          mkdir -p "$HOME/steamcmd"
+          curl -sSL https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz | tar -xz -C "$HOME/steamcmd"
+          "$HOME/steamcmd/steamcmd.sh" +quit || true
+
+      - name: テスト（判定ロジックの確認）
+        run: python -m unittest discover -s tests -t .
+
+      - name: 情報を収集
+        run: |
+          if [ "${{ steps.steamcmd.outcome }}" = "success" ]; then
+            python -m collector --steamcmd "$HOME/steamcmd/steamcmd.sh"
+          else
+            echo "SteamCMD が使えないため、Web API でビルド情報を取得します"
+            python -m collector
+          fi
+
+      - name: データを保存
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data state
+          if git diff --cached --quiet; then
+            echo "変更はありません"
+            exit 0
+          fi
+          # 取得時刻だけが変わった場合は、保存（コミット）を 20 時間に 1 回に抑える
+          last=$(git log -1 --format=%ct -- state/state.json 2>/dev/null || echo 0)
+          if git diff --cached --quiet -I'"(generated_at|last_success|checked_at|last_seen)"' \
+             && [ $(( $(date +%s) - ${last:-0} )) -lt 72000 ]; then
+            echo "取得時刻の更新のみのため、保存は省略します（ページは最新の状態で公開されます）"
+            git reset -q
+            exit 0
+          fi
+          git commit -q -m "カレンダーのデータを更新"
+          git pull -q --rebase origin "${GITHUB_REF_NAME}"
+          git push -q origin "HEAD:${GITHUB_REF_NAME}"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

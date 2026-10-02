@@ -1,0 +1,151 @@
+{
+ "steam": {
+  "3576070": {
+   "history": [
+    {
+     "buildid": 25644663,
+     "timeupdated": 1790831034,
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ],
+   "checked_at": "2026-10-02T20:38+09:00",
+   "origin": "api.steamcmd.net"
+  },
+  "2357570": {
+   "history": [
+    {
+     "buildid": 25234251,
+     "timeupdated": 1790099993,
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ],
+   "checked_at": "2026-10-02T20:38+09:00",
+   "origin": "api.steamcmd.net"
+  },
+  "1778820": {
+   "history": [
+    {
+     "buildid": 25221600,
+     "timeupdated": 1789005602,
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ],
+   "checked_at": "2026-10-02T20:38+09:00",
+   "origin": "api.steamcmd.net"
+  },
+  "1364780": {
+   "history": [
+    {
+     "buildid": 24176760,
+     "timeupdated": 1785726035,
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ],
+   "checked_at": "2026-10-02T20:38+09:00",
+   "origin": "api.steamcmd.net"
+  },
+  "570": {
+   "history": [
+    {
+     "buildid": 25664722,
+     "timeupdated": 1790896687,
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ],
+   "checked_at": "2026-10-02T20:38+09:00",
+   "origin": "api.steamcmd.net"
+  },
+  "2584990": {
+   "history": [
+    {
+     "buildid": 25618210,
+     "timeupdated": 1790908532,
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ],
+   "checked_at": "2026-10-02T20:38+09:00",
+   "origin": "api.steamcmd.net"
+  },
+  "4162040": {
+   "history": [
+    {
+     "buildid": 24927009,
+     "timeupdated": 1788905163,
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ],
+   "checked_at": "2026-10-02T20:38+09:00",
+   "origin": "api.steamcmd.net"
+  }
+ },
+ "hoyoverse": {
+  "gopR6Cufr3": {
+   "history": [
+    {
+     "tag": "7.1.0",
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ]
+  },
+  "4ziysqXOQ8": {
+   "history": [
+    {
+     "tag": "4.6.0",
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ]
+  },
+  "U5hbdsT9W7": {
+   "history": [
+    {
+     "tag": "3.2.0",
+     "first_seen": "2026-10-02T20:27+09:00"
+    }
+   ]
+  }
+ },
+ "source_status": {
+  "steambuild": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "steam:3576070": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "steam:2357570": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "steam:1778820": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "steam:1364780": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "steam:570": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "steam:2584990": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "steam:4162040": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "hoyoplay": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "hoyoverse:gopR6Cufr3": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "hoyoverse:4ziysqXOQ8": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "hoyoverse:U5hbdsT9W7": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "lol": {
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  "nikke": {
+   "last_success": "2026-10-02T20:38+09:00"
+  }
+ }
+}

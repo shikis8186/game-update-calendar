@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ゲーム更新カレンダー</title>
+<meta name="description" content="各ゲームのアップデート・メンテナンス・事前ダウンロードの予定を毎日自動で集めたカレンダー">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23185FA5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='4' y='5' width='16' height='16' rx='2'/%3E%3Cpath d='M16 3v4M8 3v4M4 11h16'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.31.0/dist/tabler-icons.min.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<main id="root">
+  <header class="top">
+    <div class="month">
+      <button id="prev" class="icon-btn" aria-label="前の月"><i class="ti ti-chevron-left" aria-hidden="true"></i></button>
+      <h1 id="month-label">読み込み中</h1>
+      <button id="next" class="icon-btn" aria-label="次の月"><i class="ti ti-chevron-right" aria-hidden="true"></i></button>
+      <button id="today" class="small-btn">今月</button>
+    </div>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="表示形式">
+        <button id="v-cal"><i class="ti ti-calendar-month" aria-hidden="true"></i> カレンダー</button>
+        <button id="v-list"><i class="ti ti-list" aria-hidden="true"></i> 一覧</button>
+      </div>
+      <div class="seg" role="group" aria-label="表示する予定">
+        <button id="f-dl"><i class="ti ti-download" aria-hidden="true"></i> DLありのみ</button>
+        <button id="f-all">すべて</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="legend">
+    <span><i class="ti ti-star" aria-hidden="true"></i> 大型アップデート</span>
+    <span><i class="ti ti-tool" aria-hidden="true"></i> パッチ・クライアント更新</span>
+    <span><i class="ti ti-settings" aria-hidden="true"></i> メンテナンス</span>
+    <span><i class="ti ti-confetti" aria-hidden="true"></i> イベント</span>
+    <span><i class="ti ti-news" aria-hidden="true"></i> お知らせ</span>
+    <span class="sw"><span class="swatch solid"></span> 確定</span>
+    <span class="sw"><span class="swatch outline"></span> 予定・見込み（未確定）</span>
+    <span class="sw"><span class="swatch dashed"></span> 事前ダウンロード期間</span>
+  </div>
+
+  <div id="chips" class="chips"></div>
+  <div id="view" class="view" aria-live="polite"></div>
+  <section id="detail" class="detail" aria-live="polite">予定をクリックすると、内容・ダウンロードの有無・判定根拠・公式の情報源が表示されます。</section>
+
+  <details class="status">
+    <summary><i class="ti ti-info-circle" aria-hidden="true"></i> データの取得状況と注意事項</summary>
+    <div id="sources"></div>
+    <ul class="notes">
+      <li>時刻はすべて日本時間です（LoL のみ、Riot 公式の予定日＝米国太平洋時間の日付）。</li>
+      <li>「確定」は、実際の配信データ（Steam のビルド更新、公式ランチャーの配信バージョン、公式の配信済みデータ）や公式告知の「実施済み」の記載で確認できたものです。</li>
+      <li>「予定」は公式の告知にもとづく予定、「見込み」は告知の種類から推定したもので、配信後に自動で確定に変わります。</li>
+      <li>情報の取得に失敗した場合は、前回取得したデータをそのまま表示し、上の一覧に「取得失敗」と表示します。</li>
+    </ul>
+  </details>
+  <footer id="foot" class="foot"></footer>
+</main>
+<script src="assets/app.js"></script>
+</body>
+</html>

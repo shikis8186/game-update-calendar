@@ -1,0 +1,3220 @@
+{
+ "generated_at": "2026-10-02T20:38+09:00",
+ "games": [
+  {
+   "id": "SAZP",
+   "name": "Sudden Attack ZP",
+   "color": "#5F5E5A",
+   "text_color": "#FFFFFF"
+  },
+  {
+   "id": "OW",
+   "name": "OVERWATCH",
+   "color": "#EF9F27",
+   "text_color": "#412402"
+  },
+  {
+   "id": "T8",
+   "name": "鉄拳8",
+   "color": "#A32D2D",
+   "text_color": "#FFFFFF"
+  },
+  {
+   "id": "SF6",
+   "name": "SF6",
+   "color": "#185FA5",
+   "text_color": "#FFFFFF"
+  },
+  {
+   "id": "DOTA",
+   "name": "Dota 2",
+   "color": "#712B13",
+   "text_color": "#FFFFFF"
+  },
+  {
+   "id": "LOL",
+   "name": "LoL",
+   "color": "#0F6E56",
+   "text_color": "#FFFFFF"
+  },
+  {
+   "id": "SVWB",
+   "name": "Shadowverse WB",
+   "color": "#534AB7",
+   "text_color": "#FFFFFF"
+  },
+  {
+   "id": "GI",
+   "name": "原神",
+   "color": "#3B6D11",
+   "text_color": "#FFFFFF"
+  },
+  {
+   "id": "HSR",
+   "name": "スターレイル",
+   "color": "#85B7EB",
+   "text_color": "#042C53"
+  },
+  {
+   "id": "ZZZ",
+   "name": "ゼンゼロ",
+   "color": "#97C459",
+   "text_color": "#173404"
+  },
+  {
+   "id": "NIKKE",
+   "name": "NIKKE",
+   "color": "#993556",
+   "text_color": "#FFFFFF"
+  }
+ ],
+ "items": [
+  {
+   "id": "steam-1364780-520870654839358918",
+   "game": "SF6",
+   "kind": "event",
+   "title": "自動実況機能に「ハイタニ」追加！ ファイティングパス「Get Ready for イングリッド！」配信中！",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: シーズン開始）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「自動実況機能に「ハイタニ」追加！ ファイティングパス「Get Ready fo…」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/520870654839358918"
+    }
+   ],
+   "source_key": "steam:1364780",
+   "start": "2026-05-07T20:01+09:00",
+   "end": "2026-06-11T16:00+09:00",
+   "excerpt": "自動実況機能にReject所属ストリーマー「ハイタニ」が追加！ ”先生”と呼ばれることもある彼ならではの解説をしてくれるぞ！ バトルハブの「Vライバル」では大会経験も豊富な「ハイタニ」に挑戦できるイベントも開催中だ。 イングリッドをテーマにしたファイティングパス「Get Rea…"
+  },
+  {
+   "id": "steam-4162040-716781043545276855",
+   "game": "ZZZ",
+   "kind": "event",
+   "title": "Version 3.0 \"A Sleepwalker's Confession\" Special Program Announcement",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: 配信）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Version 3.0 \"A Sleepwalker's Confession…」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/716781043545276855"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-06-04T20:05+09:00",
+   "end": "2026-06-07T08:30+09:00",
+   "excerpt": "Dear Proxies,The Zenless Zone Zero Version 3.0 \"A Sleepwalker's Confession\" Special Program will officially air on June 6 at 19:30 (UTC+8)!…"
+  },
+  {
+   "id": "steam-2357570-694261777025729930",
+   "game": "OW",
+   "kind": "news",
+   "title": "ジャンクラットのトレジャー・ハント",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ジャンクラットのトレジャー・ハント」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/694261777025729930"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-06-05T03:00+09:00",
+   "excerpt": "ジャンクラットのトレジャー・ハントトレジャー・ボックスを最大9個入手可能 - 好きな時間にマッチを重ねれば重ねるほどボックスが手に入る「ジャンクラットのトレジャー・ハント」の新弾を配信します！6月6～9日までの期間限定です。"
+  },
+  {
+   "id": "steam-570-672870947178414450",
+   "game": "DOTA",
+   "kind": "patch",
+   "title": "7.41d ゲームプレイパッチ",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: パッチノート）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「7.41d ゲームプレイパッチ」",
+     "url": "https://store.steampowered.com/news/app/570/view/672870947178414450"
+    }
+   ],
+   "source_key": "steam:570",
+   "start": "2026-06-05T09:45+09:00",
+   "excerpt": "パッチ7.41dが利用可能になりました。パッチノートはこちらでご確認ください。 さらに、以下の問題にも対処しています： グリービルが装備効果を発生させない問題を修正 アースシェイカーのアルカナ「プラネットフォール」が、コンボとコンボダメージを正しく追跡しない問題を修正 「右マウ…"
+  },
+  {
+   "id": "steam-1364780-697640745127904438",
+   "game": "SF6",
+   "kind": "major",
+   "title": "Year 4に「ファイナルファンタジーVII リメイクシリーズ」から「ティファ」が参戦！ 新キャラクター「ヤスミン」、「アルジュン」、「ボシュ」も闘いに加わる!",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Year 4に「ファイナルファンタジーVII リメイクシリーズ」から「ティファ…」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/697640745127904438"
+    }
+   ],
+   "source_key": "steam:1364780",
+   "start": "2026-06-06T10:06+09:00",
+   "excerpt": "『ストリートファイター6』 Year 4に登場するキャラクターラインナップがついに発表！ 今回はなんと「ファイナルファンタジーVII リメイクシリーズ」から「ティファ」がゲストキャラクターとして「ストリートファイター」シリーズへ参戦を果たす！ そして、シリーズ初登場の新キャラク…"
+  },
+  {
+   "id": "lol-26-12",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "リーグ・オブ・レジェンド パッチノート 26.12",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.12 は 2026/06/10（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要",
+    "Riot 公式データ（Data Dragon）でバージョン 16.12 の配信を確認"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    },
+    {
+     "label": "パッチノート（リーグ・オブ・レジェンド パッチノート 26.12）",
+     "url": "https://www.leagueoflegends.com/ja-jp/news/game-updates/league-of-legends-patch-26-12-notes"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-06-10",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "steam-2357570-694261777025729028",
+   "game": "OW",
+   "kind": "news",
+   "title": "End of the Line | Shion Hero Trailer | Overwatch",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「End of the Line | Shion Hero Trailer | …」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/694261777025729028"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-06-10T04:24+09:00",
+   "excerpt": "Shion Hero TrailerTime to find out who the streets of Tokyo really belong to. Join Shion, our newest Hero and the Hashimoto Clan's most ter…"
+  },
+  {
+   "id": "nikke-cac59a0cad1e2a4b71abf34a06361675676e",
+   "game": "NIKKE",
+   "kind": "patch",
+   "title": "6月11日のアップデートについて（6月11日更新）",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ（2026/06/08 掲載）",
+    "公式告知に「ゲームクライアントがアップデートされる」旨の記載あり",
+    "公式告知でメンテナンス終了（実施済み）を確認"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「6月11日のアップデートについて（6月11日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=cac59a0cad1e2a4b71abf34a06361675676e"
+    },
+    {
+     "label": "NIKKE 公式サイト「6月11日のアップデートによる改善事項」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=805fcfe2ae93ea4d68ab9bda1114082a92bf"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-06-11",
+   "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
+  },
+  {
+   "id": "nikke-540c412bab4cda40b6aa3a9a04a332576f53",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "センチの宝ものスキルに関するご案内（6月11日修正）",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「センチの宝ものスキルに関するご案内（6月11日修正）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=540c412bab4cda40b6aa3a9a04a332576f53"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-06-11T13:05+09:00"
+  },
+  {
+   "id": "steam-1364780-697640745127905202",
+   "game": "SF6",
+   "kind": "news",
+   "title": "🎊全世界累計販売本数700万本を突破！",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「🎊全世界累計販売本数700万本を突破！」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/697640745127905202"
+    }
+   ],
+   "source_key": "steam:1364780",
+   "start": "2026-06-11T15:36+09:00",
+   "excerpt": "🎊全世界販売700万本突破🎊 スト6 の販売本数が全世界で700万本を突破しました✨ 皆様のおかげです。本当にありがとうございます🙏 3周年を迎えたばかりですが、Year4も鋭意制作中ですので 今後も楽しんでいただけると嬉しいです。 引き続きスト6をよろしくお願いいたします🤟"
+  },
+  {
+   "id": "nikke-462209b7ab63fa449ba87e0a22c151762a91",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "6月11日既知の問題について（7月2日更新）",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「6月11日既知の問題について（7月2日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=462209b7ab63fa449ba87e0a22c151762a91"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-06-11T21:02+09:00"
+  },
+  {
+   "id": "steam-4162040-704396868946232791",
+   "game": "ZZZ",
+   "kind": "news",
+   "title": "『ゼンレスゾーンゼロ』Steam版、6月17日にリリース",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「『ゼンレスゾーンゼロ』Steam版、6月17日にリリース」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/704396868946232791"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-06-16T11:30+09:00",
+   "excerpt": "『ゼンレスゾーンゼロ』は6月17日、Steamプラットフォームにて正式にリリースされます。 Steam版『ゼンレスゾーンゼロ』プリロード開始 https://hoyo.link/qqMvGg8Me Steam版は既存のモバイル端末、PC、PlayStation®5、XBOXなど…"
+  },
+  {
+   "id": "nikke-0f05a121a90aba4086a8f50a7b3d2d6507ac",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "2026年06月デベロッパー・ノート",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「2026年06月デベロッパー・ノート」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=0f05a121a90aba4086a8f50a7b3d2d6507ac"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-06-16T14:59+09:00"
+  },
+  {
+   "id": "steam-2357570-685256480243320068",
+   "game": "OW",
+   "kind": "event",
+   "title": "Season 3: Into the Tiger's Den Livestream | Overwatch Breakdown",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: 配信）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Season 3: Into the Tiger's Den Livestre…」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/685256480243320068"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-06-17T02:00+09:00",
+   "end": "2026-06-17T03:30+09:00",
+   "excerpt": "Get an even closer look Into the Tiger’s Den during our next Developer Livestream! Be sure to submit your Season 3 questions for a chance t…"
+  },
+  {
+   "id": "steam-2357570-696514211055930220",
+   "game": "OW",
+   "kind": "major",
+   "title": "Overwatch Reign of Talon - Season 3: Into the Tiger's Den Now Live!",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: 大型アップデート）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Overwatch Reign of Talon - Season 3: In…」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/696514211055930220"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-06-17T03:05+09:00",
+   "excerpt": "Are you ready to step Into the Tiger’s Den? A new chapter in the Reign of Talon starts here with the arrival of our newest Damage Hero, Shi…"
+  },
+  {
+   "id": "steam-2357570-694261777025729030",
+   "game": "OW",
+   "kind": "event",
+   "title": "Anima Strike Meta Event",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ゲーム内イベント）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Anima Strike Meta Event」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/694261777025729030"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-06-17T03:10+09:00",
+   "end": "2026-07-08T03:00+09:00",
+   "excerpt": "Anima Strike Meta EventAnima Strike is a three-week event that unfolds as you fight your way through the new Tokyo map, where Shion reigns …"
+  },
+  {
+   "id": "steam-2357570-694261777025729032",
+   "game": "OW",
+   "kind": "news",
+   "title": "Excavation Initiative",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Excavation Initiative」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/694261777025729032"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-06-17T03:30+09:00",
+   "excerpt": "Excavation InitiativeExcavation Initiative rewards you for doing what you'd already be doing: playing Overwatch. Throughout the season, you…"
+  },
+  {
+   "id": "steam-4162040-704396868946233231",
+   "game": "ZZZ",
+   "kind": "major",
+   "title": "Ver.3.0「ある夢に遊ぶ者の告白」アップデート詳細",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Ver.3.0「ある夢に遊ぶ者の告白」アップデート詳細」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/704396868946233231"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-06-17T08:00+09:00",
+   "excerpt": "親愛なるプロキシ様へ Ver.3.0「ある夢に遊ぶ者の告白」のアップデート詳細と補償内容は以下となります。 【アップデート開始日時】 2026/06/17 07:00（JST） アップデートの所要時間は約5時間と予想されます。 【補償詳細】 • メンテナンスに伴う補償 補償内容…"
+  },
+  {
+   "id": "steam-2584990-708901012699611157",
+   "game": "SVWB",
+   "kind": "event",
+   "title": "1st Anniversary 最大120パック！1日1回10パック無料キャンペーン",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「1st Anniversary 最大120パック！1日1回10パック無料キャン…」",
+     "url": "https://store.steampowered.com/news/app/2584990/view/708901012699611157"
+    }
+   ],
+   "source_key": "steam:2584990",
+   "start": "2026-06-17T19:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 「Shadowverse: Worlds Beyond」の1st Anniversaryを記念して、期間中にログインすることで最大120パックが獲得できる「1s…"
+  },
+  {
+   "id": "steam-1364780-725788967176243025",
+   "game": "SF6",
+   "kind": "news",
+   "title": "ヤスミンが8月3日に『ストリートファイター6』のYear 4幕開けを飾る！",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ヤスミンが8月3日に『ストリートファイター6』のYear 4幕開けを飾る！」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/725788967176243025"
+    }
+   ],
+   "source_key": "steam:1364780",
+   "start": "2026-06-18T08:13+09:00",
+   "excerpt": "Year 4最初の追加キャラクターとして、新たに「ヤスミン」がいよいよ参戦！もう一人の完全新規キャラクターである「アルジュン」に加え、「ファイナルファンタジーVII リメイクシリーズ」のアイコニックなキャラクターである「ティファ」、そしてワールドツアーでお馴染みの「ボシュ」も順…"
+  },
+  {
+   "id": "steam-4162040-702145613257509310",
+   "game": "ZZZ",
+   "kind": "news",
+   "title": "誤った「HoYoverseアカウント」を紐づけてしまった場合の対処方法",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「誤った「HoYoverseアカウント」を紐づけてしまった場合の対処方法」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/702145613257509310"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-06-18T14:04+09:00",
+   "excerpt": "親愛なるプロキシ様へ本日、一部のプロキシ様より、以下のご報告をいただいております。Steamにてログインする際に、誤って外部アカウント（サードパーティアカウント）のメールアドレスを使用して新規のHoYoverseアカウントを作成し、Steamと紐付けてしまった結果、元のゲームア…"
+  },
+  {
+   "id": "lol-26-13",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "リーグ・オブ・レジェンド パッチノート 26.13",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.13 は 2026/06/24（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要",
+    "Riot 公式データ（Data Dragon）でバージョン 16.13 の配信を確認"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    },
+    {
+     "label": "パッチノート（リーグ・オブ・レジェンド パッチノート 26.13）",
+     "url": "https://www.leagueoflegends.com/ja-jp/news/game-updates/league-of-legends-patch-26-13-notes"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-06-24",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "steam-1364780-697642648593235983",
+   "game": "SF6",
+   "kind": "news",
+   "title": "🕷️ジュリのaespaコラボコスチュームの販売は2026年7月4日まで⏰",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「🕷️ジュリのaespaコラボコスチュームの販売は2026年7月4日まで⏰」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/697642648593235983"
+    }
+   ],
+   "source_key": "steam:1364780",
+   "start": "2026-06-24T12:46+09:00",
+   "excerpt": "人気K-popアーティストaespaとのコラボコスチュームである「ジュリ：Outfit 4 feat. aespa(Color1-10)」の配信がもう間もなく終了！2026年7月4日15:59（日本時間）までの販売なので、お見逃しなく👀✨"
+  },
+  {
+   "id": "steam-570-695390213817504687",
+   "game": "DOTA",
+   "kind": "major",
+   "title": "ダークカーニバル",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: 大型アップデート）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ダークカーニバル」",
+     "url": "https://store.steampowered.com/news/app/570/view/695390213817504687"
+    }
+   ],
+   "source_key": "steam:570",
+   "start": "2026-06-26T04:55+09:00",
+   "excerpt": "目を覚ますと、そこは監獄列車の中。ここまでどうやって来たのか覚えていない。脱出する手段もない。おまけに、世界征服をもくろむ古の邪悪な存在との闇の取引の一環として、邪悪な操り人形男に捕らえられていたと知ったら……。 こういう経験、誰にでもありますよね。 Dotaワールドで展開され…"
+  },
+  {
+   "id": "nikke-f81d97c4aa736a499caa43fafa878562e566",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "戦闘関連の問題に関するご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「戦闘関連の問題に関するご案内」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=f81d97c4aa736a499caa43fafa878562e566"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-06-26T15:35+09:00"
+  },
+  {
+   "id": "steam-1778820-676250550367421642",
+   "game": "T8",
+   "kind": "news",
+   "title": "『てっけん！ゆるっとカートゥーン』公開決定！",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「『てっけん！ゆるっとカートゥーン』公開決定！」",
+     "url": "https://store.steampowered.com/news/app/1778820/view/676250550367421642"
+    }
+   ],
+   "source_key": "steam:1778820",
+   "start": "2026-06-29T17:12+09:00",
+   "excerpt": "鉄拳がカートゥーン化！？一八、アリサ、クマ、ポール、吉光が… ゆる～いショートアニメになって登場！！その名も 『てっけん！ゆるっとカートゥーン』ディザートレイラーはこちら！[dynamiclink href=\"https://store.steampowered.com/app…"
+  },
+  {
+   "id": "steam-1778820-676250550367421646",
+   "game": "T8",
+   "kind": "news",
+   "title": "シーズン3 第2弾追加キャラクター「ボブ」ゲームプレイトレーラー公開！",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「シーズン3 第2弾追加キャラクター「ボブ」ゲームプレイトレーラー公開！」",
+     "url": "https://store.steampowered.com/news/app/1778820/view/676250550367421646"
+    }
+   ],
+   "source_key": "steam:1778820",
+   "start": "2026-06-29T17:22+09:00",
+   "excerpt": "🤜#鉄拳8 シーズン3第二弾追加キャラクター「ボブ」8/20(木) 早期アクセス！◤ ボブ / Bob ◢🍙ゲームプレイトレイラー公開🍙▼トレイラーはこちら「ヒーローの到着だ」パワーとスピードを兼ね備えたオールラウンダー、ボブ🍔「地方検事局の捜査官」に就任したボブのフォーマルな…"
+  },
+  {
+   "id": "steam-2584990-702146248223753399",
+   "game": "SVWB",
+   "kind": "major",
+   "title": "Chronicle of Destiny / クロニクル・オブ・デスティニー カードパック第8弾発売",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Chronicle of Destiny / クロニクル・オブ・デスティニー …」",
+     "url": "https://store.steampowered.com/news/app/2584990/view/702146248223753399"
+    }
+   ],
+   "source_key": "steam:2584990",
+   "start": "2026-06-29T20:15+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 「Chronicle of Destiny / クロニクル・オブ・デスティニー」はShadowverse: Worlds Beyondの第8弾カードパックです。…"
+  },
+  {
+   "id": "nikke-7144908aab374a4a11a822ca7c06f470b354",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "分配ダメージ関連調整の事前案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「分配ダメージ関連調整の事前案内」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=7144908aab374a4a11a822ca7c06f470b354"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-06-30T23:05+09:00"
+  },
+  {
+   "id": "nikke-9ab45f45a7a33a472eabfb0a16e23f576ab6",
+   "game": "NIKKE",
+   "kind": "patch",
+   "title": "7月2日のアップデートについて（7月2日更新）",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ（2026/06/29 掲載）",
+    "公式告知に「ゲームクライアントがアップデートされる」旨の記載あり",
+    "公式告知でメンテナンス終了（実施済み）を確認"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「7月2日のアップデートについて（7月2日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=9ab45f45a7a33a472eabfb0a16e23f576ab6"
+    },
+    {
+     "label": "NIKKE 公式サイト「7月2日のアップデートによる改善事項」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=e608a6faa6f16a4a1fab746ad4784c482233"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-07-02",
+   "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
+  },
+  {
+   "id": "steam-570-670621050832160174",
+   "game": "DOTA",
+   "kind": "patch",
+   "title": "Dota 2アップデート－2026年7月1日",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: パッチノート）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Dota 2アップデート－2026年7月1日」",
+     "url": "https://store.steampowered.com/news/app/570/view/670621050832160174"
+    }
+   ],
+   "source_key": "steam:570",
+   "start": "2026-07-02T08:26+09:00",
+   "excerpt": "過去数日間に行ったバグ修正と改善は以下のとおりです。 ダークカーニバルl 通常のゲームとターボゲームをプレイするとスクラップチケットが獲得できるようになった。 スクラップチケット6枚で任意のヒーローチケット1枚と交換できる。 通常のゲームで2枚、ターボゲームで1枚のチケットを …"
+  },
+  {
+   "id": "steam-3576070-678502350181109244",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "「サドンアタック：ゼロポイント」クリエイターズ募集のご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「「サドンアタック：ゼロポイント」クリエイターズ募集のご案内」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181109244"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-02T11:01+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。プレイヤーの皆さまとともに楽しいゲーム文化を作るため、NEXONクリエイターズプログラム(Beta)を運営いたします。クリエイターに選定された場合、サドンアタック：ゼロポイントのキャンペーンに自由に参加でき、その活動で獲得したSAZ…"
+  },
+  {
+   "id": "steam-3576070-678502350181109246",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "サドンアタック：ゼロポイントクリエイターズ運営ポリシー",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「サドンアタック：ゼロポイントクリエイターズ運営ポリシー」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181109246"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-02T11:02+09:00",
+   "excerpt": "\\[NEXONクリエイターズ運営ポリシー] 「NEXONクリエイターズ」の利用者は、「NEXONクリエイターズ運営ポリシー」（以下「本運営ポリシー」といいます）を確認し、遵守するものとします。 本運営ポリシーを熟知せずに発生した損害や不都合に対して当社は責任を負いかねます。 第…"
+  },
+  {
+   "id": "nikke-2495f255a0ea8a4396a8f13a0f911bbbdbca",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "7月2日既知の問題について（7月10日更新）",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「7月2日既知の問題について（7月10日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=2495f255a0ea8a4396a8f13a0f911bbbdbca"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-07-02T19:15+09:00"
+  },
+  {
+   "id": "steam-1778820-676250550367424691",
+   "game": "T8",
+   "kind": "news",
+   "title": "『てっけん！ゆるっとカートゥーン』キャラクター紹介！",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「『てっけん！ゆるっとカートゥーン』キャラクター紹介！」",
+     "url": "https://store.steampowered.com/news/app/1778820/view/676250550367424691"
+    }
+   ],
+   "source_key": "steam:1778820",
+   "start": "2026-07-03T23:35+09:00",
+   "excerpt": "「鉄拳」の人気キャラクターたちが、 カートゥーンショートアニメになって登場！本編公開に先がけて、 個性豊かなキャラクターたちをゆるっと紹介。▼ご視聴はこちら今後の配信は公式チャンネル・公式Ｘをチェック！▼Youtube 公式チャンネル：[dynamiclink href=\"ht…"
+  },
+  {
+   "id": "steam-3576070-678502350181111683",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "Dev Note #10",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Dev Note #10」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181111683"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-08T18:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントのディレクター、キム・テヒョンです。今回は、以前簡単に触れましたパーツシステムと、パーツを取引できるブラックマーケットについてご紹介します。テキストでご案内するよりも動画でお見せしたいと思い、ファイナルCBTビルド上で撮影した動画をご用意…"
+  },
+  {
+   "id": "steam-3576070-678502350181112083",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "[更新済み] ファイナルCBT 既知の不具合について",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[更新済み] ファイナルCBT 既知の不具合について」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181112083"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-09T14:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。ファイナルCBTにて確認されている不具合についてご案内いたします。大変ご不便をお掛けいたしますが、暫定的な解決方法をご参照いただけますと幸いです。\\[既知の不具合](調査中) まれに、マッチ参加後に武器が表示されない現象が発生してい…"
+  },
+  {
+   "id": "steam-3576070-678502350181111681",
+   "game": "SAZP",
+   "kind": "event",
+   "title": "ファイナルCBTチャレンジキャンペーン開催のお知らせ",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ファイナルCBTチャレンジキャンペーン開催のお知らせ」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181111681"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-09T14:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。ファイナルCBTチャレンジキャンペーンが始まりました。キャンペーンの詳細をご紹介します。下記の内容をご確認ください。皆さまの関心と積極的なご参加をお待ちしております！本キャンペーンは、「サドンアタック：ゼロポイント」クリエイターズに…"
+  },
+  {
+   "id": "steam-3576070-678502350181111672",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "ファイナルCBT開始のご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ファイナルCBT開始のご案内」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181111672"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-09T14:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。ついにファイナルCBTが始まりました！昨年10月のSteam Next Fest以来、皆さまからいただいたフィードバックをもとに最適化の面で大幅な改善を行い、新マップや武器に加え、武器パーツ、ブラックマーケットなども追加されました。…"
+  },
+  {
+   "id": "steam-3576070-678502350181111669",
+   "game": "SAZP",
+   "kind": "event",
+   "title": "Final CBT ハイライトイベント",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Final CBT ハイライトイベント」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181111669"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-09T14:00+09:00",
+   "excerpt": "こんにちは。Sudden Attack Zero Pointです。Final CBT期間中に開催されるコミュニティイベントをご案内いたします。イベント期間中にゲームプレイ動画をSNSにアップロードし、オリジナル動画をご提出ください。選定された動画は公式ホームページのクリエイター…"
+  },
+  {
+   "id": "steam-3576070-678502350181112307",
+   "game": "SAZP",
+   "kind": "patch",
+   "title": "[Updated] Client Update: July 09 (UTC 12:30)",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "関連する告知:「[Completed] 07/09(Thu) Unscheduled Maintenance (UTC 08:30 - 08:40)」",
+    "告知タイトルに記載の日付「07/09 (UTC 08:30 - 08:40)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[Updated] Client Update: July 09 (UTC 1…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181112307"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 07/09(Thu) Unscheduled Main…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181112091"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 07/09(Thu) Unscheduled Main…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/678502350181112317"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-09T21:31+09:00",
+   "excerpt": "Hello everyone. This is Sudden Attack Zero Point.We will be conducting a real-time client patch for stable service operation as detailed be…"
+  },
+  {
+   "id": "steam-2357570-694261777025729024",
+   "game": "OW",
+   "kind": "news",
+   "title": "Junkrat's Lootbox Hunt",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Junkrat's Lootbox Hunt」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/694261777025729024"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-07-10T03:00+09:00",
+   "excerpt": "Junkrat's Loot Hunt Junkrat’s Loot Hunt turns the July 10 - 13 weekend into a reward-fueled blast. Every match you play pushes you closer t…"
+  },
+  {
+   "id": "steam-3576070-716784395910905871",
+   "game": "SAZP",
+   "kind": "maint",
+   "title": "[Completed] 07/10(Fri) Unscheduled Maintenance (UTC 04:20 - 04:33)",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "告知タイトルに記載の日付「07/10 (UTC 04:20 - 04:33)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[Completed] 07/10(Fri) Unscheduled Main…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/716784395910905871"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 07/10(Fri) Unscheduled Main…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/716784395910905883"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-10T13:20+09:00",
+   "end": "2026-07-10T13:33+09:00",
+   "excerpt": "Hello everyone. This is Sudden Attack Zero Point.We will be performing unscheduled maintenance to ensure stable game service. Please refer …"
+  },
+  {
+   "id": "steam-3576070-716784395910905980",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "Black Screen Issue — Update & Request",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Black Screen Issue — Update & Request」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/716784395910905980"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-10T19:43+09:00",
+   "excerpt": "Hello everyone. This is Sudden Attack Zero Point.First, we're sorry for the ongoing trouble with the black screen issue.There were several …"
+  },
+  {
+   "id": "steam-1778820-681881498796687922",
+   "game": "T8",
+   "kind": "news",
+   "title": "『てっけん！ゆるっとカートゥーン』　三島一八編 ~イラッときたらドリャっと~",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「『てっけん！ゆるっとカートゥーン』　三島一八編 ~イラッときたらドリャっと~」",
+     "url": "https://store.steampowered.com/news/app/1778820/view/681881498796687922"
+    }
+   ],
+   "source_key": "steam:1778820",
+   "start": "2026-07-11T00:30+09:00",
+   "excerpt": "三島一八編~イラッときたらドリャっと~嫌なこと？全部まとめてマグマ行き。▼ご視聴はこちら今後の配信情報は公式チャンネル・公式SNSでチェック！■鉄拳公式Xhttps://x.com/TEKKEN_Project■鉄拳公式Instagramhttps://www.instagra…"
+  },
+  {
+   "id": "steam-3576070-716784395910907289",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "FCBTアンケート参加のご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「FCBTアンケート参加のご案内」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/716784395910907289"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-12T12:07+09:00",
+   "excerpt": "こんにちは。Sudden Attack Zero Pointです。 Final CBT期間中にSudden Attack Zero Pointをプレイしていただいた皆様に、心より感謝申し上げます。より良いゲームをお届けするため、皆様の貴重なご意見をお伺いするアンケートをご用意し…"
+  },
+  {
+   "id": "steam-3576070-716784395910907327",
+   "game": "SAZP",
+   "kind": "maint",
+   "title": "[Completed] 07/13(Mon) Unscheduled Maintenance (UTC 01:30 - 02:30)",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "告知タイトルに記載の日付「07/13 (UTC 01:30 - 02:30)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[Completed] 07/13(Mon) Unscheduled Main…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/716784395910907327"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-13T10:30+09:00",
+   "end": "2026-07-13T11:30+09:00",
+   "excerpt": "Hello everyone. This is Sudden Attack Zero Point.We will be performing unscheduled maintenance to ensure stable game service. Please refer …"
+  },
+  {
+   "id": "steam-3576070-716784395910907352",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "Dev Note #11",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Dev Note #11」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/716784395910907352"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-13T19:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントのディレクター、キム・テヒョンです。7月9日から13日にかけて、約4日間にわたり行われたファイナルCBTが、無事に終了しました。短い期間ではありましたが、プレイヤーの皆さまのご協力のおかげで、意義深いテストとなりました。テストにご参加いた…"
+  },
+  {
+   "id": "steam-2584990-672874299544044941",
+   "game": "SVWB",
+   "kind": "event",
+   "title": "第5回シャドババトルフェスの開催について",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「第5回シャドババトルフェスの開催について」",
+     "url": "https://store.steampowered.com/news/app/2584990/view/672874299544044941"
+    }
+   ],
+   "source_key": "steam:2584990",
+   "start": "2026-07-14T15:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 2026/7/17 15:00から、「Shadowverse」シリーズ10周年と「Shadowverse: Worlds Beyond」1周年を記念したイベント…"
+  },
+  {
+   "id": "lol-26-14",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "リーグ・オブ・レジェンド パッチノート 26.14",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.14 は 2026/07/15（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要",
+    "Riot 公式データ（Data Dragon）でバージョン 16.14 の配信を確認"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    },
+    {
+     "label": "パッチノート（リーグ・オブ・レジェンド パッチノート 26.14）",
+     "url": "https://www.leagueoflegends.com/ja-jp/news/game-updates/league-of-legends-patch-26-14-notes"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-07-15",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "hoyo-HSR-v4.4",
+   "game": "HSR",
+   "kind": "major",
+   "title": "Ver.4.4「汽笛は轟く、帰寂のさなかに」バージョンアップ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "公式告知: Ver.4.4 のリリース告知（2026/07/15 08:00 掲載）",
+    "バージョンアップではゲームクライアントの更新（ダウンロード）が必要",
+    "公式ランチャー（HoYoPlay）の配信バージョン（4.6.0）から、配信済みであることを確認"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.4.4アップデートメンテナンスのお知らせ」",
+     "url": "https://www.hoyolab.com/article/45832917"
+    },
+    {
+     "label": "HoYoLAB「Ver.4.4「汽笛は轟く、帰寂のさなかに」アップデートについて」",
+     "url": "https://www.hoyolab.com/article/45851903"
+    }
+   ],
+   "source_key": "hoyoverse:4ziysqXOQ8",
+   "start": "2026-07-15T08:00+09:00"
+  },
+  {
+   "id": "steam-4162040-693140950130622535",
+   "game": "ZZZ",
+   "kind": "event",
+   "title": "Zenless Zone Zero Version 3.1 \"The Long Goodbye\" Special Program Announcement",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: 配信）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Zenless Zone Zero Version 3.1 \"The Long…」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/693140950130622535"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-07-17T20:00+09:00",
+   "end": "2026-07-18T11:00+09:00",
+   "excerpt": "Dear Proxies, The Zenless Zone Zero Version 3.1 \"The Long Goodbye\" Special Program will officially air on July 17 at 19:30 (UTC+8). The sto…"
+  },
+  {
+   "id": "nikke-b08608cda94d3a4a9aa8dd5a9174c9b8e181",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "センチの宝ものスキル調整についてのご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「センチの宝ものスキル調整についてのご案内」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=b08608cda94d3a4a9aa8dd5a9174c9b8e181"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-07-20T16:59+09:00"
+  },
+  {
+   "id": "nikke-30477679aa60aa46ddaa269ae877e29aff76",
+   "game": "NIKKE",
+   "kind": "patch",
+   "title": "7月23日のアップデートについて（7月23日更新）",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ（2026/07/20 掲載）",
+    "公式告知に「ゲームクライアントがアップデートされる」旨の記載あり",
+    "公式告知でメンテナンス終了（実施済み）を確認"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「7月23日のアップデートについて（7月23日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=30477679aa60aa46ddaa269ae877e29aff76"
+    },
+    {
+     "label": "NIKKE 公式サイト「7月23日のアップデートによる改善事項」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=494cbd92a3b04a4f24aa5dda7f1e8e684afc"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-07-23",
+   "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
+  },
+  {
+   "id": "steam-2357570-714530512231729368",
+   "game": "OW",
+   "kind": "news",
+   "title": "Overwatch® BlizzCon® Bundle",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Overwatch® BlizzCon® Bundle」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/714530512231729368"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-07-23T02:05+09:00",
+   "excerpt": "The Overwatch® BlizzCon® Bundle brings icy domination straight to your collection with four exclusive in-game items inspired by one of Bliz…"
+  },
+  {
+   "id": "nikke-fd11e0faa97f4a4809ab02ca83bf2f18d559",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "7月23日既知の問題について（7月29日更新）",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「7月23日既知の問題について（7月29日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=fd11e0faa97f4a4809ab02ca83bf2f18d559"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-07-23T17:36+09:00"
+  },
+  {
+   "id": "steam-3576070-705526483146244842",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "Dev Note #12",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Dev Note #12」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/705526483146244842"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-24T15:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントのディレクター、キム・テヒョンです。 まずは、ファイナルCBTにご参加いただき、たくさんのご意見をお寄せくださった皆さまに、 心より感謝申し上げます。 ファイナルCBT終了後にお寄せいただいたご意見は、一つ一つ丁寧に確認し、検討しておりま…"
+  },
+  {
+   "id": "steam-2584990-679630785292012430",
+   "game": "SVWB",
+   "kind": "event",
+   "title": "バトルパスシーズン14開催！",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「バトルパスシーズン14開催！」",
+     "url": "https://store.steampowered.com/news/app/2584990/view/679630785292012430"
+    }
+   ],
+   "source_key": "steam:2584990",
+   "start": "2026-07-28T12:01+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 2026/7/29のメンテナンス後から、バトルパスシーズン14を開催いたします。 開催期間2026/7/29 メンテナンス後 ～ 第9弾メンテナンス開始までバト…"
+  },
+  {
+   "id": "lol-26-15",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "リーグ・オブ・レジェンド パッチノート 26.15",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.15 は 2026/07/29（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要",
+    "Riot 公式データ（Data Dragon）でバージョン 16.15 の配信を確認"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    },
+    {
+     "label": "パッチノート（リーグ・オブ・レジェンド パッチノート 26.15）",
+     "url": "https://www.leagueoflegends.com/ja-jp/news/game-updates/league-of-legends-patch-26-15-notes"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-07-29",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "steam-4162040-706649847851123192",
+   "game": "ZZZ",
+   "kind": "major",
+   "title": "Ver.3.1「ロング・グッドバイ」アップデート詳細",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: 大型アップデート）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Ver.3.1「ロング・グッドバイ」アップデート詳細」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/706649847851123192"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-07-29T08:00+09:00",
+   "excerpt": "親愛なるプロキシ様へ Ver.3.1「ロング・グッドバイ」のアップデート詳細と補償内容は以下となります。 【アップデート開始日時】 2026/07/29 07:00（JST） アップデートの所要時間は約5時間と予想されます。 【補償詳細】 • メンテナンスに伴う補償 補償内容：…"
+  },
+  {
+   "id": "steam-3576070-670624220718301363",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "アーリーアクセス開始のご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「アーリーアクセス開始のご案内」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718301363"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-29T18:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。7月30日(木) 5:00 (UTC)、アーリーアクセスがついに始まります。 アーリーアクセスで体験いただける主なコンテンツをご紹介します。▣ ゲームコンテンツおよびシステムについて1. ゲームモードとマップ■ ランクマッチ(NEW…"
+  },
+  {
+   "id": "steam-4162040-711156617370927264",
+   "game": "ZZZ",
+   "kind": "news",
+   "title": "🎨 『ゼンレスゾーンゼロ』Steamポイントショップに新商品入荷！🎨",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「🎨 『ゼンレスゾーンゼロ』Steamポイントショップに新商品入荷！🎨」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/711156617370927264"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-07-29T18:00+09:00",
+   "excerpt": "親愛なるプロキシ様へ Steamポイントを使って、『ゼンレスゾーンゼロ』アイテムと交換して、自分だけのプロキシファイルを作り上げましょう！ 今期のラインナップ： ① アバターフレーム 「イアス」 ② 動くアバター 「Fairy」「リン」「アキラ」「イアス」 ③ 動くプロフィール…"
+  },
+  {
+   "id": "steam-3576070-670624220718301766",
+   "game": "SAZP",
+   "kind": "event",
+   "title": "アーリーアクセスハイライトチャレンジキャンペーン開催のお知らせ",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「アーリーアクセスハイライトチャレンジキャンペーン開催のお知らせ」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718301766"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-30T14:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。[p align=\"start\"][p align=\"start\"]サドンアタック：ゼロポイントのアーリーアクセス開始にあわせて、 アーリーアクセスハイライトチャレンジキャンペーンを新たに開催いたします。 キャンペーン内容は以下をご…"
+  },
+  {
+   "id": "steam-3576070-670624220718301764",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "ファイナルCBTブラックマーケット応募券イベント当選者のご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ファイナルCBTブラックマーケット応募券イベント当選者のご案内」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718301764"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-30T14:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。ファイナルCBT期間中に開催されたブラックマーケット応募券イベントにご参加いただきありがとうございました。抽選の結果、当選者を以下の通りご案内いたします。▣ 抽選報酬当選者のご案内(※当選者のニックネームはSteamのニックネームで…"
+  },
+  {
+   "id": "steam-3576070-670624220718301769",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "ファイナルCBTチャレンジキャンペーン終了および優秀コンテンツ選定結果のご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ファイナルCBTチャレンジキャンペーン終了および優秀コンテンツ選定結果のご案内」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718301769"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-30T17:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。「ファイナルCBTチャレンジキャンペーン」に多くの関心とご参加をいただいた すべてのクリエイターの皆さまに、心より感謝申し上げます。内部審査を通じて選定された優秀クリエイターの皆さまを、以下の通りご案内いたします。▣ ファイナルCB…"
+  },
+  {
+   "id": "steam-2357570-694261777025729026",
+   "game": "OW",
+   "kind": "news",
+   "title": "Junkrat's Lootbox Hunt",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Junkrat's Lootbox Hunt」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/694261777025729026"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-07-31T03:00+09:00",
+   "excerpt": "Junkrat's Loot Hunt Junkrat’s Loot Hunt turns the July 31 - August 3 weekend into a reward-fueled blast. Every match you play pushes you cl…"
+  },
+  {
+   "id": "steam-570-678505520073540065",
+   "game": "DOTA",
+   "kind": "patch",
+   "title": "ゲームプレイパッチ7.41eとサマースクラブ",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: アップデート）",
+    "関連する告知:「The International：予想、ファンタジー、サポーターバンドル」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ゲームプレイパッチ7.41eとサマースクラブ」",
+     "url": "https://store.steampowered.com/news/app/570/view/678505520073540065"
+    },
+    {
+     "label": "Steamのお知らせ「The International：予想、ファンタジー、サポーターバンドル」",
+     "url": "https://store.steampowered.com/news/app/570/view/678505520073540063"
+    }
+   ],
+   "source_key": "steam:570",
+   "start": "2026-07-31T08:58+09:00",
+   "excerpt": "The Internationalの開催が近づいてきました。それに合わせて、予想、ファンタジー、サポーターバンドルに加え、自分の実力を示すことで新しいイモータルや地形をアンロックできるアップデートをリリースしました。 それだけではありません。 本日、パッチ7.41eもリリースし…"
+  },
+  {
+   "id": "steam-3576070-670624220718302702",
+   "game": "SAZP",
+   "kind": "event",
+   "title": "ファイナルCBTブラックマーケット応募券イベント報酬の一部欠落および再配布のご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ファイナルCBTブラックマーケット応募券イベント報酬の一部欠落および再配布のご…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718302702"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-31T12:17+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。 ファイナルCBTブラックマーケット応募券イベントの報酬のうち、応募券10枚を使用して交換したイベントクレートの支給過程において、プレイヤーが実際に予約した数量より少なく支給される不具合が確認されました。 ▣ 確認された問題 同じ種…"
+  },
+  {
+   "id": "steam-3576070-670624220718302705",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "Addition of European Servers",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Addition of European Servers」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718302705"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-31T13:09+09:00",
+   "excerpt": "Hello, everyone. This is Sudden Attack Zero Point. Since the start of Early Access, we've received a wide range of feedback requesting the …"
+  },
+  {
+   "id": "steam-3576070-670624220718302744",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "開発者ノート #13",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「開発者ノート #13」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718302744"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-07-31T19:59+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントのディレクター、キム・テヒョンです。 まずは、アーリーアクセスの開始とともに本作をプレイしてくださり、Steamレビューを通じて率直なご意見をお寄せくださったすべての皆さまに、心より感謝申し上げます。お寄せいただいたレビューは一つ一つ拝見…"
+  },
+  {
+   "id": "steam-1364780-712282517277771770",
+   "game": "SF6",
+   "kind": "major",
+   "title": "Year 4追加キャラクター「ヤスミン」参戦開始！",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Steamのお知らせ（種類: 大型アップデート）",
+    "関連する告知:「Year 4追加キャラクター第1弾「ヤスミン」が2026年8月3日に参戦！」",
+    "告知タイトルに記載の日付「2026年8月3日」",
+    "Steam の公開ビルドが更新されました（ビルドID 24176760、2026/08/03 12:00）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Year 4追加キャラクター「ヤスミン」参戦開始！」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/712282517277771770"
+    },
+    {
+     "label": "Steamのお知らせ「Year 4追加キャラクター第1弾「ヤスミン」が2026年8月3日に参戦！」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/690886614188034655"
+    },
+    {
+     "label": "Steam ストアページ",
+     "url": "https://store.steampowered.com/app/1364780/"
+    }
+   ],
+   "source_key": "steam:1364780",
+   "start": "2026-08-03T12:00+09:00",
+   "excerpt": "Year 4追加キャラクター第一弾「ヤスミン」が参戦！ ※ヤスミンは、「Year 4 キャラクターパス」または「Year 4 アルティメットパス」を所持している場合、キャラクターがリリースされると自動的に配信されます。 ※ゲーム内でファイターコインを使用し、キャラクター単体を購…"
+  },
+  {
+   "id": "steam-3576070-670624220718303347",
+   "game": "SAZP",
+   "kind": "patch",
+   "title": "Hotfix: August 04 (UTC 09:50)",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Hotfix: August 04 (UTC 09:50)」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718303347"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-04T19:05+09:00",
+   "excerpt": "Hello everyone. This is Sudden Attack Zero Point.We have applied a real-time fix for stable service operation as detailed below.Patch Sched…"
+  },
+  {
+   "id": "steam-3576070-704401852199862274",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "既知の問題",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「既知の問題」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/704401852199862274"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-05T11:13+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。現在発生している問題について、詳細をご案内いたします。下記の一時的な回避策をご確認ください。\\[既知の問題](調査中)マウスのポーリングレートを4K以上に設定すると、画面のカクつきが発生します回避策:一時的な対処法として、マウスのポ…"
+  },
+  {
+   "id": "steam-1778820-702150052386177071",
+   "game": "T8",
+   "kind": "news",
+   "title": "『てっけん！ゆるっとカートゥーン』アリサ編 ~バグるほどLoveしてる~",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「『てっけん！ゆるっとカートゥーン』アリサ編 ~バグるほどLoveしてる~」",
+     "url": "https://store.steampowered.com/news/app/1778820/view/702150052386177071"
+    }
+   ],
+   "source_key": "steam:1778820",
+   "start": "2026-08-05T20:20+09:00",
+   "excerpt": "アリサ編~バグるほどLoveしてる~好きがあふれて、首まで飛んじゃう。▼ご視聴はこちら今後の配信情報は公式チャンネル・公式SNSでチェック！■鉄拳公式Xhttps://x.com/TEKKEN_Project■鉄拳公式Instagramhttps://www.instagram…"
+  },
+  {
+   "id": "steam-3576070-704401852199862471",
+   "game": "SAZP",
+   "kind": "patch",
+   "title": "[08/06] パッチノート",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "関連する告知:「[Completed] 8/6 定期メンテナンスのお知らせ (UTC 05:00 - 07:35)」",
+    "告知タイトルに記載の日付「8/6 (UTC 05:00 - 07:35)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[08/06] パッチノート」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/704401852199862471"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 8/6 定期メンテナンスのお知らせ (UTC 05:0…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/670624220718303396"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-06T14:00+09:00",
+   "end": "2026-08-06T16:35+09:00",
+   "excerpt": "こんにちは、サドンアタック ゼロポイントです。 本日の定期メンテナンスで適用されたアップデート内容をお知らせいたします。 詳細は以下のパッチノートをご確認ください。 パッチノート ▣ 武器バランス調整 [table colwidth=\",\"]武器変更内容P90- ダメージ:34…"
+  },
+  {
+   "id": "steam-3576070-704401852199862502",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "ランクマッチガイド",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「ランクマッチガイド」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/704401852199862502"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-06T20:33+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。ランクマッチシステムのガイドをご案内いたします。ランクマッチの等級構成から、ランクポイント(RP)の獲得方法まで、今すぐご確認ください！▣ ランクマッチとは？ランクマッチは、試合の勝敗および貢献度に応じて算出されたランクポイント(R…"
+  },
+  {
+   "id": "steam-3576070-704401852199862569",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "マッチング待機時間および通報システムのご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「マッチング待機時間および通報システムのご案内」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/704401852199862569"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-07T13:51+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。ゲームをご利用いただき、また継続的にさまざまなご意見をお寄せくださる皆様に感謝申し上げます。最近、マッチングの待機時間および通報システムについて、多くのご意見・お問い合わせが寄せられているため、利用者の皆様の混乱を減らし、より正確な…"
+  },
+  {
+   "id": "hoyo-GI-pre7.0",
+   "game": "GI",
+   "kind": "pre",
+   "title": "Ver.7.0 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知（2026/08/10 12:10 掲載）に「事前ダウンロードが可能」と記載"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.7.0バージョンアップのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46208157"
+    },
+    {
+     "label": "HoYoLAB「Ver.7.0「神に愛されぬ雪国」正式リリース」",
+     "url": "https://www.hoyolab.com/article/46233468"
+    }
+   ],
+   "source_key": "hoyoverse:gopR6Cufr3",
+   "start": "2026-08-10T12:10+09:00",
+   "end": "2026-08-12T07:00+09:00",
+   "size": "約8GB（公式告知・PC）"
+  },
+  {
+   "id": "steam-2357570-670624854980953450",
+   "game": "OW",
+   "kind": "news",
+   "title": "Everything New in Overwatch Season 4: Heroes of Busan",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Everything New in Overwatch Season 4: H…」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/670624854980953450"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-08-11T02:58+09:00",
+   "excerpt": "Busan is worth defending. Its streets have survived Omnic attacks, its skyline has become one of Overwatch’s most recognizable battleground…"
+  },
+  {
+   "id": "lol-26-16",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "リーグ・オブ・レジェンド パッチノート 26.16",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.16 は 2026/08/12（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要",
+    "Riot 公式データ（Data Dragon）でバージョン 16.16 の配信を確認"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    },
+    {
+     "label": "パッチノート（リーグ・オブ・レジェンド パッチノート 26.16）",
+     "url": "https://www.leagueoflegends.com/ja-jp/news/game-updates/league-of-legends-patch-26-16-notes"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-08-12",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "steam-2357570-667246521005115104",
+   "game": "OW",
+   "kind": "major",
+   "title": "Overwatch Reign of Talon - Season 4: Heroes of Busan Now Live!",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: 大型アップデート）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Overwatch Reign of Talon - Season 4: He…」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/667246521005115104"
+    }
+   ],
+   "source_key": "steam:2357570",
+   "start": "2026-08-12T02:55+09:00",
+   "excerpt": "Let your teamwork do all the talking during Season 4: Heroes of Busan. The leader of MEKA Squad is ready for her highly anticipated debut a…"
+  },
+  {
+   "id": "hoyo-GI-v7.0",
+   "game": "GI",
+   "kind": "major",
+   "title": "Ver.7.0「神に愛されぬ雪国」バージョンアップ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "公式告知: 2026/08/12 06:00 (UTC+8) からバージョンアップメンテナンス（日本時間 2026/08/12 07:00）",
+    "バージョンアップではゲームクライアントの更新（ダウンロード）が必要",
+    "公式ランチャー（HoYoPlay）の配信バージョン（7.1.0）から、配信済みであることを確認"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.7.0バージョンアップのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46208157"
+    },
+    {
+     "label": "HoYoLAB「Ver.7.0「神に愛されぬ雪国」正式リリース」",
+     "url": "https://www.hoyolab.com/article/46233468"
+    }
+   ],
+   "source_key": "hoyoverse:gopR6Cufr3",
+   "start": "2026-08-12T07:00+09:00",
+   "end": "2026-08-12T12:00+09:00",
+   "size": "約8GB（公式告知の事前ダウンロード容量・PC）",
+   "excerpt": "親愛なる旅人さんへ 2026/08/12 06:00 (UTC+8)よりバージョンアップに伴うメンテナンスを実施いたします。メンテナンス終了後、最新バージョンVer.7.0「神に愛されぬ雪国」に更新されます。 ただいまVer.7.0の事前ダウンロードが可能です。ゲームの一部アッ…"
+  },
+  {
+   "id": "steam-570-689765153413006763",
+   "game": "DOTA",
+   "kind": "news",
+   "title": "The International：ストリーミング、シークレットショップなど",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「The International：ストリーミング、シークレットショップなど」",
+     "url": "https://store.steampowered.com/news/app/570/view/689765153413006763"
+    }
+   ],
+   "source_key": "steam:570",
+   "start": "2026-08-12T09:28+09:00",
+   "excerpt": "いよいよ最終カウントダウンが始まりました。選手やタレントが集結し、今後2週間、上海がDotaの世界の中心となる準備がすっかり整ってきています。 みなさんもファンタジーロスターの編成を終え、最初のラウンドの予想を確定させ、観戦の準備を整えましょう。The Internationa…"
+  },
+  {
+   "id": "nikke-1e7395fbaa43aa4e86aa611ae3f089a02206",
+   "game": "NIKKE",
+   "kind": "patch",
+   "title": "8月13日のアップデートについて（8月20日更新）",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ（2026/08/10 掲載）",
+    "公式告知に「ゲームクライアントがアップデートされる」旨の記載あり",
+    "公式告知でメンテナンス終了（実施済み）を確認"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「8月13日のアップデートについて（8月20日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=1e7395fbaa43aa4e86aa611ae3f089a02206"
+    },
+    {
+     "label": "NIKKE 公式サイト「8月13日のアップデートによる改善事項」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=adbb3101af410a4629a8f3ba606b51126151"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-08-13",
+   "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
+  },
+  {
+   "id": "nikke-9091e99da7dcaa4d0fab6d7a3b4fa8596c43",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "8月13日既知の問題について（8月20日更新）",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「8月13日既知の問題について（8月20日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=9091e99da7dcaa4d0fab6d7a3b4fa8596c43"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-08-13T06:42+09:00"
+  },
+  {
+   "id": "steam-3576070-679632688090448517",
+   "game": "SAZP",
+   "kind": "patch",
+   "title": "[08/13] パッチノート",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "関連する告知:「[Completed] 8/13 定期メンテナンスのお知らせ (UTC 05:00 - 07:30)」",
+    "告知タイトルに記載の日付「8/13 (UTC 05:00 - 07:30)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[08/13] パッチノート」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/679632688090448517"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 8/13 定期メンテナンスのお知らせ (UTC 05:…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/679632688090447891"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-13T14:00+09:00",
+   "end": "2026-08-13T16:30+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。本日の定期メンテナンスで適用されたアップデート内容をお知らせいたします。詳細は以下のパッチノートをご確認ください。パッチノート▣ 一般アップデート欧州サーバーの追加マッチング通知機能の追加マッチング成立時、タスクバーのアプリアイコン…"
+  },
+  {
+   "id": "steam-570-680758587997293716",
+   "game": "DOTA",
+   "kind": "event",
+   "title": "The Internationalメインイベント",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「The Internationalメインイベント」",
+     "url": "https://store.steampowered.com/news/app/570/view/680758587997293716"
+    }
+   ],
+   "source_key": "steam:570",
+   "start": "2026-08-19T11:46+09:00",
+   "excerpt": "先週、世界最高峰のDotaチーム16組が激しいグループステージを戦い、今や8チームが残るのみとなりました。 あと数時間で、Team Vision、Team Liquid、Nigma Galaxy、Team Falcons、BoomBoys、Team Spirit、Iron Wi…"
+  },
+  {
+   "id": "steam-1778820-697647721675227603",
+   "game": "T8",
+   "kind": "news",
+   "title": "Bob Starter Guide",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Bob Starter Guide」",
+     "url": "https://store.steampowered.com/news/app/1778820/view/697647721675227603"
+    }
+   ],
+   "source_key": "steam:1778820",
+   "start": "2026-08-20T23:02+09:00",
+   "excerpt": "Discover the secret recipe for the Perfect Body's heaviest and fastest moves🔥[dynamiclink href=\"https://store.steampowered.com/app/4129110/…"
+  },
+  {
+   "id": "hoyo-HSR-pre4.5",
+   "game": "HSR",
+   "kind": "pre",
+   "title": "Ver.4.5 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知: 事前ダウンロード開始 2026/08/24 15:00 (JST)"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.4.5アップデートメンテナンスのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46428208"
+    },
+    {
+     "label": "HoYoLAB「Ver.4.5「千の星に賭すチップ」アップデートについて」",
+     "url": "https://www.hoyolab.com/article/46449452"
+    }
+   ],
+   "source_key": "hoyoverse:4ziysqXOQ8",
+   "start": "2026-08-24T15:00+09:00",
+   "end": "2026-08-26T07:00+09:00",
+   "size": "約7.44GB（公式告知・PC）"
+  },
+  {
+   "id": "lol-26-17",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "パッチノート 26.17",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.17 は 2026/08/26（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要",
+    "Riot 公式データ（Data Dragon）でバージョン 16.17 の配信を確認"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    },
+    {
+     "label": "パッチノート（パッチノート 26.17）",
+     "url": "https://www.leagueoflegends.com/ja-jp/news/game-updates/league-of-legends-patch-26-17-notes"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-08-26",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "hoyo-HSR-v4.5",
+   "game": "HSR",
+   "kind": "major",
+   "title": "Ver.4.5「千の星に賭すチップ」バージョンアップ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "公式告知: 2026/08/26 07:00 (JST) からバージョンアップメンテナンス（日本時間 2026/08/26 07:00）",
+    "バージョンアップではゲームクライアントの更新（ダウンロード）が必要",
+    "公式ランチャー（HoYoPlay）の配信バージョン（4.6.0）から、配信済みであることを確認"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.4.5アップデートメンテナンスのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46428208"
+    },
+    {
+     "label": "HoYoLAB「Ver.4.5「千の星に賭すチップ」アップデートについて」",
+     "url": "https://www.hoyolab.com/article/46449452"
+    }
+   ],
+   "source_key": "hoyoverse:4ziysqXOQ8",
+   "start": "2026-08-26T07:00+09:00",
+   "end": "2026-08-26T12:00+09:00",
+   "size": "約7.44GB（公式告知の事前ダウンロード容量・PC）",
+   "excerpt": "親愛なる開拓者様へ Ver.4.5の事前ダウンロードは2026/08/24 15:00 (JST)に開始いたします。開拓者の皆様は、事前に一部リソースをダウンロードしていただくと、バージョンアップメンテナンス終了後、より早くゲームにログインできます。 また、列車運営チームは20…"
+  },
+  {
+   "id": "steam-570-680759856779493378",
+   "game": "DOTA",
+   "kind": "news",
+   "title": "The International 2026 グランドチャンピオン",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「The International 2026 グランドチャンピオン」",
+     "url": "https://store.steampowered.com/news/app/570/view/680759856779493378"
+    }
+   ],
+   "source_key": "steam:570",
+   "start": "2026-08-27T10:07+09:00",
+   "excerpt": "Team Spiritの皆さん、The International 2026での優勝おめでとうございます。 困難な一年を乗り越えたTeam Spiritが最高の状態を取り戻し、上海で開催された優勝決定戦で5ゲームの激戦を制して勝者のアイギスを手にしました。Team Spirit…"
+  },
+  {
+   "id": "steam-3576070-679633956871602187",
+   "game": "SAZP",
+   "kind": "patch",
+   "title": "[08/27] パッチノート",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "関連する告知:「[Completed] 08/27 定期メンテナンス (JST 14:00 ～ 15:45)」",
+    "告知タイトルに記載の日付「08/27 (JST 14:00 ~ 15:45)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[08/27] パッチノート」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/679633956871602187"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 08/27 定期メンテナンス (JST 14:00 ～…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/686388722607851053"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-27T14:00+09:00",
+   "end": "2026-08-27T15:45+09:00",
+   "excerpt": "こんにちは。「サドンアタック：ゼロポイント」です。 8/27(木)に定期メンテナンスを実施いたしました。メンテナンスにご協力いただき、誠にありがとうございます。 本パッチノートでは、今回のメンテナンスでの対応内容についてご案内いたします。 アップデートの詳細は以下をご確認くださ…"
+  },
+  {
+   "id": "steam-3576070-679633956871602408",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "アーリーアクセスチャレンジキャンペーン終了および優秀コンテンツ選定結果のご案内",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「アーリーアクセスチャレンジキャンペーン終了および優秀コンテンツ選定結果のご案内」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/679633956871602408"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-27T17:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントです。「アーリーアクセスチャレンジキャンペーン」に多くの関心とご参加をいただいた すべてのクリエイターの皆さまに、心より感謝申し上げます。内部審査を通じて選定された優秀クリエイターの皆さまを、以下の通りご案内いたします。▣ アーリーアクセ…"
+  },
+  {
+   "id": "steam-2584990-707781454544765172",
+   "game": "SVWB",
+   "kind": "major",
+   "title": "Revenants of Azvaldt / アズヴォルト・レヴナント カードパック第9弾発売",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Revenants of Azvaldt / アズヴォルト・レヴナント カード…」",
+     "url": "https://store.steampowered.com/news/app/2584990/view/707781454544765172"
+    }
+   ],
+   "source_key": "steam:2584990",
+   "start": "2026-08-27T19:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 「Revenants of Azvaldt / アズヴォルト・レヴナント」はShadowverse: Worlds Beyondの第9弾カードパックです。76種…"
+  },
+  {
+   "id": "nikke-7fa20c10a220da43c0aab10a59c9b468c56f",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "2026年08月デベロッパー・ノート",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「2026年08月デベロッパー・ノート」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=7fa20c10a220da43c0aab10a59c9b468c56f"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-08-28T15:30+09:00"
+  },
+  {
+   "id": "steam-3576070-679633956871602575",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "Dev Note #14",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Dev Note #14」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/679633956871602575"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-08-28T17:09+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントのディレクター、キム・テヒョンです。 本日は、開発者ノート #11を通じてご案内いたしましたロードマップで一部調整された事項と、今後のアップデート計画についてお話ししたいと思います。 アーリーアクセス以降、アンケートやコミュニティを通じて…"
+  },
+  {
+   "id": "steam-4162040-712284420447405347",
+   "game": "ZZZ",
+   "kind": "event",
+   "title": "Version 3.2 \"Their Secret Histories\" Special Program Announcement",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: 配信）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Version 3.2 \"Their Secret Histories\" Sp…」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/712284420447405347"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-08-28T20:30+09:00",
+   "end": "2026-08-29T11:00+09:00",
+   "excerpt": "Dear Proxies,The Zenless Zone Zero Version 3.2 \"Their Secret Histories\" Special Program will begin on August 28 at 19:30 (UTC+8)!The master…"
+  },
+  {
+   "id": "nikke-06e68bb7a6adfa4784a9840ad9264983847f",
+   "game": "NIKKE",
+   "kind": "patch",
+   "title": "9月3日のアップデートについて（9月3日更新）",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ（2026/08/31 掲載）",
+    "公式告知に「ゲームクライアントがアップデートされる」旨の記載あり",
+    "公式告知でメンテナンス終了（実施済み）を確認"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「9月3日のアップデートについて（9月3日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=06e68bb7a6adfa4784a9840ad9264983847f"
+    },
+    {
+     "label": "NIKKE 公式サイト「9月3日のアップデートによる改善事項」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=7af06bd0aab0ba4421ab5c1a88b1e7a2e1fa"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-09-03",
+   "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
+  },
+  {
+   "id": "nikke-95e66da0a3755a4296abaada13aed63ab28d",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "9月3日既知の問題について",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「9月3日既知の問題について」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=95e66da0a3755a4296abaada13aed63ab28d"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-09-03T17:55+09:00"
+  },
+  {
+   "id": "nikke-cb353d52a90d5a48a9a9deeac1f1e37ee186",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "違法プログラムおよび異常プレイに対する対応について",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「違法プログラムおよび異常プレイに対する対応について」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=cb353d52a90d5a48a9a9deeac1f1e37ee186"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-09-04T17:55+09:00"
+  },
+  {
+   "id": "steam-4162040-714537487845820569",
+   "game": "ZZZ",
+   "kind": "major",
+   "title": "Ver.3.2「秘密と、過去と、彼女たちと」アップデート詳細",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "Steam の公開ビルドが更新されました（ビルドID 24927009、2026/09/09 07:06）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Ver.3.2「秘密と、過去と、彼女たちと」アップデート詳細」",
+     "url": "https://store.steampowered.com/news/app/4162040/view/714537487845820569"
+    },
+    {
+     "label": "Steam ストアページ",
+     "url": "https://store.steampowered.com/app/4162040/"
+    }
+   ],
+   "source_key": "steam:4162040",
+   "start": "2026-09-09T07:06+09:00",
+   "excerpt": "親愛なるプロキシ様へ Ver.3.2「秘密と、過去と、彼女たちと」のアップデート詳細と補償内容は以下となります。 【アップデート開始日時】 2026/09/09 07:00（JST） アップデートの所要時間は約5時間と予想されます。 【補償詳細】 • メンテナンスに伴う補償 補…"
+  },
+  {
+   "id": "lol-26-18",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "リーグ・オブ・レジェンド パッチノート 26.18",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.18 は 2026/09/10（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要",
+    "Riot 公式データ（Data Dragon）でバージョン 16.18 の配信を確認"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    },
+    {
+     "label": "パッチノート（リーグ・オブ・レジェンド パッチノート 26.18）",
+     "url": "https://www.leagueoflegends.com/ja-jp/news/game-updates/league-of-legends-patch-26-18-notes"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-09-10",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "steambuild-1778820-25221600",
+   "game": "T8",
+   "kind": "patch",
+   "title": "クライアント更新",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Steam の公開ビルドが更新されました（ビルドID 25221600、2026/09/10 11:00）"
+   ],
+   "sources": [
+    {
+     "label": "Steam ストアページ",
+     "url": "https://store.steampowered.com/app/1778820/"
+    }
+   ],
+   "source_key": "steambuild",
+   "start": "2026-09-10T11:00+09:00"
+  },
+  {
+   "id": "steam-3576070-686390624621953158",
+   "game": "SAZP",
+   "kind": "patch",
+   "title": "[09/10] パッチノート",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "関連する告知:「[Completed] 09/10 定期メンテナンスのお知らせ (UTC 05:00 - 11:00)」",
+    "告知タイトルに記載の日付「09/10 (UTC 05:00 - 11:00)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[09/10] パッチノート」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/686390624621953158"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 09/10 定期メンテナンスのお知らせ (UTC 05…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/679634590732650570"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-09-10T14:00+09:00",
+   "end": "2026-09-10T20:00+09:00",
+   "excerpt": "こんにちは。「サドンアタック：ゼロポイント」です。9/10(木)に定期メンテナンスを実施いたしました。メンテナンスにご協力いただき、誠にありがとうございます。本パッチノートでは、今回のメンテナンスでの対応内容についてご案内いたします。アップデートの詳細は以下をご確認ください。【…"
+  },
+  {
+   "id": "steam-3576070-686390624621953167",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "現在確認されている不具合・問題について（2026年9月10日更新",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「現在確認されている不具合・問題について（2026年9月10日更新」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/686390624621953167"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-09-15T14:16+09:00",
+   "excerpt": "こんにちは。「サドンアタック：ゼロポイント」です。こんにちは。「サドンアタック：ゼロポイント」です。 いつも『サドンアタック：ゼロポイント』をご利用いただき、誠にありがとうございます。 現在、ゲーム内において以下の不具合・問題を確認しております。 プレイヤーの皆様にはご不便・ご…"
+  },
+  {
+   "id": "steam-2584990-713412222387225565",
+   "game": "SVWB",
+   "kind": "event",
+   "title": "第6回シャドババトルフェスの開催について",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「第6回シャドババトルフェスの開催について」",
+     "url": "https://store.steampowered.com/news/app/2584990/view/713412222387225565"
+    }
+   ],
+   "source_key": "steam:2584990",
+   "start": "2026-09-15T15:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 2026/9/18 15:00から、イベント「第6回シャドババトルフェス」を開催いたします！シャドババトルフェス概要[p align=\"start\"]今回のシャ…"
+  },
+  {
+   "id": "steam-570-677383425371407609",
+   "game": "DOTA",
+   "kind": "patch",
+   "title": "7.41f Gameplay Patch",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: パッチノート）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「7.41f Gameplay Patch」",
+     "url": "https://store.steampowered.com/news/app/570/view/677383425371407609"
+    }
+   ],
+   "source_key": "steam:570",
+   "start": "2026-09-16T03:44+09:00",
+   "excerpt": "Patch 7.41f is out now and you can check out the patch notes here. In addition, we've recently addressed the following issues: Fixed spot o…"
+  },
+  {
+   "id": "nikke-4f808ec1a01fca4d22aa3b4a8d623fe16953",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "2026年09月デベロッパー・ノート",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「2026年09月デベロッパー・ノート」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=4f808ec1a01fca4d22aa3b4a8d623fe16953"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-09-16T23:26+09:00"
+  },
+  {
+   "id": "nikke-f02c3050a1988a4340a9123aab885fcda7ab",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "不正行為対応プロセスおよび改善事項のお知らせ",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「不正行為対応プロセスおよび改善事項のお知らせ」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=f02c3050a1988a4340a9123aab885fcda7ab"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-09-16T23:26+09:00"
+  },
+  {
+   "id": "nikke-0847b7c3a42aea43d4a930cab8df589258af",
+   "game": "NIKKE",
+   "kind": "patch",
+   "title": "9月17日のアップデートについて（9月17日更新）",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ（2026/09/14 掲載）",
+    "公式告知に「ゲームクライアントがアップデートされる」旨の記載あり",
+    "公式告知でメンテナンス終了（実施済み）を確認"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「9月17日のアップデートについて（9月17日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=0847b7c3a42aea43d4a930cab8df589258af"
+    },
+    {
+     "label": "NIKKE 公式サイト「9月17日のアップデートによる改善事項」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=0617574da4bf9a4bcca92d8adac01607b48b"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-09-17",
+   "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
+  },
+  {
+   "id": "steam-3576070-686390624621954196",
+   "game": "SAZP",
+   "kind": "patch",
+   "title": "[09/17] パッチノート",
+   "all_day": false,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "関連する告知:「[Completed] 09/17 定期メンテナンスのお知らせ (JST 14:00 - 16:20)」",
+    "告知タイトルに記載の日付「09/17 (JST 14:00 - 16:20)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[09/17] パッチノート」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/686390624621954196"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 09/17 定期メンテナンスのお知らせ (JST 14…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/686390624621954194"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-09-17T14:00+09:00",
+   "end": "2026-09-17T16:20+09:00",
+   "excerpt": "こんにちは。「サドンアタック：ゼロポイント」です。9/17(木)に定期メンテナンスを実施いたしました。メンテナンスにご協力いただき、誠にありがとうございます。本パッチノートでは、今回のメンテナンスでの対応内容についてご案内いたします。アップデートの詳細は以下をご確認ください。【…"
+  },
+  {
+   "id": "nikke-36642dc1a145aa46c9a9baaa373086b5e85b",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "9月17日既知の問題について（9月24日更新）",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「9月17日既知の問題について（9月24日更新）」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=36642dc1a145aa46c9a9baaa373086b5e85b"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-09-17T17:56+09:00"
+  },
+  {
+   "id": "hoyo-GI-pre7.1",
+   "game": "GI",
+   "kind": "pre",
+   "title": "Ver.7.1 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知（2026/09/21 12:10 掲載）に「事前ダウンロードが可能」と記載"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.7.1バージョンアップのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46771203"
+    },
+    {
+     "label": "HoYoLAB「Ver.7.1「冥府へのレクイエム」正式リリース」",
+     "url": "https://www.hoyolab.com/article/46791577"
+    }
+   ],
+   "source_key": "hoyoverse:gopR6Cufr3",
+   "start": "2026-09-21T12:10+09:00",
+   "end": "2026-09-23T07:00+09:00",
+   "size": "約10GB（公式告知・PC）"
+  },
+  {
+   "id": "steam-3576070-672880459492885291",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "Dev Note #15",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「Dev Note #15」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/672880459492885291"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-09-21T16:00+09:00",
+   "excerpt": "こんにちは。サドンアタック：ゼロポイントのディレクター、キム・テヒョンです。 10/1(木)よりプレシーズン2が開始されます。今回の開発者ノートでは、プレシーズン2で変更および追加される内容を事前にお知らせいたします。 プレシーズン1の間、多くの方にランクマッチにご参加いただき…"
+  },
+  {
+   "id": "steam-3576070-672880459492885330",
+   "game": "SAZP",
+   "kind": "news",
+   "title": "サドンアタック：ゼロポイント DirectX 12 Beta",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「サドンアタック：ゼロポイント DirectX 12 Beta」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/672880459492885330"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-09-22T10:00+09:00",
+   "excerpt": "皆さん、こんにちは。サドンアタック：ゼロポイントです。 多くのユーザー様からご要望いただいておりましたフレーム性能改善のため、\\[DirectX 12の適用]に向けたR&Dを継続的に準備してまいりました。 その成果をいち早く皆様にお届けするため、9/22(火) 14:00よりS…"
+  },
+  {
+   "id": "lol-26-19",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "パッチノート 26.19",
+   "all_day": true,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.19 は 2026/09/23（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要",
+    "Riot 公式データ（Data Dragon）でバージョン 16.19 の配信を確認"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    },
+    {
+     "label": "パッチノート（パッチノート 26.19）",
+     "url": "https://www.leagueoflegends.com/ja-jp/news/game-updates/league-of-legends-patch-26-19-notes"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-09-23",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "steambuild-2357570-25234251",
+   "game": "OW",
+   "kind": "patch",
+   "title": "クライアント更新",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Steam の公開ビルドが更新されました（ビルドID 25234251、2026/09/23 02:59）"
+   ],
+   "sources": [
+    {
+     "label": "Steam ストアページ",
+     "url": "https://store.steampowered.com/app/2357570/"
+    }
+   ],
+   "source_key": "steambuild",
+   "start": "2026-09-23T02:59+09:00"
+  },
+  {
+   "id": "hoyo-GI-v7.1",
+   "game": "GI",
+   "kind": "major",
+   "title": "Ver.7.1「冥府へのレクイエム」バージョンアップ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "公式告知: 2026/09/23 06:00 (UTC+8) からバージョンアップメンテナンス（日本時間 2026/09/23 07:00）",
+    "バージョンアップではゲームクライアントの更新（ダウンロード）が必要",
+    "公式ランチャー（HoYoPlay）の配信バージョン（7.1.0）から、配信済みであることを確認"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.7.1バージョンアップのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46771203"
+    },
+    {
+     "label": "HoYoLAB「Ver.7.1「冥府へのレクイエム」正式リリース」",
+     "url": "https://www.hoyolab.com/article/46791577"
+    }
+   ],
+   "source_key": "hoyoverse:gopR6Cufr3",
+   "start": "2026-09-23T07:00+09:00",
+   "end": "2026-09-23T12:00+09:00",
+   "size": "約9.8GB（PC・Ver.7.0から更新・本体＋日本語音声）",
+   "excerpt": "親愛なる旅人さんへ 2026/09/23 06:00 (UTC+8)よりバージョンアップに伴うメンテナンスを実施いたします。メンテナンス終了後、最新のVer.7.1「冥府へのレクイエム」に更新されます。 ただいまVer.7.1の事前ダウンロードが可能です。ゲームの一部アップデー…"
+  },
+  {
+   "id": "steam-1364780-714538756043964426",
+   "game": "SF6",
+   "kind": "news",
+   "title": "新たな挑戦者がアウトランズに参戦！",
+   "all_day": false,
+   "dl": "no",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "前後24時間に Steam のビルド更新がないため、ゲーム本体のダウンロードは発生していません"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「新たな挑戦者がアウトランズに参戦！」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/714538756043964426"
+    }
+   ],
+   "source_key": "steam:1364780",
+   "start": "2026-09-23T12:00+09:00",
+   "excerpt": "ストリートファイター6のキャラがオリンパスに降り立つ！リュウ、春麗、豪鬼、ダルシムをモチーフにしたファイターギアを装備し、「波動拳」ミシックユニバーサル近接武器を駆使して戦え。ショーダウンで激闘を繰り広げ、ストリートファイター6をモチーフにした限定コスメティックをアンロックしよ…"
+  },
+  {
+   "id": "hoyo-HSR-pre4.6",
+   "game": "HSR",
+   "kind": "pre",
+   "title": "Ver.4.6 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知: 事前ダウンロード開始 2026/09/24 15:00 (JST)"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.4.6アップデートメンテナンスのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46814308"
+    },
+    {
+     "label": "HoYoLAB「Ver.4.6「月立つ前に獣と踊れ」アップデートについて」",
+     "url": "https://www.hoyolab.com/article/46861607"
+    }
+   ],
+   "source_key": "hoyoverse:4ziysqXOQ8",
+   "start": "2026-09-24T15:00+09:00",
+   "end": "2026-09-28T07:00+09:00",
+   "size": "約3.58GB（公式告知・PC）"
+  },
+  {
+   "id": "hoyo-HSR-v4.6",
+   "game": "HSR",
+   "kind": "major",
+   "title": "Ver.4.6「月立つ前に獣と踊れ」バージョンアップ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "公式告知: 2026/09/28 07:00 (JST) からバージョンアップメンテナンス（日本時間 2026/09/28 07:00）",
+    "バージョンアップではゲームクライアントの更新（ダウンロード）が必要",
+    "公式ランチャー（HoYoPlay）の配信バージョン（4.6.0）から、配信済みであることを確認"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.4.6アップデートメンテナンスのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46814308"
+    },
+    {
+     "label": "HoYoLAB「Ver.4.6「月立つ前に獣と踊れ」アップデートについて」",
+     "url": "https://www.hoyolab.com/article/46861607"
+    }
+   ],
+   "source_key": "hoyoverse:4ziysqXOQ8",
+   "start": "2026-09-28T07:00+09:00",
+   "end": "2026-09-28T12:00+09:00",
+   "size": "約3.4GB（PC・Ver.4.5から更新・本体＋日本語音声）",
+   "excerpt": "親愛なる開拓者様へ Ver.4.6の事前ダウンロードは2026/09/24 15:00 (JST)に開始いたします。開拓者の皆様は、事前に一部リソースをダウンロードしていただくと、バージョンアップメンテナンス終了後、より早くゲームにログインできます。 また、列車運営チームは20…"
+  },
+  {
+   "id": "steam-2584990-705532193278002902",
+   "game": "SVWB",
+   "kind": "event",
+   "title": "バトルパスシーズン16開催！",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「バトルパスシーズン16開催！」",
+     "url": "https://store.steampowered.com/news/app/2584990/view/705532193278002902"
+    }
+   ],
+   "source_key": "steam:2584990",
+   "start": "2026-09-30T09:53+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 2026/9/29のメンテナンス後から、バトルパスシーズン16を開催いたします。 開催期間2026/9/29 メンテナンス後 ～ 第10弾メンテナンス開始までバ…"
+  },
+  {
+   "id": "steam-3576070-687518426922483870",
+   "game": "SAZP",
+   "kind": "patch",
+   "title": "[10/01] パッチノート",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "関連する告知:「[Completed] 10/01 定期メンテナンスのお知らせ (JST 14:00 - 17:30)」",
+    "告知タイトルに記載の日付「10/01 (JST 14:00 - 17:30)」",
+    "Steam の公開ビルドが更新されました（ビルドID 25644663、2026/10/01 14:03）"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[10/01] パッチノート」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/687518426922483870"
+    },
+    {
+     "label": "Steamのお知らせ「[Completed] 10/01 定期メンテナンスのお知らせ (JST 14…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/686391894866921769"
+    },
+    {
+     "label": "Steam ストアページ",
+     "url": "https://store.steampowered.com/app/3576070/"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-10-01T14:00+09:00",
+   "end": "2026-10-01T17:30+09:00",
+   "excerpt": "こんにちは。「サドンアタック：ゼロポイント」です。10/1(木)に定期メンテナンスを実施いたしました。メンテナンスにご協力いただき、誠にありがとうございます。本パッチノートでは、今回のメンテナンスでの対応内容についてご案内いたします。アップデートの詳細は以下をご確認ください。【…"
+  },
+  {
+   "id": "steambuild-570-25664722",
+   "game": "DOTA",
+   "kind": "patch",
+   "title": "クライアント更新",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Steam の公開ビルドが更新されました（ビルドID 25664722、2026/10/02 08:18）"
+   ],
+   "sources": [
+    {
+     "label": "Steam ストアページ",
+     "url": "https://store.steampowered.com/app/570/"
+    }
+   ],
+   "source_key": "steambuild",
+   "start": "2026-10-02T08:18+09:00"
+  },
+  {
+   "id": "steambuild-2584990-25618210",
+   "game": "SVWB",
+   "kind": "patch",
+   "title": "クライアント更新",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Steam の公開ビルドが更新されました（ビルドID 25618210、2026/10/02 11:35）"
+   ],
+   "sources": [
+    {
+     "label": "Steam ストアページ",
+     "url": "https://store.steampowered.com/app/2584990/"
+    }
+   ],
+   "source_key": "steambuild",
+   "start": "2026-10-02T11:35+09:00"
+  },
+  {
+   "id": "lol-26-20",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "パッチ 26.20",
+   "all_day": true,
+   "dl": "yes",
+   "status": "scheduled",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.20 は 2026/10/07（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-10-07",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "steam-1364780-676256891013169832",
+   "game": "SF6",
+   "kind": "major",
+   "title": "アルジュンが自身の“シネマチックな信念”を携えて『ストリートファイター6』に10月13日に参戦！",
+   "all_day": true,
+   "dl": "likely",
+   "status": "scheduled",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "告知タイトルに記載の日付「10月13日」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「アルジュンが自身の“シネマチックな信念”を携えて『ストリートファイター6』に1…」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/676256891013169832"
+    },
+    {
+     "label": "Steamのお知らせ「Year 4追加キャラクター第2弾「アルジュン」が2026年10月13日に参戦！」",
+     "url": "https://store.steampowered.com/news/app/1364780/view/676256891013171551"
+    }
+   ],
+   "source_key": "steam:1364780",
+   "start": "2026-10-13",
+   "excerpt": "深く息を吸い、身体に流れるエネルギーを感じよう。そして、この言葉を心に刻もう。「アルジュンが10月13日に『ストリートファイター6』へ参戦する。」もう一度、その言葉を静かに繰り返そう。なぜなら、この復讐に燃える巨漢と対峙するには、ありったけの忍耐が必要になるからだ。本日の“ヨガ…"
+  },
+  {
+   "id": "lol-26-21",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "パッチ 26.21",
+   "all_day": true,
+   "dl": "yes",
+   "status": "scheduled",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.21 は 2026/10/21（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-10-21",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "lol-26-22",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "パッチ 26.22",
+   "all_day": true,
+   "dl": "yes",
+   "status": "scheduled",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.22 は 2026/11/04（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-11-04",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "lol-26-23",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "パッチ 26.23",
+   "all_day": true,
+   "dl": "yes",
+   "status": "scheduled",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.23 は 2026/11/18（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-11-18",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  },
+  {
+   "id": "lol-26-24",
+   "game": "LOL",
+   "kind": "patch",
+   "title": "パッチ 26.24",
+   "all_day": true,
+   "dl": "yes",
+   "status": "scheduled",
+   "basis": [
+    "Riot 公式パッチスケジュール: パッチ 26.24 は 2026/12/09（太平洋時間）",
+    "LoL の定期パッチは Riot クライアントでのダウンロードが必要"
+   ],
+   "sources": [
+    {
+     "label": "Riot 公式パッチスケジュール",
+     "url": "https://support.riotgames.com/en-us/league-of-legends/gameplay/patch-schedule-league-of-legends"
+    }
+   ],
+   "source_key": "lol",
+   "start": "2026-12-09",
+   "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
+  }
+ ],
+ "sources": [
+  {
+   "key": "steambuild",
+   "label": "Steam ビルド更新",
+   "games": [
+    "SAZP",
+    "OW",
+    "T8",
+    "SF6",
+    "DOTA",
+    "SVWB",
+    "ZZZ"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "steam:3576070",
+   "label": "Steam のお知らせ",
+   "games": [
+    "SAZP"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "steam:2357570",
+   "label": "Steam のお知らせ",
+   "games": [
+    "OW"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "steam:1778820",
+   "label": "Steam のお知らせ",
+   "games": [
+    "T8"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "steam:1364780",
+   "label": "Steam のお知らせ",
+   "games": [
+    "SF6"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "steam:570",
+   "label": "Steam のお知らせ",
+   "games": [
+    "DOTA"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "steam:2584990",
+   "label": "Steam のお知らせ",
+   "games": [
+    "SVWB"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "steam:4162040",
+   "label": "Steam のお知らせ",
+   "games": [
+    "ZZZ"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "hoyoplay",
+   "label": "HoYoPlay（公式ランチャー）",
+   "games": [
+    "GI",
+    "HSR",
+    "ZZZ"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "hoyoverse:gopR6Cufr3",
+   "label": "HoYoLAB の公式お知らせ",
+   "games": [
+    "GI"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "hoyoverse:4ziysqXOQ8",
+   "label": "HoYoLAB の公式お知らせ",
+   "games": [
+    "HSR"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "hoyoverse:U5hbdsT9W7",
+   "label": "HoYoLAB の公式お知らせ",
+   "games": [
+    "ZZZ"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "lol",
+   "label": "Riot 公式（スケジュール・パッチノート）",
+   "games": [
+    "LOL"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  },
+  {
+   "key": "nikke",
+   "label": "NIKKE 公式サイトのお知らせ",
+   "games": [
+    "NIKKE"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-02T20:38+09:00"
+  }
+ ]
+}
