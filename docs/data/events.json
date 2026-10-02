@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T21:09+09:00",
+ "generated_at": "2026-10-03T03:34+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -112,27 +112,6 @@
    "start": "2026-06-04T20:05+09:00",
    "end": "2026-06-07T08:30+09:00",
    "excerpt": "Dear Proxies,The Zenless Zone Zero Version 3.0 \"A Sleepwalker's Confession\" Special Program will officially air on June 6 at 19:30 (UTC+8)!…"
-  },
-  {
-   "id": "steam-2357570-694261777025729930",
-   "game": "OW",
-   "kind": "news",
-   "title": "ジャンクラットのトレジャー・ハント",
-   "all_day": false,
-   "dl": "unknown",
-   "status": "announced",
-   "basis": [
-    "Steamのお知らせ（種類: ニュース）"
-   ],
-   "sources": [
-    {
-     "label": "Steamのお知らせ「ジャンクラットのトレジャー・ハント」",
-     "url": "https://store.steampowered.com/news/app/2357570/view/694261777025729930"
-    }
-   ],
-   "source_key": "steam:2357570",
-   "start": "2026-06-05T03:00+09:00",
-   "excerpt": "ジャンクラットのトレジャー・ハントトレジャー・ボックスを最大9個入手可能 - 好きな時間にマッチを重ねれば重ねるほどボックスが手に入る「ジャンクラットのトレジャー・ハント」の新弾を配信します！6月6～9日までの期間限定です。"
   },
   {
    "id": "steam-570-672870947178414450",
@@ -3082,7 +3061,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "steam:3576070",
@@ -3092,7 +3071,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "steam:2357570",
@@ -3102,7 +3081,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "steam:1778820",
@@ -3112,7 +3091,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "steam:1364780",
@@ -3122,7 +3101,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "steam:570",
@@ -3132,7 +3111,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "steam:2584990",
@@ -3142,7 +3121,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "steam:4162040",
@@ -3152,7 +3131,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "hoyoplay",
@@ -3164,7 +3143,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -3174,7 +3153,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -3184,7 +3163,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -3194,7 +3173,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "lol",
@@ -3204,7 +3183,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   },
   {
    "key": "nikke",
@@ -3214,7 +3193,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T21:09+09:00"
+   "last_success": "2026-10-03T03:34+09:00"
   }
  ]
 }
