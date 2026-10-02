@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T20:38+09:00",
+ "generated_at": "2026-10-02T21:09+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -3082,7 +3082,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "steam:3576070",
@@ -3092,7 +3092,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "steam:2357570",
@@ -3102,7 +3102,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "steam:1778820",
@@ -3112,7 +3112,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "steam:1364780",
@@ -3122,7 +3122,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "steam:570",
@@ -3132,7 +3132,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "steam:2584990",
@@ -3142,7 +3142,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "steam:4162040",
@@ -3152,7 +3152,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "hoyoplay",
@@ -3164,7 +3164,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -3174,7 +3174,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -3184,7 +3184,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -3194,7 +3194,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "lol",
@@ -3204,7 +3204,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   {
    "key": "nikke",
@@ -3214,7 +3214,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   }
  ]
 }

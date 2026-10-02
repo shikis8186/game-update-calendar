@@ -8,8 +8,8 @@
      "first_seen": "2026-10-02T20:27+09:00"
     }
    ],
-   "checked_at": "2026-10-02T20:38+09:00",
-   "origin": "api.steamcmd.net"
+   "checked_at": "2026-10-02T21:09+09:00",
+   "origin": "SteamCMD"
   },
   "2357570": {
    "history": [
@@ -19,8 +19,8 @@
      "first_seen": "2026-10-02T20:27+09:00"
     }
    ],
-   "checked_at": "2026-10-02T20:38+09:00",
-   "origin": "api.steamcmd.net"
+   "checked_at": "2026-10-02T21:09+09:00",
+   "origin": "SteamCMD"
   },
   "1778820": {
    "history": [
@@ -30,8 +30,8 @@
      "first_seen": "2026-10-02T20:27+09:00"
     }
    ],
-   "checked_at": "2026-10-02T20:38+09:00",
-   "origin": "api.steamcmd.net"
+   "checked_at": "2026-10-02T21:09+09:00",
+   "origin": "SteamCMD"
   },
   "1364780": {
    "history": [
@@ -41,8 +41,8 @@
      "first_seen": "2026-10-02T20:27+09:00"
     }
    ],
-   "checked_at": "2026-10-02T20:38+09:00",
-   "origin": "api.steamcmd.net"
+   "checked_at": "2026-10-02T21:09+09:00",
+   "origin": "SteamCMD"
   },
   "570": {
    "history": [
@@ -52,8 +52,8 @@
      "first_seen": "2026-10-02T20:27+09:00"
     }
    ],
-   "checked_at": "2026-10-02T20:38+09:00",
-   "origin": "api.steamcmd.net"
+   "checked_at": "2026-10-02T21:09+09:00",
+   "origin": "SteamCMD"
   },
   "2584990": {
    "history": [
@@ -63,8 +63,8 @@
      "first_seen": "2026-10-02T20:27+09:00"
     }
    ],
-   "checked_at": "2026-10-02T20:38+09:00",
-   "origin": "api.steamcmd.net"
+   "checked_at": "2026-10-02T21:09+09:00",
+   "origin": "SteamCMD"
   },
   "4162040": {
    "history": [
@@ -74,8 +74,8 @@
      "first_seen": "2026-10-02T20:27+09:00"
     }
    ],
-   "checked_at": "2026-10-02T20:38+09:00",
-   "origin": "api.steamcmd.net"
+   "checked_at": "2026-10-02T21:09+09:00",
+   "origin": "SteamCMD"
   }
  },
  "hoyoverse": {
@@ -106,46 +106,46 @@
  },
  "source_status": {
   "steambuild": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "steam:3576070": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "steam:2357570": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "steam:1778820": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "steam:1364780": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "steam:570": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "steam:2584990": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "steam:4162040": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "hoyoplay": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "hoyoverse:gopR6Cufr3": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "hoyoverse:4ziysqXOQ8": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "hoyoverse:U5hbdsT9W7": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "lol": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   },
   "nikke": {
-   "last_success": "2026-10-02T20:38+09:00"
+   "last_success": "2026-10-02T21:09+09:00"
   }
  }
 }
