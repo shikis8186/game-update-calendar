@@ -114,9 +114,11 @@ def _judge_after(item: Item) -> datetime:
 
 
 def link(items: list[Item], builds: list[Item], coverage_from: datetime | None,
-         checked_at: datetime | None) -> list[Item]:
+         checked_at: datetime | None, judge_no_download: bool = True) -> list[Item]:
     """items（同じゲームの告知）と builds（同じゲームのビルド更新）を突き合わせる。
-    どの告知とも結び付かなかったビルド更新を返す（そのまま「クライアント更新」として載せる）。"""
+    どの告知とも結び付かなかったビルド更新を返す（そのまま「クライアント更新」として載せる）。
+    judge_no_download=False のゲーム（追加データをゲーム内でダウンロードするもの）は、
+    ビルド更新がないことを「ダウンロードなし」の根拠にしない。"""
     candidates = [i for i in items if i.kind in UPDATE_KINDS and not i.merged]
     unmatched: list[Item] = []
     for b in builds:
@@ -143,7 +145,7 @@ def link(items: list[Item], builds: list[Item], coverage_from: datetime | None,
         b.merged = True
 
     # 監視期間内で、前後にビルド更新がなかった告知は「ダウンロードなし」と確定する
-    if coverage_from and checked_at:
+    if judge_no_download and coverage_from and checked_at:
         for i in candidates:
             if i.merged or i.status == ST_CONFIRMED or i.dl == DL_YES:
                 continue

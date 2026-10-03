@@ -28,6 +28,28 @@ Ver.4.6の事前ダウンロードは2026/09/24 15:00 (JST)に開始いたしま
 ● PC端末の事前ダウンロードリソースパックのサイズは約3.58GBです。""")
 
 
+ZZZ_TEXT = norm("""親愛なるプロキシ様へ
+Ver.3.2の事前ダウンロードが開始されました。
+【事前ダウンロード期間】2026/09/07 13:00 (JST) ~ 2026/09/09 06:50 (JST)
+【事前ダウンロード詳細】● PC端末
+事前ダウンロードリソースのサイズはおよそ 6 GBです。
+● モバイル端末(Android、iOS)
+事前ダウンロードリソースのサイズはおよそ 5 GBです。
+なお、近日中にバージョンアップに伴うメンテナンスが行われる予定です。
+【バージョンアップ日時】2026/09/09 07:00 (JST)より開始、所要時間は約5時間と予想されます。
+メンテナンスに伴う補償の範囲:2026/09/09 07:00 (JST) までにインターノットレベルが4以上に達したプロキシ様。""")
+
+GI_LUNA_TEXT = norm("""2026/07/01 06:00 (UTC+8)よりバージョンアップに伴うメンテナンスを実施いたします。
+ただいま「Luna VIII」の事前ダウンロードが可能です。
+PC版:7GB""")
+
+HSR_COLLAB_TEXT = norm("""親愛なる開拓者の皆様へ
+列車運営チームは2026/07/21 16:00(JST)に、コラボイベント「幻造:聖杯戦争」に伴うアップデートを行いました。2026/07/23 15:00 (JST)までにアップデートデータをダウンロードしなかった場合、強制終了が発生します。
+ゲームを再起動すると、PC版では約【540】MB、Android版では約【300】MBのデータが更新されます。""")
+
+ZZZ_BIRTHDAY_TEXT = norm("""• 2026/07/04 01:00:00(JST)以降、誕生日メールにて配布される誕生日プレゼントが更新されます。""")
+
+
 def post(pid, subject, posted):
     return {"id": pid, "subject": subject, "posted": posted}
 
@@ -48,6 +70,70 @@ class PreNoticeTest(unittest.TestCase):
         self.assertEqual(pn.pre_start, datetime(2026, 9, 24, 15, 0, tzinfo=JST))
         self.assertEqual(pn.maint_start, datetime(2026, 9, 28, 7, 0, tzinfo=JST))
         self.assertEqual(pn.pc_size_gb, "3.58")
+
+
+class NewFormatsTest(unittest.TestCase):
+    """2026-10-03 の調査で見つかった取りこぼしの再発防止。"""
+
+    def test_zzz_predownload_period(self):
+        pn = hoyoverse.parse_pre_notice(post("z", "Ver.3.2「秘密と、過去と、彼女たちと」事前ダウンロード開始＆アップデートのお知らせ",
+                                             datetime(2026, 9, 7, 13, 5, tzinfo=JST)), ZZZ_TEXT)
+        self.assertEqual(pn.pre_start, datetime(2026, 9, 7, 13, 0, tzinfo=JST))
+        self.assertEqual(pn.pre_end, datetime(2026, 9, 9, 6, 50, tzinfo=JST))
+        self.assertEqual(pn.maint_start, datetime(2026, 9, 9, 7, 0, tzinfo=JST))
+        self.assertEqual(pn.duration_h, 5)
+        self.assertEqual(pn.pc_size_gb, "6")
+
+    def test_zzz_notice_title_is_recognized(self):
+        notices = [post("z", "Ver.3.2「秘密と、過去と、彼女たちと」事前ダウンロード開始＆アップデートのお知らせ",
+                        datetime(2026, 9, 7, 13, 5, tzinfo=JST))]
+        versions = hoyoverse.collect_versions(notices, fetch_text=lambda pid: ZZZ_TEXT)
+        self.assertEqual(versions["3.2"].name, "秘密と、過去と、彼女たちと")
+        self.assertIsNotNone(versions["3.2"].pre)
+
+    def test_named_version_luna(self):
+        self.assertEqual(hoyoverse.version_of("「Luna Ⅷ」バージョンアップのお知らせ"), ("Luna VIII", "Luna VIII"))
+        notices = [
+            post("a", "「Luna Ⅷ」バージョンアップのお知らせ", datetime(2026, 6, 29, 12, 10, tzinfo=JST)),
+            post("b", "「『空月の歌・喜曲』帰夏！映影？千霊祭！」「Luna Ⅷ」正式リリース", datetime(2026, 7, 1, 8, 0, tzinfo=JST)),
+        ]
+        versions = hoyoverse.collect_versions(notices, fetch_text=lambda pid: GI_LUNA_TEXT)
+        info = versions["Luna VIII"]
+        self.assertEqual(info.name, "『空月の歌・喜曲』帰夏!映影?千霊祭!", "バージョン名ではなく副題を使う")
+        now = datetime(2026, 7, 5, tzinfo=JST)
+        items = hoyoverse.build_items("GI", {"launcher_id": "x"}, None, versions, {}, now, now - timedelta(days=120))
+        major = next(i for i in items if i.kind == KIND_MAJOR)
+        self.assertEqual(major.start, datetime(2026, 7, 1, 7, 0, tzinfo=JST))
+        self.assertEqual(major.status, ST_CONFIRMED, "正式リリースの告知で配信済みを確認")
+        self.assertTrue(any(i.kind == KIND_PRE for i in items))
+
+    def test_release_hint_gives_early_date(self):
+        info_posts = [post("h", "【原神】Ver.7.2「新章」イベントまとめ", datetime(2026, 10, 24, 22, 20, tzinfo=JST))]
+        versions: dict = {}
+        now = datetime(2026, 10, 25, tzinfo=JST)
+        hoyoverse.collect_release_hints(versions, info_posts, now,
+                                        fetch_text=lambda pid: "【原神】Ver.7.2「新章」は2026年11月4日にリリースされます")
+        items = hoyoverse.build_items("GI", {"launcher_id": "x"}, None, versions, {}, now, now - timedelta(days=120))
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].start, datetime(2026, 11, 4, tzinfo=JST))
+        self.assertTrue(items[0].all_day)
+        self.assertEqual(items[0].status, ST_SCHEDULED)
+
+    def test_extra_update_with_download(self):
+        notices = [
+            post("c", "Fate[UBW]コラボアップデートのお知らせ", datetime(2026, 7, 23, 13, 0, tzinfo=JST)),
+            post("d", "「誕生日プレゼント」アップデート詳細", datetime(2026, 7, 2, 13, 30, tzinfo=JST)),
+            post("e", "Ver.4.6ショップ更新", datetime(2026, 9, 20, 21, 15, tzinfo=JST)),
+        ]
+        texts = {"c": HSR_COLLAB_TEXT, "d": ZZZ_BIRTHDAY_TEXT, "e": "ショップの商品が更新されます"}
+        now = datetime(2026, 10, 3, tzinfo=JST)
+        items = hoyoverse.build_extra_updates("HSR", {"launcher_id": "x"}, notices, now, now - timedelta(days=120),
+                                              fetch_text=lambda pid: texts[pid])
+        self.assertEqual([i.title for i in items], ["Fate[UBW]コラボアップデートのお知らせ"], "ダウンロードの記載がない告知は載せない")
+        it = items[0]
+        self.assertEqual(it.start, datetime(2026, 7, 21, 16, 0, tzinfo=JST))
+        self.assertEqual(it.size, "約540MB（公式告知・PC）")
+        self.assertEqual((it.dl, it.status), (DL_YES, ST_CONFIRMED))
 
 
 class BuildItemsTest(unittest.TestCase):

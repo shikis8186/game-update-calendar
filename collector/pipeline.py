@@ -15,7 +15,7 @@ from .common import FetchError, from_ts, log, now_jst, parse_iso, to_iso
 from .linking import build_items as steam_build_items
 from .linking import cluster, link
 from .model import Item
-from .sources import blizzard_ow, hoyoverse, lol, nikke, steam_builds, steam_news
+from .sources import blizzard_ow, hoyoverse, lol, nikke, shadowverse_wb, steam_builds, steam_news
 
 PAST_DAYS = 120     # 過去何日分を残すか
 FUTURE_DAYS = 240   # 先何日分まで載せるか
@@ -93,6 +93,17 @@ def run(root: Path, steamcmd: str | None = None, now: datetime | None = None) ->
             res.ok, res.message = False, str(e)
         results.append(res)
 
+    # ---------------------------------------------------------------- シャドバ公式サイト
+    for g in games:
+        if not (g.get("shadowverse_wb") or {}).get("enabled"):
+            continue
+        res = SourceResult("shadowverse_wb", "シャドバ公式サイトのお知らせ", [g["id"]])
+        try:
+            res.items = shadowverse_wb.build_items(g["id"], shadowverse_wb.fetch_list(since), now, since)
+        except FetchError as e:
+            res.ok, res.message = False, str(e)
+        results.append(res)
+
     # ---------------------------------------------------------------- HoYoverse
     hoyo_games = [g for g in games if g.get("hoyoverse")]
     branches: dict = {}
@@ -109,10 +120,15 @@ def run(root: Path, steamcmd: str | None = None, now: datetime | None = None) ->
         res = SourceResult(f"hoyoverse:{cfg['launcher_id']}", "HoYoLAB の公式お知らせ", [g["id"]])
         gstate = hstate.setdefault(cfg["launcher_id"], {})
         try:
-            notices = hoyoverse.fetch_notices(cfg["hoyolab_gid"])
+            notices = hoyoverse.fetch_notices(cfg["hoyolab_gid"], since)
             versions = hoyoverse.collect_versions(notices)
+            # 予告番組のまとめなどに書かれた、早めのリリース日（例: 原神は約11日前に告知される）
+            info_posts = hoyoverse.fetch_posts(cfg["hoyolab_gid"], 3, now - timedelta(days=30), max_pages=2)
+            hoyoverse.collect_release_hints(versions, info_posts, now)
             res.items = hoyoverse.build_items(g["id"], cfg, branches.get(cfg["launcher_id"]), versions,
                                               gstate, now, since)
+            # バージョン更新以外の追加データ更新（コラボ用データの配信など）
+            res.items += hoyoverse.build_extra_updates(g["id"], cfg, notices, now, since)
         except FetchError as e:
             res.ok, res.message = False, str(e)
             # お知らせが取れなくても、ランチャーで見えたバージョンの履歴は記録しておく（予定は前回分を表示）
@@ -171,7 +187,8 @@ def run(root: Path, steamcmd: str | None = None, now: datetime | None = None) ->
         coverage_from = from_ts(hist[0]["timeupdated"]) if hist else None
         checked_at = parse_iso(st["checked_at"]) if st.get("checked_at") else None
         game_items = [i for i in all_items if i.game == g["id"]]
-        unmatched = link(game_items, builds, coverage_from, checked_at)
+        judge = not g["steam"].get("downloads_outside_steam", False)
+        unmatched = link(game_items, builds, coverage_from, checked_at, judge_no_download=judge)
         # お知らせの取得に失敗して前回分を表示している場合、そこに含まれるビルド更新は二重に載せない
         carried_basis = " ".join(" ".join(i.get("basis", [])) for i in carried if i.get("game") == g["id"])
         all_items.extend(b for b in unmatched

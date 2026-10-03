@@ -10,6 +10,7 @@
 #   [games.hoyoverse] launcher_id … HoYoPlay（公式ランチャー）のゲームID
 #                     hoyolab_gid … HoYoLAB の公式お知らせのゲーム番号
 #   [games.blizzard_overwatch] enabled … オーバーウォッチ公式サイトのパッチノート・ニュース（OVERWATCH 用）
+#   [games.shadowverse_wb] enabled  … シャドバ公式サイトのお知らせ（Shadowverse WB 用）
 #   [games.lol]       enabled     … LoL 用（公式パッチスケジュール・パッチノート）
 #   [games.nikke]     enabled     … NIKKE 用（公式サイトのお知らせ）
 
@@ -71,6 +72,11 @@ color = "#534AB7"
 text_color = "#FFFFFF"
 [games.steam]
 appid = 2584990
+# 追加データはゲーム内でダウンロードされるため、Steam の更新がないことを「ダウンロードなし」の根拠にしない
+downloads_outside_steam = true
+# メンテナンスやアップデートの告知は Steam に載らないため、公式サイト（日本語）のお知らせを使います
+[games.shadowverse_wb]
+enabled = true
 
 [[games]]
 id = "GI"

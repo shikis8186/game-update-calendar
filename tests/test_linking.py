@@ -79,6 +79,11 @@ class LinkTest(unittest.TestCase):
         link([hotfix], builds("2026-10-02T08:00"), dt("2026-10-02T08:00"), dt("2026-10-10T12:30"))
         self.assertEqual(hotfix.dl, DL_NO, "サーバー側だけの修正（ビルド更新なし）はダウンロードなし")
 
+    def test_in_game_download_games_are_not_judged_no(self):
+        maint = item("svwb", KIND_MAINT, "2026-09-29T14:00", "2026-09-29T17:00")
+        link([maint], builds("2026-08-01T12:00"), dt("2026-08-01T12:00"), dt("2026-10-02T20:00"), judge_no_download=False)
+        self.assertEqual(maint.dl, DL_UNKNOWN, "ゲーム内でデータをダウンロードするゲームは、ビルド更新がなくても「なし」にしない")
+
     def test_japanese_official_title_is_preferred(self):
         steam = item("steam", KIND_MAJOR, "2026-08-12T02:55", title="Overwatch Season 4 Now Live!", etype=14)
         notes = item("notes", KIND_MAJOR, "2026-08-12T00:00", title="[オーバーウォッチ] 2026年8月12日配信パッチ内容のおしらせ")

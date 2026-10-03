@@ -96,7 +96,7 @@
 
   function dlText(it) {
     if (it.dl === "yes") return it.status === "confirmed" ? "あり（確定）" : "あり（公式告知に記載）";
-    if (it.dl === "likely") return "あり見込み（告知の種類から推定・配信後に確定）";
+    if (it.dl === "likely") return it.status === "confirmed" ? "あり見込み（告知の種類から推定）" : "あり見込み（告知の種類から推定・配信後に確定）";
     if (it.dl === "no") return "なし";
     return "不明";
   }
