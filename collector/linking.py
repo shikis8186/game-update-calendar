@@ -147,7 +147,8 @@ def link(items: list[Item], builds: list[Item], coverage_from: datetime | None,
     # 監視期間内で、前後にビルド更新がなかった告知は「ダウンロードなし」と確定する
     if judge_no_download and coverage_from and checked_at:
         for i in candidates:
-            if i.merged or i.status == ST_CONFIRMED or i.dl == DL_YES:
+            # 「実施済み（公式告知で確認）」でも、ダウンロードの有無が未確定なら判定する
+            if i.merged or i.dl in (DL_YES, DL_NO):
                 continue
             if coverage_from <= i.start and _judge_after(i) <= checked_at:
                 i.dl = DL_NO

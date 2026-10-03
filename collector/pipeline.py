@@ -15,7 +15,7 @@ from .common import FetchError, from_ts, log, now_jst, parse_iso, to_iso
 from .linking import build_items as steam_build_items
 from .linking import cluster, link
 from .model import Item
-from .sources import blizzard_ow, hoyoverse, lol, nikke, shadowverse_wb, steam_builds, steam_news
+from .sources import blizzard_ow, hoyoverse, lol, nikke, sf6, shadowverse_wb, steam_builds, steam_news, tekken8
 
 PAST_DAYS = 120     # 過去何日分を残すか
 FUTURE_DAYS = 240   # 先何日分まで載せるか
@@ -100,6 +100,34 @@ def run(root: Path, steamcmd: str | None = None, now: datetime | None = None) ->
         res = SourceResult("shadowverse_wb", "シャドバ公式サイトのお知らせ", [g["id"]])
         try:
             res.items = shadowverse_wb.build_items(g["id"], shadowverse_wb.fetch_list(since), now, since)
+        except FetchError as e:
+            res.ok, res.message = False, str(e)
+        results.append(res)
+
+    # ---------------------------------------------------------------- 鉄拳8 公式サイト
+    for g in games:
+        if not (g.get("tekken8") or {}).get("enabled"):
+            continue
+        res = SourceResult("tekken8", "鉄拳8 公式（アップデート履歴・ニュース）", [g["id"]])
+        try:
+            history = tekken8.fetch_history()
+            try:
+                news = tekken8.fetch_news()
+            except FetchError as e:
+                news = {}
+                res.message = f"適用時刻の取得に失敗（{e}）。配信日だけで表示します"
+            res.items = tekken8.build_items(g["id"], history, news, now, since)
+        except FetchError as e:
+            res.ok, res.message = False, str(e)
+        results.append(res)
+
+    # ---------------------------------------------------------------- SF6 公式サイト
+    for g in games:
+        if not (g.get("sf6_official") or {}).get("enabled"):
+            continue
+        res = SourceResult("sf6_official", "SF6 公式（アップデート・メンテナンス）", [g["id"]])
+        try:
+            res.items = sf6.build_items(g["id"], sf6.fetch_notices(since), now, since)
         except FetchError as e:
             res.ok, res.message = False, str(e)
         results.append(res)

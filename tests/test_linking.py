@@ -79,6 +79,13 @@ class LinkTest(unittest.TestCase):
         link([hotfix], builds("2026-10-02T08:00"), dt("2026-10-02T08:00"), dt("2026-10-10T12:30"))
         self.assertEqual(hotfix.dl, DL_NO, "サーバー側だけの修正（ビルド更新なし）はダウンロードなし")
 
+    def test_completed_maintenance_without_build_has_no_download(self):
+        sf6 = item("sf6", KIND_MAINT, "2026-09-08T12:00", "2026-09-08T16:00")
+        sf6.status = ST_CONFIRMED  # 公式告知で実施済みを確認
+        link([sf6], builds("2026-08-03T12:00"), dt("2026-08-03T12:00"), dt("2026-10-03T15:00"))
+        self.assertEqual(sf6.dl, DL_NO, "実施済みでも、Steam の本体更新がなければダウンロードなし")
+        self.assertEqual(sf6.kind, KIND_MAINT)
+
     def test_in_game_download_games_are_not_judged_no(self):
         maint = item("svwb", KIND_MAINT, "2026-09-29T14:00", "2026-09-29T17:00")
         link([maint], builds("2026-08-01T12:00"), dt("2026-08-01T12:00"), dt("2026-10-02T20:00"), judge_no_download=False)

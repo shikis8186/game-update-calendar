@@ -11,6 +11,8 @@
 #                     hoyolab_gid … HoYoLAB の公式お知らせのゲーム番号
 #   [games.blizzard_overwatch] enabled … オーバーウォッチ公式サイトのパッチノート・ニュース（OVERWATCH 用）
 #   [games.shadowverse_wb] enabled  … シャドバ公式サイトのお知らせ（Shadowverse WB 用）
+#   [games.tekken8]   enabled     … 鉄拳8 公式のアップデート履歴・ニュース（鉄拳8 用）
+#   [games.sf6_official] enabled   … SF6 公式サイトのアップデート・メンテナンス（SF6 用）
 #   [games.lol]       enabled     … LoL 用（公式パッチスケジュール・パッチノート）
 #   [games.nikke]     enabled     … NIKKE 用（公式サイトのお知らせ）
 
@@ -40,6 +42,9 @@ color = "#A32D2D"
 text_color = "#FFFFFF"
 [games.steam]
 appid = 1778820
+# アップデートの告知は Steam に載らないため、公式のアップデート履歴と公式ニュースから補います
+[games.tekken8]
+enabled = true
 
 [[games]]
 id = "SF6"
@@ -48,6 +53,9 @@ color = "#185FA5"
 text_color = "#FFFFFF"
 [games.steam]
 appid = 1364780
+# メンテナンス・アップデートの告知は Steam に載らないため、公式サイト（Buckler's Boot Camp）から補います
+[games.sf6_official]
+enabled = true
 
 [[games]]
 id = "DOTA"
