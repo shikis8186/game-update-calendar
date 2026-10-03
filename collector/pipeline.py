@@ -15,7 +15,7 @@ from .common import FetchError, from_ts, log, now_jst, parse_iso, to_iso
 from .linking import build_items as steam_build_items
 from .linking import cluster, link
 from .model import Item
-from .sources import hoyoverse, lol, nikke, steam_builds, steam_news
+from .sources import blizzard_ow, hoyoverse, lol, nikke, steam_builds, steam_news
 
 PAST_DAYS = 120     # 過去何日分を残すか
 FUTURE_DAYS = 240   # 先何日分まで載せるか
@@ -78,6 +78,17 @@ def run(root: Path, steamcmd: str | None = None, now: datetime | None = None) ->
         try:
             events = steam_news.fetch_events(appid, since)
             res.items = steam_news.to_items(g["id"], appid, events, now, since)
+        except FetchError as e:
+            res.ok, res.message = False, str(e)
+        results.append(res)
+
+    # ---------------------------------------------------------------- オーバーウォッチ公式サイト
+    for g in games:
+        if not (g.get("blizzard_overwatch") or {}).get("enabled"):
+            continue
+        res = SourceResult("blizzard_ow", "Blizzard 公式（パッチノート・ニュース）", [g["id"]])
+        try:
+            res.items = blizzard_ow.build_items(g["id"], now, since)
         except FetchError as e:
             res.ok, res.message = False, str(e)
         results.append(res)

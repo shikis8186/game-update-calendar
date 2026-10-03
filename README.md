@@ -12,6 +12,7 @@ GitHub Actions で定期的に情報を集め、GitHub Pages で公開します�
 | ゲーム | お知らせ | ダウンロードの確定判定 |
 |---|---|---|
 | Sudden Attack ZP / OVERWATCH / 鉄拳8 / SF6 / Dota 2 / Shadowverse WB / ゼンゼロ | Steam のお知らせ | Steam の公開ビルドの更新（ビルド番号と更新時刻） |
+| OVERWATCH（補足） | 公式サイトのパッチノート・ニュース（Steam に載らないパッチとシーズン開幕の予告） | Steam のビルド更新 |
 | 原神 / スターレイル | HoYoLAB の公式お知らせ | HoYoPlay（公式ランチャー）の配信バージョン・事前DL・実サイズ |
 | ゼンゼロ（補足） | HoYoLAB（Steam に載らない事前告知のみ） | Steam のビルド更新 |
 | LoL | 公式サイトのパッチノート＋Riot 公式パッチスケジュール | Riot 公式データ（Data Dragon）の配信バージョン |

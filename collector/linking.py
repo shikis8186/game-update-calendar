@@ -2,7 +2,8 @@
 
 考え方:
   - ビルドが更新された時刻 = ゲーム本体のダウンロードが発生した時刻（確定）。
-  - その前後 24 時間以内にあるアップデート系の告知は、そのビルド更新のこととして 1 件にまとめる。
+  - その前後 24 時間以内（日付だけの予定は、その日の前後 12 時間以内）にあるアップデート系の告知は、
+    そのビルド更新のこととして 1 件にまとめる。
   - ビルドを監視していた期間内なのに前後 24 時間にビルド更新がない告知は「ダウンロードなし」と確定する。
   - 監視を始める前の告知は確定できないので、元の判定（見込み・不明）のまま残す。
   - 実データで確定できないゲームでも、24 時間以内の同じアップデートに関する告知（メンテナンス告知と
@@ -20,6 +21,7 @@ from .model import (DL_LIKELY, DL_NO, DL_UNKNOWN, DL_YES, KIND_MAINT, KIND_NEWS,
 
 WINDOW = timedelta(hours=24)
 CLUSTER_GAP = timedelta(hours=6)
+ALLDAY_MARGIN = timedelta(hours=12)
 MAINT_MARGIN = timedelta(hours=2)
 DL_RANK = {DL_YES: 3, DL_LIKELY: 2, DL_UNKNOWN: 1, DL_NO: 0}
 ST_RANK = {ST_CONFIRMED: 2, ST_SCHEDULED: 1, ST_ANNOUNCED: 0}
@@ -47,10 +49,21 @@ def build_items(game_id: str, appid: int, history: list[dict]) -> list[Item]:
 RE_PATCH_WORD = re.compile(r"パッチ|patch|アップデート|update|バージョンアップ|ver\.?\s?\d", re.I)
 
 
+RE_JAPANESE = re.compile(r"[぀-ヿ一-鿿]")
+RE_HEADLINE = re.compile(r"シーズン\s?\d+.{0,20}開幕")
+
+
 def _priority(item: Item, ref: datetime) -> tuple:
+    japanese = 0 if RE_JAPANESE.search(item.title) else 1  # 日本語の公式告知のタイトルを優先して表示する
+    headline = 0 if RE_HEADLINE.search(item.title) else 1  # 「シーズン5開幕」のような内容が分かるタイトルを優先する
     explicit_update = 0 if item.steam_event_type in (12, 13, 14) else 1
     patch_word = 0 if RE_PATCH_WORD.search(item.title) else 1
-    return (KIND_PRIORITY[item.kind], explicit_update, patch_word, abs(item.start - ref))
+    return (KIND_PRIORITY[item.kind], japanese, headline, explicit_update, patch_word, abs(item.start - ref))
+
+
+def _day_bounds(item: Item) -> tuple[datetime, datetime]:
+    day = item.start.astimezone(JST).replace(hour=0, minute=0, second=0, microsecond=0)
+    return day, day + timedelta(days=1)
 
 
 def absorb(primary: Item, other: Item) -> None:
@@ -73,14 +86,31 @@ def absorb(primary: Item, other: Item) -> None:
         primary.start, primary.end = other.start, other.end
 
 
+def _drop_pending_note(item: Item) -> None:
+    """確定したら「配信後に確定します」という注記は不要になるので消す。"""
+    item.basis = [line for line in item.basis if "配信後に Steam のビルド更新で確定" not in line]
+
+
 def _distance(item: Item, ref: Item) -> timedelta | None:
     if item.end and item.start <= ref.start <= item.end:
         return timedelta(0)
     if item.all_day:
-        same = item.start.astimezone(JST).date() == ref.start.astimezone(JST).date()
-        return timedelta(0) if same else None
+        # 日付だけの予定（例: シーズン開幕日）は、開始前夜や翌朝の更新もあり得るため前後 12 時間まで同じ更新とみなす
+        lo, hi = _day_bounds(item)
+        if lo <= ref.start < hi:
+            return timedelta(0)
+        if lo - ALLDAY_MARGIN <= ref.start <= hi + ALLDAY_MARGIN:
+            return min(abs(ref.start - lo), abs(ref.start - hi))
+        return None
     d = abs(item.start - ref.start)
     return d if d <= WINDOW else None
+
+
+def _judge_after(item: Item) -> datetime:
+    """この時刻まで監視してビルド更新がなければ「ダウンロードなし」と判断できる。"""
+    if item.all_day:
+        return _day_bounds(item)[1] + ALLDAY_MARGIN
+    return item.start + WINDOW
 
 
 def link(items: list[Item], builds: list[Item], coverage_from: datetime | None,
@@ -99,6 +129,7 @@ def link(items: list[Item], builds: list[Item], coverage_from: datetime | None,
         for other in near[1:]:
             absorb(primary, other)
         primary.dl, primary.status = DL_YES, ST_CONFIRMED
+        _drop_pending_note(primary)
         for line in b.basis:
             primary.add_basis(line)
         for s in b.sources:
@@ -116,9 +147,11 @@ def link(items: list[Item], builds: list[Item], coverage_from: datetime | None,
         for i in candidates:
             if i.merged or i.status == ST_CONFIRMED or i.dl == DL_YES:
                 continue
-            if coverage_from <= i.start <= checked_at - WINDOW:
+            if coverage_from <= i.start and _judge_after(i) <= checked_at:
                 i.dl = DL_NO
-                i.add_basis("前後24時間に Steam のビルド更新がないため、ゲーム本体のダウンロードは発生していません")
+                _drop_pending_note(i)
+                span = "その日の前後12時間" if i.all_day else "前後24時間"
+                i.add_basis(f"{span}に Steam のビルド更新がないため、ゲーム本体のダウンロードは発生していません")
                 if i.kind != KIND_MAINT:
                     i.kind = KIND_NEWS  # ダウンロードを伴わない告知はアップデート扱いにしない
     return unmatched

@@ -65,6 +65,28 @@ class LinkTest(unittest.TestCase):
         self.assertEqual(sched.dl, DL_YES)
         self.assertEqual(sched.start, dt("2026-08-03T12:00"))
 
+    def test_all_day_item_matches_build_on_previous_night(self):
+        season = item("season5", KIND_MAJOR, "2026-10-07T00:00", title="シーズン5開幕")
+        season.all_day = True
+        link([season], builds("2026-10-06T22:30"), dt("2026-10-02T08:00"), dt("2026-10-08T20:00"))
+        self.assertEqual(season.dl, DL_YES, "開幕前夜のビルド更新も同じ更新とみなす")
+
+    def test_all_day_item_without_build_is_judged_after_margin(self):
+        hotfix = item("hotfix", KIND_PATCH, "2026-10-09T00:00", title="[オーバーウォッチ] 2026年10月9日配信パッチ")
+        hotfix.all_day = True
+        link([hotfix], builds("2026-10-02T08:00"), dt("2026-10-02T08:00"), dt("2026-10-10T06:00"))
+        self.assertEqual(hotfix.dl, DL_LIKELY, "翌日の正午までは判断しない")
+        link([hotfix], builds("2026-10-02T08:00"), dt("2026-10-02T08:00"), dt("2026-10-10T12:30"))
+        self.assertEqual(hotfix.dl, DL_NO, "サーバー側だけの修正（ビルド更新なし）はダウンロードなし")
+
+    def test_japanese_official_title_is_preferred(self):
+        steam = item("steam", KIND_MAJOR, "2026-08-12T02:55", title="Overwatch Season 4 Now Live!", etype=14)
+        notes = item("notes", KIND_MAJOR, "2026-08-12T00:00", title="[オーバーウォッチ] 2026年8月12日配信パッチ内容のおしらせ")
+        notes.all_day = True
+        cluster([steam, notes])
+        self.assertTrue(steam.merged)
+        self.assertFalse(notes.merged)
+
 
 class ClusterTest(unittest.TestCase):
     def test_same_day_announcements_merge(self):
