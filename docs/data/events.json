@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T12:36+09:00",
+ "generated_at": "2026-10-03T14:57+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -312,6 +312,34 @@
    "start": "2026-06-16T14:59+09:00"
   },
   {
+   "id": "ow-patch-2026-06-16",
+   "game": "OW",
+   "kind": "major",
+   "title": "[オーバーウォッチ 2] 2026年6月17日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/06/16 掲載）のタイトルに記載の配信日",
+    "新シーズンの開始を含むパッチ:「帝国の覇者 - シーズン3:虎の住処へ」",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します",
+    "関連する告知:「Overwatch Reign of Talon - Season 3: Into the Tiger's Den Now Live!」"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ 2] 2026年6月17日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/06/#patch-2026-06-16"
+    },
+    {
+     "label": "Steamのお知らせ「Overwatch Reign of Talon - Season 3: In…」",
+     "url": "https://store.steampowered.com/news/app/2357570/view/696514211055930220"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-06-17",
+   "excerpt": "帝国の覇者 - シーズン3:虎の住処へ 再び交錯する光と闇。虎の巣窟と化した東京で、新たな戦いが幕を開ける—。ハシモト組幹部の肩書を持つ新ダメージヒーロー「シオン」と、東京を舞台とした新ハイブリッド・マップがこのシーズン3でデビュー!この新マップをフィーチャーしたストーリー連動…"
+  },
+  {
    "id": "steam-2357570-685256480243320068",
    "game": "OW",
    "kind": "event",
@@ -332,27 +360,6 @@
    "start": "2026-06-17T02:00+09:00",
    "end": "2026-06-17T03:30+09:00",
    "excerpt": "Get an even closer look Into the Tiger’s Den during our next Developer Livestream! Be sure to submit your Season 3 questions for a chance t…"
-  },
-  {
-   "id": "steam-2357570-696514211055930220",
-   "game": "OW",
-   "kind": "major",
-   "title": "Overwatch Reign of Talon - Season 3: Into the Tiger's Den Now Live!",
-   "all_day": false,
-   "dl": "likely",
-   "status": "announced",
-   "basis": [
-    "Steamのお知らせ（種類: 大型アップデート）"
-   ],
-   "sources": [
-    {
-     "label": "Steamのお知らせ「Overwatch Reign of Talon - Season 3: In…」",
-     "url": "https://store.steampowered.com/news/app/2357570/view/696514211055930220"
-    }
-   ],
-   "source_key": "steam:2357570",
-   "start": "2026-06-17T03:05+09:00",
-   "excerpt": "Are you ready to step Into the Tiger’s Den? A new chapter in the Reign of Talon starts here with the arrival of our newest Damage Hero, Shi…"
   },
   {
    "id": "steam-2357570-694261777025729030",
@@ -509,6 +516,28 @@
    "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
   },
   {
+   "id": "ow-patch-2026-06-23",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年6月24日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/06/23 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年6月24日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/06/#patch-2026-06-23"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-06-24",
+   "excerpt": "ホットフィックス(バランス調整)のおしらせ こちらはゲームプレイ関連のホットフィックスを含むアップデートです。6月17日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 NEON JUNCTION ペイロードの速度が若干低下 ペイロード・エリアの確保(アンロック)に要する…"
+  },
+  {
    "id": "steam-1364780-697642648593235983",
    "game": "SF6",
    "kind": "news",
@@ -528,6 +557,28 @@
    "source_key": "steam:1364780",
    "start": "2026-06-24T12:46+09:00",
    "excerpt": "人気K-popアーティストaespaとのコラボコスチュームである「ジュリ：Outfit 4 feat. aespa(Color1-10)」の配信がもう間もなく終了！2026年7月4日15:59（日本時間）までの販売なので、お見逃しなく👀✨"
+  },
+  {
+   "id": "ow-patch-2026-06-24",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年6月25日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/06/24 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年6月25日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/06/#patch-2026-06-24"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-06-25",
+   "excerpt": "ホットフィックス(ゲームプレイ)のおしらせ こちらはゲームプレイ関連のホットフィックスを含むアップデートです。6月17日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 イベント「精霊抗争奇譚」 プレイ回数系のデイリー・チャレンジ(合計3個)の要件を3、7、12から3、6…"
   },
   {
    "id": "steam-570-695390213817504687",
@@ -654,6 +705,28 @@
    "start": "2026-06-30T23:05+09:00"
   },
   {
+   "id": "ow-patch-2026-06-30",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年7月1日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/06/30 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年7月1日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/06/#patch-2026-06-30"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-07-01",
+   "excerpt": "ゲーム・クライアントのアップデート こちらはゲーム・モード「コミュニティ企画」の配信と不具合の修正を目的としたアップデートです。リプレイ・コードはリセットされています。 コミュニティ企画 人気クリエイターのGuxue、Apply、Ocie、mL7supportが考案した新感覚の…"
+  },
+  {
    "id": "nikke-9ab45f45a7a33a472eabfb0a16e23f576ab6",
    "game": "NIKKE",
    "kind": "patch",
@@ -679,6 +752,28 @@
    "source_key": "nikke",
    "start": "2026-07-02",
    "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
+  },
+  {
+   "id": "ow-patch-2026-07-01",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年7月2日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/07/01 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年7月2日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/07/#patch-2026-07-01"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-07-02",
+   "excerpt": "ホットフィックスのおしらせ こちらはホットフィックスのアップデートです。7月1日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 コミュニティ企画 チャレンジ「今度は別のヒーローで」の要件となるヒーローの数が20から3に減少 メタ・チャレンジ「どうぞごゆっくり!」の要件と…"
   },
   {
    "id": "steam-570-670621050832160174",
@@ -1124,6 +1219,28 @@
    "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
   },
   {
+   "id": "ow-patch-2026-07-14",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年7月15日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/07/14 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年7月15日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/07/#patch-2026-07-14"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-07-15",
+   "excerpt": "サマー・ゲーム2026 夏の定番イベント「サマー・ゲーム」がアーケードに復活しました!「ルシオボール」、「ルシオボール・リミックス」、「ウィンストンのビーチバレー」の3種類のモードと、限定報酬付きの新チャレンジを7月15日から31日までの間、配信しています。 ジャンクラットのト…"
+  },
+  {
    "id": "hoyo-HSR-v4.4",
    "game": "HSR",
    "kind": "major",
@@ -1329,6 +1446,28 @@
    "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
   },
   {
+   "id": "ow-patch-2026-07-28",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年7月29日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/07/28 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年7月29日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/07/#patch-2026-07-28"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-07-29",
+   "excerpt": "不具合の修正のおしらせ こちらは不具合の修正を目的としたホットフィックスのアップデートです。リプレイ・コードはリセットされています。 ライバル・プレイのアップデート 以前のアップデートで実装済み - ヒーローBANの仕組みとルールがまとめられた新しいタブを「ライバル・プレイの情…"
+  },
+  {
    "id": "steam-4162040-706649847851123192",
    "game": "ZZZ",
    "kind": "major",
@@ -1453,6 +1592,28 @@
    "source_key": "steam:3576070",
    "start": "2026-07-30T17:00+09:00",
    "excerpt": "こんにちは。サドンアタック：ゼロポイントです。「ファイナルCBTチャレンジキャンペーン」に多くの関心とご参加をいただいた すべてのクリエイターの皆さまに、心より感謝申し上げます。内部審査を通じて選定された優秀クリエイターの皆さまを、以下の通りご案内いたします。▣ ファイナルCB…"
+  },
+  {
+   "id": "ow-patch-2026-07-30",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年7月31日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/07/30 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年7月31日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/07/#patch-2026-07-30"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-07-31",
+   "excerpt": "期間限定モード向けのアップデート 以下の内容は特定の期間限定モードにのみ適用されます。別途記載がない限りは、既存のモードに反映されません。 ヒーローのアップデート 「クイック・プレイ:HACKED」の新弾を配信するにあたり、回復阻害率を全ヒーロー共通で軽減して回復量を全体的に増…"
   },
   {
    "id": "steam-2357570-694261777025729026",
@@ -1804,25 +1965,38 @@
    "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
   },
   {
-   "id": "steam-2357570-667246521005115104",
+   "id": "ow-season4",
    "game": "OW",
    "kind": "major",
-   "title": "Overwatch Reign of Talon - Season 4: Heroes of Busan Now Live!",
-   "all_day": false,
+   "title": "シーズン4開幕",
+   "all_day": true,
    "dl": "likely",
    "status": "announced",
    "basis": [
-    "Steamのお知らせ（種類: 大型アップデート）"
+    "Blizzard 公式ニュース「ディレクターの視点：生まれ変わるバトルパス」に「8月12日に開幕するシーズン4で、かねてからコミュニティで多くの声が挙がっていた「バトルパスのリニューアル」を行います!」と記載",
+    "新シーズンの開幕（大型アップデート）",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します",
+    "関連する告知:「[オーバーウォッチ ] 2026年8月12日配信パッチ内容のおしらせ」",
+    "新シーズンの開始を含むパッチ:「帝国の覇者 - シーズン4「釜山の英雄たち」」",
+    "関連する告知:「Overwatch Reign of Talon - Season 4: Heroes of Busan Now Live!」"
    ],
    "sources": [
+    {
+     "label": "Blizzard 公式ニュース「ディレクターの視点：生まれ変わるバトルパス」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/24296053/%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E8%A6%96%E7%82%B9%EF%BC%9A%E7%94%9F%E3%81%BE%E3%82%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%90%E3%83%88%E3%83%AB%E3%83%91%E3%82%B9"
+    },
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ ] 2026年8月12日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/08/#patch-2026-08-11"
+    },
     {
      "label": "Steamのお知らせ「Overwatch Reign of Talon - Season 4: He…」",
      "url": "https://store.steampowered.com/news/app/2357570/view/667246521005115104"
     }
    ],
-   "source_key": "steam:2357570",
-   "start": "2026-08-12T02:55+09:00",
-   "excerpt": "Let your teamwork do all the talking during Season 4: Heroes of Busan. The leader of MEKA Squad is ready for her highly anticipated debut a…"
+   "source_key": "blizzard_ow",
+   "start": "2026-08-12",
+   "excerpt": "帝国の覇者 - シーズン4「釜山の英雄たち」 釜山への侵攻を突如として始めたジャンカーとタロン。未知の脅威を前に、新たな英雄(ヒーロー)が、いま立ち上がる——D.Vaの出身部隊「MEKA部隊」リーダーの肩書きを持つメック・パイロット「D.Mon」が新タンクヒーローとして、このシ…"
   },
   {
    "id": "hoyo-GI-v7.0",
@@ -1902,6 +2076,28 @@
    "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
   },
   {
+   "id": "ow-patch-2026-08-12",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年8月13日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/08/12 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年8月13日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/08/#patch-2026-08-12"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-08-13",
+   "excerpt": "ホットフィックスのおしらせ こちらはホットフィックスのアップデートです。2026年8月12日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 ヒーローのアップデート D.Mon プラズマ・セイバー ダメージが60から65に増加 ジェット・ドライブ 燃料の消費率が40から2…"
+  },
+  {
    "id": "nikke-9091e99da7dcaa4d0fab6d7a3b4fa8596c43",
    "game": "NIKKE",
    "kind": "news",
@@ -1950,6 +2146,28 @@
    "excerpt": "こんにちは。サドンアタック：ゼロポイントです。本日の定期メンテナンスで適用されたアップデート内容をお知らせいたします。詳細は以下のパッチノートをご確認ください。パッチノート▣ 一般アップデート欧州サーバーの追加マッチング通知機能の追加マッチング成立時、タスクバーのアプリアイコン…"
   },
   {
+   "id": "ow-patch-2026-08-14",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年8月15日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/08/14 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年8月15日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/08/#patch-2026-08-14"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-08-15",
+   "excerpt": "ホットフィックスのおしらせ こちらはホットフィックスのアップデートです。2026年8月12日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 ヒーローのアップデート D.Mon 〈携行型フュージョン・リピーター〉の弾抜けを修正 〈リミット・ブレイク〉がターゲットに命中した…"
+  },
+  {
    "id": "steam-570-680758587997293716",
    "game": "DOTA",
    "kind": "event",
@@ -1971,6 +2189,28 @@
    "excerpt": "先週、世界最高峰のDotaチーム16組が激しいグループステージを戦い、今や8チームが残るのみとなりました。 あと数時間で、Team Vision、Team Liquid、Nigma Galaxy、Team Falcons、BoomBoys、Team Spirit、Iron Wi…"
   },
   {
+   "id": "ow-patch-2026-08-19",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年8月20日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/08/19 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年8月20日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/08/#patch-2026-08-19"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-08-20",
+   "excerpt": "ゲーム・クライアントのアップデート こちらはゲーム・クライアントのアップデートを伴うアップデートです。リプレイ・コードはリセットされています。 不具合の修正 EICHENWALDEに起きていた不具合を修正。マップはライバル・プレイのラインナップに復帰しました ゲンジ用ミシック・…"
+  },
+  {
    "id": "steam-1778820-697647721675227603",
    "game": "T8",
    "kind": "news",
@@ -1990,6 +2230,28 @@
    "source_key": "steam:1778820",
    "start": "2026-08-20T23:02+09:00",
    "excerpt": "Discover the secret recipe for the Perfect Body's heaviest and fastest moves🔥[dynamiclink href=\"https://store.steampowered.com/app/4129110/…"
+  },
+  {
+   "id": "ow-patch-2026-08-20",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年8月21日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/08/20 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年8月21日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/08/#patch-2026-08-20"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-08-21",
+   "excerpt": "ホットフィックスのおしらせ こちらはホットフィックスのアップデートです。2026年8月20日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 不具合の修正 ミズキ ミズキが想定しない場所に辿り着けてしまう不具合を修正"
   },
   {
    "id": "hoyo-HSR-pre4.5",
@@ -2295,6 +2557,28 @@
    "start": "2026-09-04T17:55+09:00"
   },
   {
+   "id": "ow-patch-2026-09-08",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年9月9日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/09/08 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年9月9日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/09/#patch-2026-09-08"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-09-09",
+   "excerpt": "ジャンクラットのトレジャー・ハント 今回の「ジャンクラットのトレジャー・ハント」は特別仕様!新鮮でどこか懐かしいチャレンジをお楽しみください。開催期間は9月13日から9月30日までです。 ヒーローのアップデート タンク D.Mon 開発者コメント:D.Monはリリース以降から安…"
+  },
+  {
    "id": "steam-4162040-714537487845820569",
    "game": "ZZZ",
    "kind": "major",
@@ -2394,6 +2678,28 @@
    "start": "2026-09-10T14:00+09:00",
    "end": "2026-09-10T20:00+09:00",
    "excerpt": "こんにちは。「サドンアタック：ゼロポイント」です。9/10(木)に定期メンテナンスを実施いたしました。メンテナンスにご協力いただき、誠にありがとうございます。本パッチノートでは、今回のメンテナンスでの対応内容についてご案内いたします。アップデートの詳細は以下をご確認ください。【…"
+  },
+  {
+   "id": "ow-patch-2026-09-10",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年9月11日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/09/10 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年9月11日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/09/#patch-2026-09-10"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-09-11",
+   "excerpt": "ホットフィックスのおしらせ こちらはホットフィックスのアップデートです。2026年9月9日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 不具合の修正 ラマットラの〈貪欲な渦〉が起爆可能になるまでの遅延が長くなる不具合を修正 ジェットパック・キャットの〈ゴロゴロ〉が敵の…"
   },
   {
    "id": "steam-3576070-686390624621953167",
@@ -2574,6 +2880,28 @@
    "start": "2026-09-17T17:56+09:00"
   },
   {
+   "id": "ow-patch-2026-09-17",
+   "game": "OW",
+   "kind": "patch",
+   "title": "[オーバーウォッチ] 2026年9月18日配信パッチ内容のおしらせ",
+   "all_day": true,
+   "dl": "likely",
+   "status": "announced",
+   "basis": [
+    "Blizzard 公式パッチノート（2026/09/17 掲載）のタイトルに記載の配信日",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年9月18日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/09/#patch-2026-09-17"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-09-18",
+   "excerpt": "ホットフィックスのおしらせ こちらはホットフィックスのアップデートです。2026年9月9日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 ヒーローのアップデート D.Mon アーマーが325から275に減少(5v5) アーマーが300から250に減少(6v6) ヘビー・…"
+  },
+  {
    "id": "hoyo-GI-pre7.1",
    "game": "GI",
    "kind": "pre",
@@ -2669,24 +2997,30 @@
    "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
   },
   {
-   "id": "steambuild-2357570-25234251",
+   "id": "ow-patch-2026-09-22",
    "game": "OW",
    "kind": "patch",
-   "title": "クライアント更新",
+   "title": "[オーバーウォッチ] 2026年9月23日配信パッチ内容のおしらせ",
    "all_day": false,
    "dl": "yes",
    "status": "confirmed",
    "basis": [
+    "Blizzard 公式パッチノート（2026/09/22 掲載）のタイトルに記載の配信日",
     "Steam の公開ビルドが更新されました（ビルドID 25234251、2026/09/23 02:59）"
    ],
    "sources": [
+    {
+     "label": "Blizzard 公式パッチノート「[オーバーウォッチ] 2026年9月23日配信パッチ内容のおしらせ」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/09/#patch-2026-09-22"
+    },
     {
      "label": "Steam ストアページ",
      "url": "https://store.steampowered.com/app/2357570/"
     }
    ],
-   "source_key": "steambuild",
-   "start": "2026-09-23T02:59+09:00"
+   "source_key": "blizzard_ow",
+   "start": "2026-09-23T02:59+09:00",
+   "excerpt": "不具合の修正のおしらせ こちらは不具合の修正を目的としたホットフィックスのアップデートです。リプレイ・コードはリセットされています。 不具合の修正 全般 チーム・ドライブの称号がプレースホルダー・テキストになっていた不具合を修正 ドライブのシグネチャーに表示されるプレステージ・…"
   },
   {
    "id": "hoyo-GI-v7.1",
@@ -2911,6 +3245,28 @@
    "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
   },
   {
+   "id": "ow-season5",
+   "game": "OW",
+   "kind": "major",
+   "title": "シーズン5開幕",
+   "all_day": true,
+   "dl": "likely",
+   "status": "scheduled",
+   "basis": [
+    "Blizzard 公式ニュース「BlizzCon - 初公開の新情報と今後のプログラムをおさらい！」に「10月7日開幕のシーズン5と来年の「オーバーウォッチ:スポットライト 2027」にもどうぞご期待ください!」と記載",
+    "新シーズンの開幕（大型アップデート）",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard 公式ニュース「BlizzCon - 初公開の新情報と今後のプログラムをおさらい！」",
+     "url": "https://overwatch.blizzard.com/ja-jp/news/24294376/blizzcon"
+    }
+   ],
+   "source_key": "blizzard_ow",
+   "start": "2026-10-07"
+  },
+  {
    "id": "steam-1364780-676256891013169832",
    "game": "SF6",
    "kind": "major",
@@ -3040,7 +3396,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "steam:3576070",
@@ -3050,7 +3406,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "steam:2357570",
@@ -3060,7 +3416,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "steam:1778820",
@@ -3070,7 +3426,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "steam:1364780",
@@ -3080,7 +3436,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "steam:570",
@@ -3090,7 +3446,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "steam:2584990",
@@ -3100,7 +3456,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "steam:4162040",
@@ -3110,7 +3466,17 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
+  },
+  {
+   "key": "blizzard_ow",
+   "label": "Blizzard 公式（パッチノート・ニュース）",
+   "games": [
+    "OW"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "hoyoplay",
@@ -3122,7 +3488,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -3132,7 +3498,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -3142,7 +3508,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -3152,7 +3518,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "lol",
@@ -3162,7 +3528,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   },
   {
    "key": "nikke",
@@ -3172,7 +3538,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T12:36+09:00"
+   "last_success": "2026-10-03T14:57+09:00"
   }
  ]
 }
