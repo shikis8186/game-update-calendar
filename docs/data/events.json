@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T15:20+09:00",
+ "generated_at": "2026-10-03T17:17+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -919,6 +919,36 @@
    "source_key": "steam:3576070",
    "start": "2026-07-02T11:02+09:00",
    "excerpt": "\\[NEXONクリエイターズ運営ポリシー] 「NEXONクリエイターズ」の利用者は、「NEXONクリエイターズ運営ポリシー」（以下「本運営ポリシー」といいます）を確認し、遵守するものとします。 本運営ポリシーを熟知せずに発生した損害や不都合に対して当社は責任を負いかねます。 第…"
+  },
+  {
+   "id": "sf6-update20260702",
+   "game": "SF6",
+   "kind": "maint",
+   "title": "アップデートのお知らせ（7月2日 12:00〜16:00）",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "confirmed",
+   "basis": [
+    "SF6 公式（Buckler's Boot Camp）「メンテナンスのお知らせ」（2026/07/01 10:45 掲載）",
+    "SF6 公式（Buckler's Boot Camp）「アップデートのお知らせ」（2026/07/02 15:45 掲載）",
+    "告知に記載のメンテナンス日時「JST 2026年7月2日(木) 12:00〜16:00」",
+    "公式告知でアップデートの実施を確認",
+    "ダウンロードの有無は Steam のゲーム本体の更新で判定します（SF6 はサーバー側だけの更新もあるため）"
+   ],
+   "sources": [
+    {
+     "label": "SF6 公式「メンテナンスのお知らせ」",
+     "url": "https://www.streetfighter.com/6/buckler/ja-jp/information/detail/mainte20260702"
+    },
+    {
+     "label": "SF6 公式「アップデートのお知らせ」",
+     "url": "https://www.streetfighter.com/6/buckler/ja-jp/information/detail/update20260702"
+    }
+   ],
+   "source_key": "sf6_official",
+   "start": "2026-07-02T12:00+09:00",
+   "end": "2026-07-02T16:00+09:00",
+   "excerpt": "下記日時のメンテナンスで、『ストリートファイター6』がアップデートされました。 プレイできない場合は、プラットフォームのホーム画面で最新バージョンのゲームデータにアップデートしてから、起動やログインを行うようにお願いします。 メンテナンス実施日時 JST 2026年7月2日(木…"
   },
   {
    "id": "nikke-2495f255a0ea8a4396a8f13a0f911bbbdbca",
@@ -2019,6 +2049,11 @@
     "Steamのお知らせ（種類: 大型アップデート）",
     "関連する告知:「Year 4追加キャラクター第1弾「ヤスミン」が2026年8月3日に参戦！」",
     "告知タイトルに記載の日付「2026年8月3日」",
+    "関連する告知:「アップデートのお知らせ（8月3日 12:00〜16:00）」",
+    "SF6 公式（Buckler's Boot Camp）「アップデートのお知らせ」（2026/08/03 15:45 掲載）",
+    "告知に記載のメンテナンス日時「JST 2026年8月3日(月) 12:00〜16:00」",
+    "公式告知でアップデートの実施を確認",
+    "ダウンロードの有無は Steam のゲーム本体の更新で判定します（SF6 はサーバー側だけの更新もあるため）",
     "Steam の公開ビルドが更新されました（ビルドID 24176760、2026/08/03 12:00）"
    ],
    "sources": [
@@ -2029,6 +2064,14 @@
     {
      "label": "Steamのお知らせ「Year 4追加キャラクター第1弾「ヤスミン」が2026年8月3日に参戦！」",
      "url": "https://store.steampowered.com/news/app/1364780/view/690886614188034655"
+    },
+    {
+     "label": "SF6 公式「メンテナンスのお知らせ」",
+     "url": "https://www.streetfighter.com/6/buckler/ja-jp/information/detail/mainte20260803"
+    },
+    {
+     "label": "SF6 公式「アップデートのお知らせ」",
+     "url": "https://www.streetfighter.com/6/buckler/ja-jp/information/detail/update20260803"
     },
     {
      "label": "Steam ストアページ",
@@ -2517,6 +2560,35 @@
    "excerpt": "ゲーム・クライアントのアップデート こちらはゲーム・クライアントのアップデートを伴うアップデートです。リプレイ・コードはリセットされています。 不具合の修正 EICHENWALDEに起きていた不具合を修正。マップはライバル・プレイのラインナップに復帰しました ゲンジ用ミシック・…"
   },
   {
+   "id": "tk8-v3.02.01",
+   "game": "T8",
+   "kind": "major",
+   "title": "アップデートデータ Ver.3.02.01",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "鉄拳8 公式のアップデート履歴: V3.02.01（配信 2026/08/20・Steam 版を含む）",
+    "公式に「アップデートデータを配信」と記載（ゲーム本体の更新）",
+    "追加キャラクターに対応するアップデート",
+    "公式告知の適用日時「8/20(木)7:00頃より順次適用」",
+    "メンテナンス日時（公式告知）: 8/20(木)6:30~13:00"
+   ],
+   "sources": [
+    {
+     "label": "鉄拳シリーズ公式ニュース「アップデートデータ Ver.3.02.01」",
+     "url": "https://www.tekken-official.jp/tekken_news/?p=3547"
+    },
+    {
+     "label": "鉄拳8 公式 アップデート履歴",
+     "url": "https://tk8.tekken-official.jp/update/history.php"
+    }
+   ],
+   "source_key": "tekken8",
+   "start": "2026-08-20T07:00+09:00",
+   "excerpt": "以下内容にて『鉄拳8』のアップデートデータを配信いたします。 ■ バージョン Ver.3.02.01 ■ 適用日時 [JST] 8/20(木)7:00頃より順次適用 ■ メンテナンス日時 [JST] 8/20(木)6:30~13:00 備考: ・日時は予告なく変更する場合がござ…"
+  },
+  {
    "id": "steam-1778820-697647721675227603",
    "game": "T8",
    "kind": "news",
@@ -2944,6 +3016,37 @@
    "size": "約6GB（公式告知・PC）"
   },
   {
+   "id": "sf6-update20260908",
+   "game": "SF6",
+   "kind": "maint",
+   "title": "アップデートのお知らせ（9月8日 12:00〜16:00）",
+   "all_day": false,
+   "dl": "no",
+   "status": "confirmed",
+   "basis": [
+    "SF6 公式（Buckler's Boot Camp）「メンテナンスのお知らせ」（2026/09/07 11:05 掲載）",
+    "SF6 公式（Buckler's Boot Camp）「アップデートのお知らせ」（2026/09/08 15:45 掲載）",
+    "告知に記載のメンテナンス日時「JST 2026年9月8日(火) 12:00〜16:00」",
+    "公式告知でアップデートの実施を確認",
+    "ダウンロードの有無は Steam のゲーム本体の更新で判定します（SF6 はサーバー側だけの更新もあるため）",
+    "前後24時間に Steam のビルド更新がないため、ゲーム本体のダウンロードは発生していません"
+   ],
+   "sources": [
+    {
+     "label": "SF6 公式「メンテナンスのお知らせ」",
+     "url": "https://www.streetfighter.com/6/buckler/ja-jp/information/detail/mainte20260908"
+    },
+    {
+     "label": "SF6 公式「アップデートのお知らせ」",
+     "url": "https://www.streetfighter.com/6/buckler/ja-jp/information/detail/update20260908"
+    }
+   ],
+   "source_key": "sf6_official",
+   "start": "2026-09-08T12:00+09:00",
+   "end": "2026-09-08T16:00+09:00",
+   "excerpt": "下記日時のメンテナンスで、『ストリートファイター6』がアップデートされました。 プレイできない場合は、プラットフォームのホーム画面で最新バージョンのゲームデータにアップデートしてから、起動やログインを行うようにお願いします。 メンテナンス実施日時 JST 2026年9月8日(火…"
+  },
+  {
    "id": "ow-patch-2026-09-08",
    "game": "OW",
    "kind": "patch",
@@ -3019,24 +3122,37 @@
    "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
   },
   {
-   "id": "steambuild-1778820-25221600",
+   "id": "tk8-v3.02.02",
    "game": "T8",
    "kind": "patch",
-   "title": "クライアント更新",
+   "title": "アップデートデータ Ver.3.02.02",
    "all_day": false,
    "dl": "yes",
    "status": "confirmed",
    "basis": [
+    "鉄拳8 公式のアップデート履歴: V3.02.02（配信 2026/09/10・Steam 版を含む）",
+    "公式に「アップデートデータを配信」と記載（ゲーム本体の更新）",
+    "公式告知の適用日時「9/10(木)11:00頃より順次適用」",
+    "メンテナンス日時（公式告知）: 9/10(木)10:30~13:00",
     "Steam の公開ビルドが更新されました（ビルドID 25221600、2026/09/10 11:00）"
    ],
    "sources": [
+    {
+     "label": "鉄拳シリーズ公式ニュース「アップデートデータ Ver.3.02.02」",
+     "url": "https://www.tekken-official.jp/tekken_news/?p=3639"
+    },
+    {
+     "label": "鉄拳8 公式 アップデート履歴",
+     "url": "https://tk8.tekken-official.jp/update/history.php"
+    },
     {
      "label": "Steam ストアページ",
      "url": "https://store.steampowered.com/app/1778820/"
     }
    ],
-   "source_key": "steambuild",
-   "start": "2026-09-10T11:00+09:00"
+   "source_key": "tekken8",
+   "start": "2026-09-10T11:00+09:00",
+   "excerpt": "以下内容にて『鉄拳8』のアップデートデータを配信いたします。 ■ バージョン Ver.3.02.02 ■ 適用日時 [JST] 9/10(木)11:00頃より順次適用 ■ メンテナンス日時 [JST] 9/10(木)10:30~13:00 備考: ・日時は予告なく変更する場合が…"
   },
   {
    "id": "steam-3576070-686390624621953158",
@@ -3879,7 +3995,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "steam:3576070",
@@ -3889,7 +4005,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "steam:2357570",
@@ -3899,7 +4015,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "steam:1778820",
@@ -3909,7 +4025,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "steam:1364780",
@@ -3919,7 +4035,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "steam:570",
@@ -3929,7 +4045,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "steam:2584990",
@@ -3939,7 +4055,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "steam:4162040",
@@ -3949,7 +4065,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "blizzard_ow",
@@ -3959,7 +4075,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "shadowverse_wb",
@@ -3969,7 +4085,27 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
+  },
+  {
+   "key": "tekken8",
+   "label": "鉄拳8 公式（アップデート履歴・ニュース）",
+   "games": [
+    "T8"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-03T17:17+09:00"
+  },
+  {
+   "key": "sf6_official",
+   "label": "SF6 公式（アップデート・メンテナンス）",
+   "games": [
+    "SF6"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "hoyoplay",
@@ -3981,7 +4117,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -3991,7 +4127,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -4001,7 +4137,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -4011,7 +4147,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "lol",
@@ -4021,7 +4157,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   },
   {
    "key": "nikke",
@@ -4031,7 +4167,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T15:20+09:00"
+   "last_success": "2026-10-03T17:17+09:00"
   }
  ]
 }
