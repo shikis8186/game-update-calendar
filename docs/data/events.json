@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T14:57+09:00",
+ "generated_at": "2026-10-03T15:20+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -269,6 +269,33 @@
    ],
    "source_key": "nikke",
    "start": "2026-06-11T21:02+09:00"
+  },
+  {
+   "id": "hoyo-ZZZ-pre3.0",
+   "game": "ZZZ",
+   "kind": "pre",
+   "title": "Ver.3.0 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知: 事前ダウンロード開始 2026/06/15 13:00 (JST)",
+    "公式告知: 事前ダウンロードの終了 2026/06/17 06:50"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.3.0「ある夢に遊ぶ者の告白」事前ダウンロード開始＆アップデートのお知らせ」",
+     "url": "https://www.hoyolab.com/article/45467132"
+    },
+    {
+     "label": "HoYoLAB「Ver.3.0「ある夢に遊ぶ者の告白」アップデート詳細」",
+     "url": "https://www.hoyolab.com/article/45488578"
+    }
+   ],
+   "source_key": "hoyoverse:U5hbdsT9W7",
+   "start": "2026-06-15T13:00+09:00",
+   "end": "2026-06-17T06:50+09:00",
+   "size": "約8GB（公式告知・PC）"
   },
   {
    "id": "steam-4162040-704396868946232791",
@@ -622,6 +649,32 @@
    "start": "2026-06-26T15:35+09:00"
   },
   {
+   "id": "hoyo-GI-preLunaVIII",
+   "game": "GI",
+   "kind": "pre",
+   "title": "Luna VIII 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知（2026/06/29 12:10 掲載）に「事前ダウンロードが可能」と記載"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「「Luna Ⅷ」バージョンアップのお知らせ」",
+     "url": "https://www.hoyolab.com/article/45647248"
+    },
+    {
+     "label": "HoYoLAB「「『空月の歌・喜曲』帰夏！映影？千霊祭！」「Luna Ⅷ」正式リリース」",
+     "url": "https://www.hoyolab.com/article/45670084"
+    }
+   ],
+   "source_key": "hoyoverse:gopR6Cufr3",
+   "start": "2026-06-29T12:10+09:00",
+   "end": "2026-07-01T07:00+09:00",
+   "size": "約7GB（公式告知・PC）"
+  },
+  {
    "id": "steam-1778820-676250550367421642",
    "game": "T8",
    "kind": "news",
@@ -725,6 +778,35 @@
    "source_key": "blizzard_ow",
    "start": "2026-07-01",
    "excerpt": "ゲーム・クライアントのアップデート こちらはゲーム・モード「コミュニティ企画」の配信と不具合の修正を目的としたアップデートです。リプレイ・コードはリセットされています。 コミュニティ企画 人気クリエイターのGuxue、Apply、Ocie、mL7supportが考案した新感覚の…"
+  },
+  {
+   "id": "hoyo-GI-vLunaVIII",
+   "game": "GI",
+   "kind": "major",
+   "title": "Luna VIII「『空月の歌・喜曲』帰夏!映影?千霊祭!」バージョンアップ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "公式告知: 2026/07/01 06:00 (UTC+8) からバージョンアップメンテナンス（日本時間 2026/07/01 07:00）",
+    "バージョンアップではゲームクライアントの更新（ダウンロード）が必要",
+    "公式告知で正式リリース（配信済み）を確認"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「「Luna Ⅷ」バージョンアップのお知らせ」",
+     "url": "https://www.hoyolab.com/article/45647248"
+    },
+    {
+     "label": "HoYoLAB「「『空月の歌・喜曲』帰夏！映影？千霊祭！」「Luna Ⅷ」正式リリース」",
+     "url": "https://www.hoyolab.com/article/45670084"
+    }
+   ],
+   "source_key": "hoyoverse:gopR6Cufr3",
+   "start": "2026-07-01T07:00+09:00",
+   "end": "2026-07-01T12:00+09:00",
+   "size": "約7GB（公式告知の事前ダウンロード容量・PC）",
+   "excerpt": "親愛なる旅人さんへ 2026/07/01 06:00 (UTC+8)よりバージョンアップに伴うメンテナンスを実施いたします。メンテナンス終了後、最新バージョン「Luna VIII」——「『空月の歌・喜曲』帰夏!映影?千霊祭!」に更新されます。 ただいま「Luna VIII」の事…"
   },
   {
    "id": "nikke-9ab45f45a7a33a472eabfb0a16e23f576ab6",
@@ -1037,6 +1119,30 @@
    "excerpt": "Junkrat's Loot Hunt Junkrat’s Loot Hunt turns the July 10 - 13 weekend into a reward-fueled blast. Every match you play pushes you closer t…"
   },
   {
+   "id": "svwb-01KX2YM3YDHWX3T60VC8JQ4QTK",
+   "game": "SVWB",
+   "kind": "patch",
+   "title": "アップデートのお知らせ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/07/10 11:30 掲載）",
+    "告知に記載のアップデート日時「2026/7/10 11:30」",
+    "公式告知に「データのダウンロードが行われます」などダウンロードの記載あり",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「アップデートのお知らせ」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01KX2YM3YDHWX3T60VC8JQ4QTK"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-07-10T11:30+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 次回の施策開催準備のため、2026/7/10 11:30頃にアップデートを行いました。 アップデート後は通信を行うとタイトル画面に戻り、データのダウンロードが行…"
+  },
+  {
    "id": "steam-3576070-716784395910905871",
    "game": "SAZP",
    "kind": "maint",
@@ -1150,6 +1256,32 @@
    "excerpt": "Hello everyone. This is Sudden Attack Zero Point.We will be performing unscheduled maintenance to ensure stable game service. Please refer …"
   },
   {
+   "id": "hoyo-HSR-pre4.4",
+   "game": "HSR",
+   "kind": "pre",
+   "title": "Ver.4.4 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知: 事前ダウンロード開始 2026/07/13 15:00(JST)"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.4.4アップデートメンテナンスのお知らせ」",
+     "url": "https://www.hoyolab.com/article/45832917"
+    },
+    {
+     "label": "HoYoLAB「Ver.4.4「汽笛は轟く、帰寂のさなかに」アップデートについて」",
+     "url": "https://www.hoyolab.com/article/45851903"
+    }
+   ],
+   "source_key": "hoyoverse:4ziysqXOQ8",
+   "start": "2026-07-13T15:00+09:00",
+   "end": "2026-07-15T07:00+09:00",
+   "size": "約4.4GB（公式告知・PC）"
+  },
+  {
    "id": "steam-3576070-716784395910907352",
    "game": "SAZP",
    "kind": "news",
@@ -1249,7 +1381,7 @@
    "dl": "yes",
    "status": "confirmed",
    "basis": [
-    "公式告知: Ver.4.4 のリリース告知（2026/07/15 08:00 掲載）",
+    "公式告知: 2026/07/15 07:00(JST) からバージョンアップメンテナンス（日本時間 2026/07/15 07:00）",
     "バージョンアップではゲームクライアントの更新（ダウンロード）が必要",
     "公式ランチャー（HoYoPlay）の配信バージョン（4.6.0）から、配信済みであることを確認"
    ],
@@ -1264,7 +1396,34 @@
     }
    ],
    "source_key": "hoyoverse:4ziysqXOQ8",
-   "start": "2026-07-15T08:00+09:00"
+   "start": "2026-07-15T07:00+09:00",
+   "end": "2026-07-15T12:00+09:00",
+   "size": "約4.4GB（公式告知の事前ダウンロード容量・PC）",
+   "excerpt": "親愛なる開拓者様へ Ver.4.4の事前ダウンロードは2026/07/13 15:00(JST)に開始いたします。開拓者の皆様は、事前に一部リソースをダウンロードしていただくと、バージョンアップメンテナンス終了後、より早くゲームにログインできます。 また、列車運営チームは202…"
+  },
+  {
+   "id": "svwb-01KWBV8VKDSX5V3FYZ8H251GWW",
+   "game": "SVWB",
+   "kind": "maint",
+   "title": "【7月15日 15:00 ～ 17:00】シャドババトルフェス開催の準備などに伴うメンテナンスのお知らせ【7/17 12:00追記】",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/07/08 15:00 掲載）",
+    "告知に記載のメンテナンス期間「2026/7/15 15:00 ~ 17:00」",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「【7月15日 15:00 ～ 17:00】シャドババトルフェス開催の準備などに伴うメンテナンスのお知らせ【7/17 12:00追記】」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01KWBV8VKDSX5V3FYZ8H251GWW"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-07-15T15:00+09:00",
+   "end": "2026-07-15T17:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 次回の施策開催準備などのため、下記の時間帯にメンテナンスを実施いたします。 メンテナンス期間 2026/7/15 15:00 ~ 17:00 【7/15 17:…"
   },
   {
    "id": "steam-4162040-693140950130622535",
@@ -1307,6 +1466,31 @@
    ],
    "source_key": "nikke",
    "start": "2026-07-20T16:59+09:00"
+  },
+  {
+   "id": "hoyo-HSR-upd45967008",
+   "game": "HSR",
+   "kind": "patch",
+   "title": "Fate[UBW]コラボアップデートのお知らせ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "HoYoLAB の公式お知らせ（2026/07/23 13:00 掲載）",
+    "告知に記載のアップデート日時「2026/07/21 16:00(JST)」",
+    "公式告知にデータ更新（ダウンロード）の記載あり",
+    "公式告知で実施済みを確認"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Fate[UBW]コラボアップデートのお知らせ」",
+     "url": "https://www.hoyolab.com/article/45967008"
+    }
+   ],
+   "source_key": "hoyoverse:4ziysqXOQ8",
+   "start": "2026-07-21T16:00+09:00",
+   "size": "約540MB（公式告知・PC）",
+   "excerpt": "親愛なる開拓者の皆様へ 列車運営チームは2026/07/21 16:00(JST)に、コラボイベント「幻造:聖杯戦争」に伴うアップデートを行いました。2026/07/23 15:00 (JST)までにアップデートデータをダウンロードしなかった場合、強制終了が発生します。ゲームを…"
   },
   {
    "id": "nikke-30477679aa60aa46ddaa269ae877e29aff76",
@@ -1357,6 +1541,30 @@
    "excerpt": "The Overwatch® BlizzCon® Bundle brings icy domination straight to your collection with four exclusive in-game items inspired by one of Bliz…"
   },
   {
+   "id": "svwb-01KY3XNX5FC6H05YGW7YHJVCCZ",
+   "game": "SVWB",
+   "kind": "patch",
+   "title": "アップデートのお知らせ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/07/23 15:00 掲載）",
+    "告知に記載のアップデート日時「2026/7/23 15:00」",
+    "公式告知に「データのダウンロードが行われます」などダウンロードの記載あり",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「アップデートのお知らせ」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01KY3XNX5FC6H05YGW7YHJVCCZ"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-07-23T15:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 次回の施策開催準備のため、2026/7/23 15:00頃にアップデートを行いました。 アップデート後は通信を行うとタイトル画面に戻り、データのダウンロードが行…"
+  },
+  {
    "id": "nikke-fd11e0faa97f4a4809ab02ca83bf2f18d559",
    "game": "NIKKE",
    "kind": "news",
@@ -1396,6 +1604,33 @@
    "source_key": "steam:3576070",
    "start": "2026-07-24T15:00+09:00",
    "excerpt": "こんにちは。サドンアタック：ゼロポイントのディレクター、キム・テヒョンです。 まずは、ファイナルCBTにご参加いただき、たくさんのご意見をお寄せくださった皆さまに、 心より感謝申し上げます。 ファイナルCBT終了後にお寄せいただいたご意見は、一つ一つ丁寧に確認し、検討しておりま…"
+  },
+  {
+   "id": "hoyo-ZZZ-pre3.1",
+   "game": "ZZZ",
+   "kind": "pre",
+   "title": "Ver.3.1 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知: 事前ダウンロード開始 2026/07/27 13:00(JST)",
+    "公式告知: 事前ダウンロードの終了 2026/07/29 06:50"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.3.1「ロング・グッドバイ」事前ダウンロード開始＆アップデートのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46015487"
+    },
+    {
+     "label": "HoYoLAB「Ver.3.1「ロング・グッドバイ」アップデート詳細」",
+     "url": "https://www.hoyolab.com/article/46037106"
+    }
+   ],
+   "source_key": "hoyoverse:U5hbdsT9W7",
+   "start": "2026-07-27T13:00+09:00",
+   "end": "2026-07-29T06:50+09:00",
+   "size": "約11GB（公式告知・PC）"
   },
   {
    "id": "steam-2584990-679630785292012430",
@@ -1487,6 +1722,30 @@
    "source_key": "steam:4162040",
    "start": "2026-07-29T08:00+09:00",
    "excerpt": "親愛なるプロキシ様へ Ver.3.1「ロング・グッドバイ」のアップデート詳細と補償内容は以下となります。 【アップデート開始日時】 2026/07/29 07:00（JST） アップデートの所要時間は約5時間と予想されます。 【補償詳細】 • メンテナンスに伴う補償 補償内容：…"
+  },
+  {
+   "id": "svwb-01KXDHBBSDEYTSG9Q77PYWHZDP",
+   "game": "SVWB",
+   "kind": "maint",
+   "title": "【7月29日 12:30 ～ 17:00】シーズン更新や各種施策開催などに伴うメンテナンスのお知らせ【7/29 17:00追記】",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/07/22 12:00 掲載）",
+    "告知に記載のメンテナンス期間「2026/7/29 12:30 ~ 17:00」",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「【7月29日 12:30 ～ 17:00】シーズン更新や各種施策開催などに伴うメンテナンスのお知らせ【7/29 17:00追記】」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01KXDHBBSDEYTSG9Q77PYWHZDP"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-07-29T12:30+09:00",
+   "end": "2026-07-29T17:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 シーズン更新や各種施策開催などのため、下記の時間帯にメンテナンスを実施いたします。 メンテナンス期間 2026/7/29 12:30 ~ 17:00 【7/29…"
   },
   {
    "id": "steam-3576070-670624220718301363",
@@ -1703,6 +1962,29 @@
    "source_key": "steam:3576070",
    "start": "2026-07-31T13:09+09:00",
    "excerpt": "Hello, everyone. This is Sudden Attack Zero Point. Since the start of Early Access, we've received a wide range of feedback requesting the …"
+  },
+  {
+   "id": "svwb-01KYS3ZC46VXSTY3R5SR0M5PBW",
+   "game": "SVWB",
+   "kind": "patch",
+   "title": "Ver.1.8.11の公開について",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/07/31 16:30 掲載）",
+    "アプリ本体の新しいバージョンの公開（ストア・Steam での更新）",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「Ver.1.8.11の公開について」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01KYS3ZC46VXSTY3R5SR0M5PBW"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-07-31T16:30+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 不具合修正のため、Ver.1.8.11を公開いたしました。 本バージョンへの強制アップデート予定はございません。 アップデート内容 下記の不具合を修正しました。…"
   },
   {
    "id": "steam-3576070-670624220718302744",
@@ -2146,6 +2428,30 @@
    "excerpt": "こんにちは。サドンアタック：ゼロポイントです。本日の定期メンテナンスで適用されたアップデート内容をお知らせいたします。詳細は以下のパッチノートをご確認ください。パッチノート▣ 一般アップデート欧州サーバーの追加マッチング通知機能の追加マッチング成立時、タスクバーのアプリアイコン…"
   },
   {
+   "id": "svwb-01KZN57DQ2B5C4GA2SS9C8A9HV",
+   "game": "SVWB",
+   "kind": "patch",
+   "title": "アップデートのお知らせ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/08/13 15:30 掲載）",
+    "告知に記載のアップデート日時「2026/8/13 15:00」",
+    "公式告知に「データのダウンロードが行われます」などダウンロードの記載あり",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「アップデートのお知らせ」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01KZN57DQ2B5C4GA2SS9C8A9HV"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-08-13T15:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 不具合修正のため、2026/8/13 15:00頃にアップデートを行いました。 アップデート後は通信を行うとタイトル画面に戻り、データのダウンロードが行われます…"
+  },
+  {
    "id": "ow-patch-2026-08-14",
    "game": "OW",
    "kind": "patch",
@@ -2412,14 +2718,21 @@
    "title": "Revenants of Azvaldt / アズヴォルト・レヴナント カードパック第9弾発売",
    "all_day": false,
    "dl": "likely",
-   "status": "announced",
+   "status": "confirmed",
    "basis": [
-    "Steamのお知らせ（種類: ニュース）"
+    "Steamのお知らせ（種類: ニュース）",
+    "関連する告知:「【8月27日 14:00 ～ 17:00】新カードパック追加などの更新に伴うメンテナンスのお知らせ【8/27 17:00追記】」",
+    "告知に記載のメンテナンス期間「2026/8/27 14:00 ~ 17:00」",
+    "公式告知で実施済み（終了・公開）を確認"
    ],
    "sources": [
     {
      "label": "Steamのお知らせ「Revenants of Azvaldt / アズヴォルト・レヴナント カード…」",
      "url": "https://store.steampowered.com/news/app/2584990/view/707781454544765172"
+    },
+    {
+     "label": "シャドバ公式サイト「【8月27日 14:00 ～ 17:00】新カードパック追加などの更新に伴うメンテナンスのお知らせ【8/27 17:00追記】」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01KZZTYCGZWR8FF4F34J3EC8VJ"
     }
    ],
    "source_key": "steam:2584990",
@@ -2490,6 +2803,29 @@
    "excerpt": "Dear Proxies,The Zenless Zone Zero Version 3.2 \"Their Secret Histories\" Special Program will begin on August 28 at 19:30 (UTC+8)!The master…"
   },
   {
+   "id": "svwb-01M0Y7J52DNESBJ3TH3W5MHZ6K",
+   "game": "SVWB",
+   "kind": "patch",
+   "title": "Ver.1.9.1の公開について",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/09/01 15:30 掲載）",
+    "アプリ本体の新しいバージョンの公開（ストア・Steam での更新）",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「Ver.1.9.1の公開について」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01M0Y7J52DNESBJ3TH3W5MHZ6K"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-09-01T15:30+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 不具合の修正のため、Ver.1.9.1を公開いたしました。 本バージョンへの強制アップデート予定はございません。 アップデート内容 下記の不具合を修正しました。…"
+  },
+  {
    "id": "nikke-06e68bb7a6adfa4784a9840ad9264983847f",
    "game": "NIKKE",
    "kind": "patch",
@@ -2537,6 +2873,30 @@
    "start": "2026-09-03T17:55+09:00"
   },
   {
+   "id": "svwb-01M1KC452NYT4E828GF7ZNFM7Y",
+   "game": "SVWB",
+   "kind": "patch",
+   "title": "アップデートのお知らせ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/09/04 14:30 掲載）",
+    "告知に記載のアップデート日時「2026/9/4 14:30」",
+    "公式告知に「データのダウンロードが行われます」などダウンロードの記載あり",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「アップデートのお知らせ」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01M1KC452NYT4E828GF7ZNFM7Y"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-09-04T14:30+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 不具合修正のため、2026/9/4 14:30頃にアップデートを行いました。 アップデート後は通信を行うとタイトル画面に戻り、データのダウンロードが行われます。…"
+  },
+  {
    "id": "nikke-cb353d52a90d5a48a9a9deeac1f1e37ee186",
    "game": "NIKKE",
    "kind": "news",
@@ -2555,6 +2915,33 @@
    ],
    "source_key": "nikke",
    "start": "2026-09-04T17:55+09:00"
+  },
+  {
+   "id": "hoyo-ZZZ-pre3.2",
+   "game": "ZZZ",
+   "kind": "pre",
+   "title": "Ver.3.2 事前ダウンロード",
+   "all_day": false,
+   "dl": "yes",
+   "status": "announced",
+   "basis": [
+    "公式告知: 事前ダウンロード開始 2026/09/07 13:00 (JST)",
+    "公式告知: 事前ダウンロードの終了 2026/09/09 06:50"
+   ],
+   "sources": [
+    {
+     "label": "HoYoLAB「Ver.3.2「秘密と、過去と、彼女たちと」事前ダウンロード開始＆アップデートのお知らせ」",
+     "url": "https://www.hoyolab.com/article/46604333"
+    },
+    {
+     "label": "HoYoLAB「Ver.3.2「秘密と、過去と、彼女たちと」アップデート詳細」",
+     "url": "https://www.hoyolab.com/article/46622788"
+    }
+   ],
+   "source_key": "hoyoverse:U5hbdsT9W7",
+   "start": "2026-09-07T13:00+09:00",
+   "end": "2026-09-09T06:50+09:00",
+   "size": "約6GB（公式告知・PC）"
   },
   {
    "id": "ow-patch-2026-09-08",
@@ -2721,6 +3108,30 @@
    "source_key": "steam:3576070",
    "start": "2026-09-15T14:16+09:00",
    "excerpt": "こんにちは。「サドンアタック：ゼロポイント」です。こんにちは。「サドンアタック：ゼロポイント」です。 いつも『サドンアタック：ゼロポイント』をご利用いただき、誠にありがとうございます。 現在、ゲーム内において以下の不具合・問題を確認しております。 プレイヤーの皆様にはご不便・ご…"
+  },
+  {
+   "id": "svwb-01M1JM6QWPGX3ZKZMSYSG8BK7S",
+   "game": "SVWB",
+   "kind": "maint",
+   "title": "【9月15日 15:00 ～ 17:00】シャドババトルフェス開催の準備に伴うメンテナンスのお知らせ【9/15 21:00追記】",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/09/08 12:00 掲載）",
+    "告知に記載のメンテナンス期間「2026/9/15 15:00 ~ 17:00」",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「【9月15日 15:00 ～ 17:00】シャドババトルフェス開催の準備に伴うメンテナンスのお知らせ【9/15 21:00追記】」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01M1JM6QWPGX3ZKZMSYSG8BK7S"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-09-15T15:00+09:00",
+   "end": "2026-09-15T17:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 シャドババトルフェス開催の準備のため、下記の時間帯にメンテナンスを実施いたします。 メンテナンス期間 2026/9/15 15:00 ~ 17:00 【9/15…"
   },
   {
    "id": "steam-2584990-713412222387225565",
@@ -2902,6 +3313,31 @@
    "excerpt": "ホットフィックスのおしらせ こちらはホットフィックスのアップデートです。2026年9月9日分のパッチ導入後のリプレイ・コードはまだ利用可能です。 ヒーローのアップデート D.Mon アーマーが325から275に減少(5v5) アーマーが300から250に減少(6v6) ヘビー・…"
   },
   {
+   "id": "svwb-01M2MFJZ4JR399S3400V15EW3N",
+   "game": "SVWB",
+   "kind": "maint",
+   "title": "パークメンテナンスとアップデートのお知らせ【9/18 12:00追記】",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/09/17 15:00 掲載）",
+    "告知に記載のメンテナンス期間「2026/9/18 11:30 ~ 12:00」",
+    "公式告知に「データのダウンロードが行われます」などダウンロードの記載あり",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「パークメンテナンスとアップデートのお知らせ【9/18 12:00追記】」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01M2MFJZ4JR399S3400V15EW3N"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-09-18T11:30+09:00",
+   "end": "2026-09-18T12:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 不具合修正のため、下記の時間帯にパークメンテナンスとアップデートを実施いたします。 パークメンテナンス期間 2026/9/18 11:30 ~ 12:00 【9…"
+  },
+  {
    "id": "hoyo-GI-pre7.1",
    "game": "GI",
    "kind": "pre",
@@ -2920,6 +3356,10 @@
     {
      "label": "HoYoLAB「Ver.7.1「冥府へのレクイエム」正式リリース」",
      "url": "https://www.hoyolab.com/article/46791577"
+    },
+    {
+     "label": "HoYoLAB「【原神】Ver.7.1「冥府へのレクイエム」イベントまとめ」",
+     "url": "https://www.hoyolab.com/article/46661216"
     }
    ],
    "source_key": "hoyoverse:gopR6Cufr3",
@@ -3043,6 +3483,10 @@
     {
      "label": "HoYoLAB「Ver.7.1「冥府へのレクイエム」正式リリース」",
      "url": "https://www.hoyolab.com/article/46791577"
+    },
+    {
+     "label": "HoYoLAB「【原神】Ver.7.1「冥府へのレクイエム」イベントまとめ」",
+     "url": "https://www.hoyolab.com/article/46661216"
     }
    ],
    "source_key": "hoyoverse:gopR6Cufr3",
@@ -3129,6 +3573,30 @@
    "excerpt": "親愛なる開拓者様へ Ver.4.6の事前ダウンロードは2026/09/24 15:00 (JST)に開始いたします。開拓者の皆様は、事前に一部リソースをダウンロードしていただくと、バージョンアップメンテナンス終了後、より早くゲームにログインできます。 また、列車運営チームは20…"
   },
   {
+   "id": "svwb-01M2EZ5KS4F3A6C0TD5M57VV8F",
+   "game": "SVWB",
+   "kind": "maint",
+   "title": "【9月29日 14:00 ～ 17:00】シーズン更新や各種施策開催などに伴うメンテナンスのお知らせ【9/29 17:00追記】",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/09/21 19:00 掲載）",
+    "告知に記載のメンテナンス期間「2026/9/29 14:00 ~ 17:00」",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「【9月29日 14:00 ～ 17:00】シーズン更新や各種施策開催などに伴うメンテナンスのお知らせ【9/29 17:00追記】」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01M2EZ5KS4F3A6C0TD5M57VV8F"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-09-29T14:00+09:00",
+   "end": "2026-09-29T17:00+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 シーズン更新や各種施策開催などのため、下記の時間帯にメンテナンスを実施いたします。 メンテナンス期間 2026/9/29 14:00 ~ 17:00 【9/29…"
+  },
+  {
    "id": "steam-2584990-705532193278002902",
    "game": "SVWB",
    "kind": "event",
@@ -3203,24 +3671,39 @@
    "start": "2026-10-02T08:18+09:00"
   },
   {
-   "id": "steambuild-2584990-25618210",
+   "id": "svwb-01M3V5S454W1N2AFWSZFMRFJX0",
    "game": "SVWB",
    "kind": "patch",
-   "title": "クライアント更新",
+   "title": "アップデートのお知らせ",
    "all_day": false,
    "dl": "yes",
    "status": "confirmed",
    "basis": [
+    "シャドバ公式サイトのお知らせ（2026/10/02 11:40 掲載）",
+    "告知に記載のアップデート日時「2026/10/2 11:30」",
+    "公式告知に「データのダウンロードが行われます」などダウンロードの記載あり",
+    "公式告知で実施済み（終了・公開）を確認",
+    "関連する告知:「Ver.1.9.11の公開について」",
+    "アプリ本体の新しいバージョンの公開（ストア・Steam での更新）",
     "Steam の公開ビルドが更新されました（ビルドID 25618210、2026/10/02 11:35）"
    ],
    "sources": [
+    {
+     "label": "シャドバ公式サイト「アップデートのお知らせ」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01M3V5S454W1N2AFWSZFMRFJX0"
+    },
+    {
+     "label": "シャドバ公式サイト「Ver.1.9.11の公開について」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01M3RVABBCEGWDHAGQJJAAN812"
+    },
     {
      "label": "Steam ストアページ",
      "url": "https://store.steampowered.com/app/2584990/"
     }
    ],
-   "source_key": "steambuild",
-   "start": "2026-10-02T11:35+09:00"
+   "source_key": "shadowverse_wb",
+   "start": "2026-10-02T11:35+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 不具合修正のため、2026/10/2 11:30頃にアップデートを行いました。 アップデート後は通信を行うとタイトル画面に戻り、データのダウンロードが行われます…"
   },
   {
    "id": "lol-26-20",
@@ -3396,7 +3879,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "steam:3576070",
@@ -3406,7 +3889,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "steam:2357570",
@@ -3416,7 +3899,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "steam:1778820",
@@ -3426,7 +3909,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "steam:1364780",
@@ -3436,7 +3919,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "steam:570",
@@ -3446,7 +3929,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "steam:2584990",
@@ -3456,7 +3939,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "steam:4162040",
@@ -3466,7 +3949,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "blizzard_ow",
@@ -3476,7 +3959,17 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
+  },
+  {
+   "key": "shadowverse_wb",
+   "label": "シャドバ公式サイトのお知らせ",
+   "games": [
+    "SVWB"
+   ],
+   "ok": true,
+   "message": "",
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "hoyoplay",
@@ -3488,7 +3981,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -3498,7 +3991,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -3508,7 +4001,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -3518,7 +4011,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "lol",
@@ -3528,7 +4021,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   },
   {
    "key": "nikke",
@@ -3538,7 +4031,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-03T14:57+09:00"
+   "last_success": "2026-10-03T15:20+09:00"
   }
  ]
 }
