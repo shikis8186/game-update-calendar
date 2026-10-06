@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T06:32+09:00",
+ "generated_at": "2026-10-06T18:32+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -140,33 +140,6 @@
    "excerpt": "Shion Hero TrailerTime to find out who the streets of Tokyo really belong to. Join Shion, our newest Hero and the Hashimoto Clan's most ter…"
   },
   {
-   "id": "nikke-cac59a0cad1e2a4b71abf34a06361675676e",
-   "game": "NIKKE",
-   "kind": "patch",
-   "title": "6月11日のアップデートについて（6月11日更新）",
-   "all_day": true,
-   "dl": "yes",
-   "status": "confirmed",
-   "basis": [
-    "NIKKE 公式サイトのお知らせ（2026/06/08 掲載）",
-    "公式告知に「ゲームクライアントがアップデートされる」旨の記載あり",
-    "公式告知でメンテナンス終了（実施済み）を確認"
-   ],
-   "sources": [
-    {
-     "label": "NIKKE 公式サイト「6月11日のアップデートについて（6月11日更新）」",
-     "url": "https://nikke-jp.com/newsdetail.html?content_id=cac59a0cad1e2a4b71abf34a06361675676e"
-    },
-    {
-     "label": "NIKKE 公式サイト「6月11日のアップデートによる改善事項」",
-     "url": "https://nikke-jp.com/newsdetail.html?content_id=805fcfe2ae93ea4d68ab9bda1114082a92bf"
-    }
-   ],
-   "source_key": "nikke",
-   "start": "2026-06-11",
-   "excerpt": "親愛なる指揮官様 アップデートのメンテナンスが終了し、サーバー再開されました。ゲームにログインしていただけます。この度のメンテナンス補償をゲーム中のメールに配布いたしました。お受け取りください。 今回のアップデートではゲームクライアントがアップデートされるため、ストアから最新バ…"
-  },
-  {
    "id": "nikke-540c412bab4cda40b6aa3a9a04a332576f53",
    "game": "NIKKE",
    "kind": "news",
@@ -206,6 +179,26 @@
    "source_key": "steam:1364780",
    "start": "2026-06-11T15:36+09:00",
    "excerpt": "🎊全世界販売700万本突破🎊 スト6 の販売本数が全世界で700万本を突破しました✨ 皆様のおかげです。本当にありがとうございます🙏 3周年を迎えたばかりですが、Year4も鋭意制作中ですので 今後も楽しんでいただけると嬉しいです。 引き続きスト6をよろしくお願いいたします🤟"
+  },
+  {
+   "id": "nikke-805fcfe2ae93ea4d68ab9bda1114082a92bf",
+   "game": "NIKKE",
+   "kind": "news",
+   "title": "6月11日のアップデートによる改善事項",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "announced",
+   "basis": [
+    "NIKKE 公式サイトのお知らせ"
+   ],
+   "sources": [
+    {
+     "label": "NIKKE 公式サイト「6月11日のアップデートによる改善事項」",
+     "url": "https://nikke-jp.com/newsdetail.html?content_id=805fcfe2ae93ea4d68ab9bda1114082a92bf"
+    }
+   ],
+   "source_key": "nikke",
+   "start": "2026-06-11T21:02+09:00"
   },
   {
    "id": "nikke-462209b7ab63fa449ba87e0a22c151762a91",
@@ -3866,6 +3859,29 @@
    "excerpt": "親愛なる指揮官様 『勝利の女神:NIKKE』はアップデートのため、2026年10月8日にメンテナンスを実施する予定です。メンテナンス中はゲームに接続できませんので、ご迷惑をおかけいたしますが、ご理解ご協力のほどよろしくお願いいたします。 メンテナンスの予定時間:2026年10月…"
   },
   {
+   "id": "steam-3576070-687518426922485903",
+   "game": "SAZP",
+   "kind": "maint",
+   "title": "[Upcoming] 10/08 定期メンテナンスのお知らせ (JST 14:00 - 16:00)",
+   "all_day": false,
+   "dl": "unknown",
+   "status": "scheduled",
+   "basis": [
+    "Steamのお知らせ（種類: ニュース）",
+    "告知タイトルに記載の日付「10/08 (JST 14:00 - 16:00)」"
+   ],
+   "sources": [
+    {
+     "label": "Steamのお知らせ「[Upcoming] 10/08 定期メンテナンスのお知らせ (JST 14:…」",
+     "url": "https://store.steampowered.com/news/app/3576070/view/687518426922485903"
+    }
+   ],
+   "source_key": "steam:3576070",
+   "start": "2026-10-08T14:00+09:00",
+   "end": "2026-10-08T16:00+09:00",
+   "excerpt": "こんにちは。「サドンアタック：ゼロポイント」です。「サドンアタック：ゼロポイント」では以下の日程にて定期メンテナンスを実施いたします。メンテナンス中はゲームをご利用いただけません。メンテナンス期間10/8(木) 14:00 ～ 16:00 (JST)メンテナンス期間は状況により…"
+  },
+  {
    "id": "steam-1364780-676256891013169832",
    "game": "SF6",
    "kind": "major",
@@ -3995,7 +4011,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "steam:3576070",
@@ -4005,7 +4021,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "steam:2357570",
@@ -4015,7 +4031,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "steam:1778820",
@@ -4025,7 +4041,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "steam:1364780",
@@ -4035,7 +4051,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "steam:570",
@@ -4045,7 +4061,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "steam:2584990",
@@ -4055,7 +4071,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "steam:4162040",
@@ -4065,7 +4081,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "blizzard_ow",
@@ -4075,7 +4091,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "shadowverse_wb",
@@ -4085,7 +4101,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "tekken8",
@@ -4095,7 +4111,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "sf6_official",
@@ -4105,7 +4121,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "hoyoplay",
@@ -4117,7 +4133,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -4127,7 +4143,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -4137,7 +4153,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -4147,7 +4163,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "lol",
@@ -4157,7 +4173,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   },
   {
    "key": "nikke",
@@ -4167,7 +4183,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-06T06:32+09:00"
+   "last_success": "2026-10-06T18:32+09:00"
   }
  ]
 }
