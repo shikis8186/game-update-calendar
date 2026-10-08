@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T15:38+09:00",
+ "generated_at": "2026-10-08T18:32+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -3869,7 +3869,7 @@
    "status": "confirmed",
    "basis": [
     "Steamのお知らせ（種類: ニュース）",
-    "関連する告知:「[Upcoming] 10/08 定期メンテナンスのお知らせ (JST 14:00 - 16:00)」",
+    "関連する告知:「[Completed] 10/08 定期メンテナンスのお知らせ (JST 14:00 - 16:00)」",
     "告知タイトルに記載の日付「10/08 (JST 14:00 - 16:00)」",
     "Steam の公開ビルドが更新されました（ビルドID 25796778、2026/10/08 15:19）"
    ],
@@ -3879,7 +3879,7 @@
      "url": "https://store.steampowered.com/news/app/3576070/view/687519061335081683"
     },
     {
-     "label": "Steamのお知らせ「[Upcoming] 10/08 定期メンテナンスのお知らせ (JST 14:…」",
+     "label": "Steamのお知らせ「[Completed] 10/08 定期メンテナンスのお知らせ (JST 14…」",
      "url": "https://store.steampowered.com/news/app/3576070/view/687518426922485903"
     },
     {
@@ -4022,7 +4022,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "steam:3576070",
@@ -4032,7 +4032,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "steam:2357570",
@@ -4042,7 +4042,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "steam:1778820",
@@ -4052,7 +4052,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "steam:1364780",
@@ -4062,7 +4062,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "steam:570",
@@ -4072,7 +4072,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "steam:2584990",
@@ -4082,7 +4082,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "steam:4162040",
@@ -4092,7 +4092,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "blizzard_ow",
@@ -4102,7 +4102,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "shadowverse_wb",
@@ -4112,7 +4112,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "tekken8",
@@ -4122,7 +4122,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "sf6_official",
@@ -4132,7 +4132,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "hoyoplay",
@@ -4144,7 +4144,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -4154,7 +4154,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -4164,7 +4164,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -4174,7 +4174,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "lol",
@@ -4184,7 +4184,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   },
   {
    "key": "nikke",
@@ -4194,7 +4194,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-08T15:38+09:00"
+   "last_success": "2026-10-08T18:32+09:00"
   }
  ]
 }
