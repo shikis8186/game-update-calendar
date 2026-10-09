@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T21:36+09:00",
+ "generated_at": "2026-10-10T03:33+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -2065,26 +2065,20 @@
    "note": "日付は Riot 公式の予定日（米国太平洋時間）です。日本サーバーへの配信時刻は公式に告知されません。"
   },
   {
-   "id": "ow-season4",
+   "id": "ow-patch-2026-08-11",
    "game": "OW",
    "kind": "major",
-   "title": "シーズン4開幕",
+   "title": "[オーバーウォッチ ] 2026年8月12日配信パッチ内容のおしらせ",
    "all_day": true,
    "dl": "likely",
    "status": "announced",
    "basis": [
-    "Blizzard 公式ニュース「ディレクターの視点：生まれ変わるバトルパス」に「8月12日に開幕するシーズン4で、かねてからコミュニティで多くの声が挙がっていた「バトルパスのリニューアル」を行います!」と記載",
-    "新シーズンの開幕（大型アップデート）",
-    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します",
-    "関連する告知:「[オーバーウォッチ ] 2026年8月12日配信パッチ内容のおしらせ」",
+    "Blizzard 公式パッチノート（2026/08/11 掲載）のタイトルに記載の配信日",
     "新シーズンの開始を含むパッチ:「帝国の覇者 - シーズン4「釜山の英雄たち」」",
+    "ダウンロードの有無は、配信後に Steam のビルド更新で確定します",
     "関連する告知:「Overwatch Reign of Talon - Season 4: Heroes of Busan Now Live!」"
    ],
    "sources": [
-    {
-     "label": "Blizzard 公式ニュース「ディレクターの視点：生まれ変わるバトルパス」",
-     "url": "https://overwatch.blizzard.com/ja-jp/news/24296053/%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E8%A6%96%E7%82%B9%EF%BC%9A%E7%94%9F%E3%81%BE%E3%82%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%90%E3%83%88%E3%83%AB%E3%83%91%E3%82%B9"
-    },
     {
      "label": "Blizzard 公式パッチノート「[オーバーウォッチ ] 2026年8月12日配信パッチ内容のおしらせ」",
      "url": "https://overwatch.blizzard.com/ja-jp/news/patch-notes/live/2026/08/#patch-2026-08-11"
@@ -4012,7 +4006,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "steam:3576070",
@@ -4022,7 +4016,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "steam:2357570",
@@ -4032,7 +4026,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "steam:1778820",
@@ -4042,7 +4036,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "steam:1364780",
@@ -4052,7 +4046,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "steam:570",
@@ -4062,7 +4056,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "steam:2584990",
@@ -4072,7 +4066,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "steam:4162040",
@@ -4082,7 +4076,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "blizzard_ow",
@@ -4092,7 +4086,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "shadowverse_wb",
@@ -4102,7 +4096,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "tekken8",
@@ -4112,7 +4106,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "sf6_official",
@@ -4122,7 +4116,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "hoyoplay",
@@ -4134,7 +4128,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -4144,7 +4138,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -4154,7 +4148,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -4164,7 +4158,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "lol",
@@ -4174,7 +4168,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   },
   {
    "key": "nikke",
@@ -4184,7 +4178,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T21:36+09:00"
+   "last_success": "2026-10-10T03:33+09:00"
   }
  ]
 }
