@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T09:43+09:00",
+ "generated_at": "2026-10-09T12:32+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -3913,6 +3913,30 @@
    "start": "2026-10-09T09:37+09:00"
   },
   {
+   "id": "svwb-01M48BXH2YYN9JM3AGGEXXAGK2",
+   "game": "SVWB",
+   "kind": "patch",
+   "title": "アップデートのお知らせ",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "シャドバ公式サイトのお知らせ（2026/10/09 10:30 掲載）",
+    "告知に記載のアップデート日時「2026/10/9 10:30」",
+    "公式告知に「データのダウンロードが行われます」などダウンロードの記載あり",
+    "公式告知で実施済み（終了・公開）を確認"
+   ],
+   "sources": [
+    {
+     "label": "シャドバ公式サイト「アップデートのお知らせ」",
+     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01M48BXH2YYN9JM3AGGEXXAGK2"
+    }
+   ],
+   "source_key": "shadowverse_wb",
+   "start": "2026-10-09T10:30+09:00",
+   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 2026/10/9 10:30頃にアップデートを行いました。 アップデート後は通信を行うとタイトル画面へ戻り、データのダウンロードが行われます。 アップデート内…"
+  },
+  {
    "id": "steam-4162040-667252863011914640",
    "game": "ZZZ",
    "kind": "event",
@@ -3944,7 +3968,10 @@
    "status": "scheduled",
    "basis": [
     "Steamのお知らせ（種類: ニュース）",
-    "告知タイトルに記載の日付「10月13日」"
+    "告知タイトルに記載の日付「10月13日」",
+    "関連する告知:「メンテナンスのお知らせ（10月13日 11:00〜16:00）」",
+    "告知に記載のメンテナンス日時「JST 2026年10月13日(火) 11:00〜16:00」",
+    "ダウンロードの有無は Steam のゲーム本体の更新で判定します（SF6 はサーバー側だけの更新もあるため）"
    ],
    "sources": [
     {
@@ -3954,6 +3981,10 @@
     {
      "label": "Steamのお知らせ「Year 4追加キャラクター第2弾「アルジュン」が2026年10月13日に参戦！」",
      "url": "https://store.steampowered.com/news/app/1364780/view/676256891013171551"
+    },
+    {
+     "label": "SF6 公式「メンテナンスのお知らせ」",
+     "url": "https://www.streetfighter.com/6/buckler/ja-jp/information/detail/mainte20261013"
     }
    ],
    "source_key": "steam:1364780",
@@ -4064,7 +4095,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "steam:3576070",
@@ -4074,7 +4105,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "steam:2357570",
@@ -4084,7 +4115,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "steam:1778820",
@@ -4094,7 +4125,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "steam:1364780",
@@ -4104,7 +4135,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "steam:570",
@@ -4114,7 +4145,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "steam:2584990",
@@ -4124,7 +4155,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "steam:4162040",
@@ -4134,7 +4165,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "blizzard_ow",
@@ -4144,7 +4175,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "shadowverse_wb",
@@ -4154,7 +4185,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "tekken8",
@@ -4164,7 +4195,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "sf6_official",
@@ -4174,7 +4205,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "hoyoplay",
@@ -4186,7 +4217,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -4196,7 +4227,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -4206,7 +4237,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -4216,7 +4247,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "lol",
@@ -4226,7 +4257,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   },
   {
    "key": "nikke",
@@ -4236,7 +4267,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-09T09:43+09:00"
+   "last_success": "2026-10-09T12:32+09:00"
   }
  ]
 }
