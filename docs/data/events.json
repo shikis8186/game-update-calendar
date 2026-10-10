@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T03:33+09:00",
+ "generated_at": "2026-10-10T12:31+09:00",
  "games": [
   {
    "id": "SAZP",
@@ -946,30 +946,6 @@
    "source_key": "steam:2357570",
    "start": "2026-07-10T03:00+09:00",
    "excerpt": "Junkrat's Loot Hunt Junkrat’s Loot Hunt turns the July 10 - 13 weekend into a reward-fueled blast. Every match you play pushes you closer t…"
-  },
-  {
-   "id": "svwb-01KX2YM3YDHWX3T60VC8JQ4QTK",
-   "game": "SVWB",
-   "kind": "patch",
-   "title": "アップデートのお知らせ",
-   "all_day": false,
-   "dl": "yes",
-   "status": "confirmed",
-   "basis": [
-    "シャドバ公式サイトのお知らせ（2026/07/10 11:30 掲載）",
-    "告知に記載のアップデート日時「2026/7/10 11:30」",
-    "公式告知に「データのダウンロードが行われます」などダウンロードの記載あり",
-    "公式告知で実施済み（終了・公開）を確認"
-   ],
-   "sources": [
-    {
-     "label": "シャドバ公式サイト「アップデートのお知らせ」",
-     "url": "https://shadowverse-wb.com/ja/news/detail/?id=01KX2YM3YDHWX3T60VC8JQ4QTK"
-    }
-   ],
-   "source_key": "shadowverse_wb",
-   "start": "2026-07-10T11:30+09:00",
-   "excerpt": "いつもご利用いただきありがとうございます。 「Shadowverse: Worlds Beyond」運営事務局です。 次回の施策開催準備のため、2026/7/10 11:30頃にアップデートを行いました。 アップデート後は通信を行うとタイトル画面に戻り、データのダウンロードが行…"
   },
   {
    "id": "steam-3576070-716784395910905871",
@@ -3870,6 +3846,26 @@
    "excerpt": "Dear Proxies, The Zenless Zone Zero Version 3.3 \"Journey to the Sky\" Special Program will begin on October 9 at 19:30 (UTC+8)! How will Pho…"
   },
   {
+   "id": "steambuild-570-25842054",
+   "game": "DOTA",
+   "kind": "patch",
+   "title": "クライアント更新",
+   "all_day": false,
+   "dl": "yes",
+   "status": "confirmed",
+   "basis": [
+    "Steam の公開ビルドが更新されました（ビルドID 25842054、2026/10/10 09:44）"
+   ],
+   "sources": [
+    {
+     "label": "Steam ストアページ",
+     "url": "https://store.steampowered.com/app/570/"
+    }
+   ],
+   "source_key": "steambuild",
+   "start": "2026-10-10T09:44+09:00"
+  },
+  {
    "id": "steam-1364780-676256891013169832",
    "game": "SF6",
    "kind": "major",
@@ -4006,7 +4002,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "steam:3576070",
@@ -4016,7 +4012,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "steam:2357570",
@@ -4026,7 +4022,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "steam:1778820",
@@ -4036,7 +4032,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "steam:1364780",
@@ -4046,7 +4042,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "steam:570",
@@ -4056,7 +4052,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "steam:2584990",
@@ -4066,7 +4062,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "steam:4162040",
@@ -4076,7 +4072,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "blizzard_ow",
@@ -4086,7 +4082,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "shadowverse_wb",
@@ -4096,7 +4092,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "tekken8",
@@ -4106,7 +4102,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "sf6_official",
@@ -4116,7 +4112,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "hoyoplay",
@@ -4128,7 +4124,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "hoyoverse:gopR6Cufr3",
@@ -4138,7 +4134,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "hoyoverse:4ziysqXOQ8",
@@ -4148,7 +4144,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "hoyoverse:U5hbdsT9W7",
@@ -4158,7 +4154,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "lol",
@@ -4168,7 +4164,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   },
   {
    "key": "nikke",
@@ -4178,7 +4174,7 @@
    ],
    "ok": true,
    "message": "",
-   "last_success": "2026-10-10T03:33+09:00"
+   "last_success": "2026-10-10T12:31+09:00"
   }
  ]
 }
